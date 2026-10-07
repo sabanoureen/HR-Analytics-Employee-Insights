@@ -1,0 +1,1516 @@
+Employee_ID,Name,Age,Gender,Department,Job_Title,Salary,Years_Experience,Join_Date,City,Performance_Score,Satisfaction_Score,Overtime,Remote_Work,Projects_Completed,Training_Hours,Leave_Days,Promotion,Attrition
+E10674,Employee_674,43.0,Male,Operations,Coordinator,150100.0,13.9,2024-04-21,Peshawar,4.0,3.0,No,Yes,4,33,8,Yes,No
+E10204,Employee_204,,Female,Finance,Finance Manager,142800.0,9.0,2021-07-31,Rawalpindi,3.0,3.0,No,No,7,12,9,No,Yes
+E10308,Employee_308,41.0,Male,IT,Software Engineer,,10.1,2017-06-09,Peshawar,5.0,2.0,No,No,6,31,12,Yes,No
+E11333,Employee_1333,35.0,Male,IT,IT Support Specialist,130000.0,8.9,2019-11-14,Islamabad,3.0,4.0,No,No,9,20,16,No,No
+E10492,Employee_492,22.0,Female,IT,Data Analyst,35000.0,0.0,2023-01-16,Islamabad,2.0,3.0,No,Yes,5,39,12,No,No
+E10142,Employee_142,28.0,Male,Operations,Operations Analyst,96800.0,4.0,2021-02-07,Karachi,4.0,2.0,No,Yes,5,7,15,No,No
+E10723,Employee_723,36.0,Male,IT,Data Analyst,111100.0,6.5,2022-07-23,Lahore,4.0,4.0,No,Yes,4,15,2,No,No
+E10305,Employee_305,29.0,Female,Sales,Sales Manager,53500.0,4.6,2022-08-23,Multan,4.0,2.0,Yes,No,5,12,7,No,No
+E10457,Employee_457,33.0,Male,Marketing,Marketing Specialist,110300.0,8.0,2023-06-10,Karachi,1.0,4.0,No,Yes,9,27,8,No,No
+E11395,Employee_1395,26.0,Male,IT,Data Analyst,67000.0,2.1,2023-11-17,Rawalpindi,4.0,5.0,No,No,2,49,15,No,No
+E10529,Employee_529,36.0,Male,Sales,Sales Executive,98400.0,9.2,2021-06-12,Peshawar,2.0,3.0,Yes,Yes,9,4,18,No,No
+E10821,Employee_821,26.0,Female,Customer Support,Support Representative,70500.0,2.5,2024-03-16,Lahore,4.0,3.0,No,Yes,4,35,15,No,Yes
+E10390,Employee_390,,Female,Customer Support,Support Representative,146500.0,9.3,2020-02-16,Peshawar,,4.0,Yes,No,1,18,9,No,No
+E10997,Employee_997,32.0,Female,Finance,Financial Analyst,113300.0,5.8,2022-06-01,Lahore,4.0,3.0,Yes,No,8,20,16,Yes,No
+E10658,Employee_658,22.0,Male,Sales,Sales Manager,35000.0,0.0,2022-06-29,Lahore,4.0,4.0,No,No,2,43,8,No,No
+E10043,Employee_43,22.0,Male,Finance,Accountant,78400.0,0.0,2023-09-27,Peshawar,3.0,3.0,No,Yes,4,26,19,No,No
+E10087,Employee_87,33.0,Female,Operations,Coordinator,108800.0,8.1,2025-02-16,Karachi,4.0,3.0,No,Yes,1,40,6,Yes,No
+E10819,Employee_819,33.0,Male,HR,HR Manager,82800.0,5.9,2019-07-24,Rawalpindi,,5.0,Yes,No,6,36,1,No,No
+E10828,Employee_828,30.0,Male,IT,IT Manager,unknown,5.8,2025-05-25,Karachi,3.0,2.0,No,Yes,6,34,10,No,No
+E10234,Employee_234,44.0,Male,HR,Recruiter,156800.0,14.1,2023-10-10,Multan,3.0,4.0,Yes,Yes,8,0,3,No,No
+E11231,Employee_1231,51.0,Female,Operations,Operations Manager,217000.0,21.1,2020-02-08,Karachi,4.0,5.0,Yes,Yes,5,44,11,Yes,No
+E10854,Employee_854,44.0,Female,Customer Support,Support Manager,165700.0,14.4,2019-11-17,Lahore,3.0,1.0,No,Yes,8,34,13,No,No
+E11048,Employee_1048,46.0,Male,HR,Recruiter,191600.0,17.2,2018-07-23,Karachi,4.0,3.0,No,Yes,6,40,6,No,No
+E10548,Employee_548,48.0,Female,Operations,Operations Manager,174800.0,17.3,2019-06-25,Lahore,3.0,4.0,No,Yes,0,27,11,No,No
+E10676,Employee_676,31.0,Female,Operations,Coordinator,100700.0,6.0,2019-12-31,Rawalpindi,4.0,1.0,Yes,No,8,28,16,Yes,No
+E10638,Employee_638,35.0,Male,Operations,Operations Analyst,130900.0,8.4,2024-10-09,Lahore,2.0,,No,No,5,6,18,No,No
+E11010,Employee_1010,26.0,Male,Customer Support,Support Specialist,66500.0,2.5,2024-07-01,Multan,3.0,3.0,No,No,3,28,8,No,No
+E11149,Employee_1149,33.0,Female,HR,HR Manager,77700.0,7.0,2024-04-27,Karachi,3.0,2.0,Yes,Yes,10,50,17,No,No
+E11470,Employee_1470,,Female,Finance,Financial Analyst,99900.0,1.8,2019-10-29,Lahore,3.0,4.0,No,No,6,43,13,No,No
+E10938,Employee_938,32.0,Female,Sales,Sales Manager,113700.0,6.0,2018-05-16,Rawalpindi,3.0,4.0,No,Yes,6,15,12,No,No
+E11144,Employee_1144,30.0,Female,Marketing,Marketing Specialist,67800.0,4.2,2021-02-25,Lahore,2.0,4.0,Yes,No,6,8,7,No,No
+E11450,Employee_1450,26.0,Female,Customer Support,Support Manager,91000.0,2.7,2017-03-13,Karachi,3.0,3.0,Yes,Yes,7,1,12,No,Yes
+E11229,Employee_1229,27.0,Female,Sales,Sales Executive,108900.0,3.7,2017-09-02,Multan,4.0,3.0,Yes,No,4,22,22,No,No
+E11018,Employee_1018,35.0,Female,Finance,Finance Manager,108400.0,7.9,2017-10-31,Islamabad,4.0,3.0,No,No,4,5,7,Yes,No
+E10727,Employee_727,40.0,Male,Sales,Sales Manager,127400.0,10.5,2019-07-02,Lahore,2.0,2.0,No,No,8,26,18,No,No
+E10202,Employee_202,21.0,Male,HR,Recruiter,70000.0,0.0,2017-04-25,Karachi,3.0,2.0,No,Yes,3,16,25,No,No
+E10364,Employee_364,23.0,Male,Finance,Accountant,35000.0,0.6,2017-11-25,Peshawar,4.0,4.0,No,Yes,2,39,10,No,No
+E10758,Employee_758,39.0,Male,HR,Recruiter,124100.0,7.9,2019-12-20,Lahore,2.0,4.0,No,Yes,7,32,14,No,No
+E11268,Employee_1268,32.0,Male,Sales,Sales Executive,116600.0,7.3,2022-11-26,Rawalpindi,3.0,5.0,Yes,No,6,26,8,No,No
+E10999,Employee_999,39.0,Female,Customer Support,Support Specialist,108600.0,8.7,2021-12-30,Lahore,4.0,1.0,Yes,No,8,7,20,Yes,No
+E11124,Employee_1124,26.0,Female,Customer Support,Support Representative,35000.0,3.0,2025-07-16,Peshawar,5.0,3.0,Yes,No,4,28,8,No,No
+E10486,Employee_486,32.0,Female,IT,Data Analyst,97000.0,5.6,2017-05-13,Rawalpindi,3.0,4.0,Yes,No,1,43,14,No,No
+E11270,Employee_1270,41.0,Male,Marketing,Content Strategist,171700.0,11.6,2021-05-22,Islamabad,4.0,3.0,Yes,No,5,6,3,No,No
+E11325,Employee_1325,33.0,female,Sales,Sales Executive,126400.0,5.8,2019-03-06,Lahore,3.0,4.0,No,No,11,24,9,No,No
+E10682,Employee_682,29.0,Male,Sales,Sales Manager,54700.0,3.7,2021-07-26,Islamabad,4.0,4.0,Yes,Yes,5,40,16,No,No
+E10669,Employee_669,30.0,Male,Marketing,Content Strategist,113100.0,4.2,2018-05-22,Multan,4.0,3.0,Yes,No,2,11,17,No,No
+E11003,Employee_1003,37.0,Female,Finance,Finance Manager,91900.0,8.9,2018-04-10,Peshawar,2.0,3.0,Yes,No,8,27,13,No,No
+E11017,Employee_1017,30.0,Male,IT,Software Engineer,103400.0,5.9,2020-01-16,Islamabad,5.0,4.0,Yes,No,6,50,12,Yes,No
+E10875,Employee_875,36.0,Male,Marketing,Marketing Specialist,136000.0,8.9,2018-09-18,Lahore,2.0,3.0,No,Yes,4,30,12,No,No
+E10626,Employee_626,35.0,Male,Marketing,Marketing Specialist,112100.0,7.1,2024-06-24,Rawalpindi,4.0,3.0,No,No,3,24,9,No,No
+E10814,Employee_814,28.0,Female,Operations,Operations Manager,55800.0,3.3,2023-09-13,Islamabad,4.0,4.0,Yes,No,3,30,8,No,No
+E11192,Employee_1192,46.0,Female,Marketing,Marketing Specialist,173800.0,14.1,2019-07-09,Islamabad,1.0,3.0,No,No,5,23,12,No,Yes
+E11442,Employee_1442,31.0,Male,marketing,Marketing Specialist,123200.0,5.0,2021-04-03,Islamabad,3.0,4.0,No,No,5,42,9,No,No
+E10339,Employee_339,40.0,Male,Customer Support,Support Manager,176200.0,9.7,2017-01-30,Multan,3.0,3.0,No,No,10,43,17,No,No
+E10173,Employee_173,37.0,Male,Customer Support,Support Manager,90600.0,8.7,2021-04-09,Karachi,3.0,5.0,No,No,6,11,4,No,No
+E11047,Employee_1047,38.0,male,IT,Software Engineer,122900.0,10.1,2024-09-10,Peshawar,1.0,2.0,No,Yes,4,14,5,No,No
+E10161,Employee_161,38.0,Male,Marketing,Marketing Specialist,100500.0,8.1,2018-11-30,Rawalpindi,4.0,4.0,No,No,4,6,7,Yes,No
+E10448,Employee_448,21.0,Female,IT,Data Analyst,96300.0,0.0,2017-03-16,Islamabad,4.0,4.0,Yes,No,7,6,2,No,No
+E10952,Employee_952,26.0,Female,Customer Support,Support Manager,49600.0,2.3,2024-12-11,Rawalpindi,2.0,4.0,No,No,8,17,14,No,No
+E10058,Employee_58,41.0,Male,HR,Recruiter,130800.0,13.2,2022-10-18,Islamabad,3.0,4.0,No,Yes,2,46,18,No,No
+E11125,Employee_1125,28.0,Female,Sales,Sales Manager,74100.0,3.6,2019-03-05,Rawalpindi,4.0,3.0,No,No,4,0,10,No,Yes
+E10320,Employee_320,39.0,Male,HR,Recruiter,185900.0,12.7,2020-02-18,Peshawar,3.0,4.0,Yes,No,7,22,14,No,No
+E10718,Employee_718,34.0,Female,Sales,Sales Executive,104300.0,8.0,2024-12-01,Lahore,5.0,4.0,Yes,No,0,22,9,No,No
+E10598,Employee_598,21.0,Male,Marketing,Content Strategist,N/A,0.0,2020-09-22,Islamabad,4.0,4.0,No,No,6,7,3,No,No
+E10075,Employee_75,22.0,Female,Sales,Sales Manager,41300.0,0.0,2017-04-06,Karachi,3.0,4.0,No,No,7,52,17,No,No
+E11089,Employee_1089,24.0,Female,Sales,Sales Executive,81400.0,1.4,2025-10-05,Peshawar,4.0,2.0,Yes,Yes,1,28,9,No,No
+E11214,Employee_1214,,Female,Sales,Sales Executive,170900.0,14.8,2021-05-03,Lahore,4.0,4.0,No,No,9,22,19,No,No
+E10472,Employee_472,41.0,Female,Operations,Operations Analyst,173000.0,11.6,2019-12-07,Multan,3.0,4.0,No,No,6,32,13,No,No
+E11238,Employee_1238,27.0,Male,Finance,Financial Analyst,66300.0,3.3,2023-07-04,Lahore,3.0,5.0,Yes,No,7,14,7,No,Yes
+E10566,Employee_566,49.0,Female,Operations,Operations Manager,179500.0,17.2,2019-10-15,Islamabad,4.0,5.0,No,Yes,5,33,20,Yes,No
+E11417,Employee_1417,26.0,Male,Operations,Operations Manager,42900.0,2.7,2023-04-27,Multan,3.0,4.0,No,No,9,12,3,No,No
+E11242,Employee_1242,39.0,Female,Sales,Sales Manager,140100.0,12.7,2024-01-03,Karachi,,1.0,No,Yes,3,21,14,Yes,No
+E10254,Employee_254,,Male,Sales,Account Executive,51200.0,1.1,2021-04-14,Rawalpindi,3.0,4.0,Yes,Yes,5,33,12,No,Yes
+E10687,Employee_687,31.0,Female,Customer Support,Support Manager,,6.3,2019-10-24,Peshawar,3.0,3.0,Yes,No,3,25,2,No,No
+E10225,Employee_225,55.0,Male,Operations,Operations Manager,173800.0,18.5,2023-08-04,Rawalpindi,4.0,3.0,No,Yes,0,34,18,Yes,No
+E10781,Employee_781,33.0,Female,Sales,Sales Manager,91100.0,7.6,2017-08-05,Multan,3.0,3.0,No,No,2,29,20,No,No
+E10668,Employee_668,21.0,Male,IT,Software Engineer,92800.0,0.0,2020-09-18,Multan,3.0,,No,No,9,34,9,No,No
+E11334,Employee_1334,44.0,Female,Sales,Sales Manager,N/A,15.2,2017-09-28,Peshawar,3.0,2.0,No,No,5,35,16,No,No
+E11372,Employee_1372,48.0,Male,Customer Support,Support Manager,173200.0,11.8,2020-02-03,Rawalpindi,4.0,5.0,Yes,Yes,5,26,12,Yes,No
+E10473,Employee_473,34.0,Male,Sales,Sales Manager,124400.0,7.3,2025-08-03,Karachi,3.0,3.0,No,No,6,30,9,No,No
+E11469,Employee_1469,31.0,Female,Customer Support,Support Specialist,89500.0,4.1,2019-04-14,Karachi,5.0,5.0,No,Yes,5,25,6,Yes,No
+E11133,Employee_1133,31.0,Male,IT,IT Manager,90100.0,5.3,2023-10-29,Lahore,5.0,3.0,No,Yes,8,25,16,Yes,No
+E10861,Employee_861,43.0,Female,IT,IT Manager,171100.0,14.7,2023-06-07,Islamabad,3.0,5.0,No,Yes,5,19,11,No,No
+E11371,Employee_1371,42.0,Female,Customer Support,Support Manager,140800.0,11.0,,Karachi,3.0,2.0,No,No,5,22,21,No,No
+E10383,Employee_383,39.0,Female,Marketing,Content Strategist,143500.0,12.6,2019-10-16,Lahore,3.0,4.0,No,Yes,7,38,17,No,No
+E10905,Employee_905,37.0,Male,Marketing,Marketing Specialist,125400.0,8.0,2025-01-20,Karachi,3.0,1.0,No,No,4,20,11,No,No
+E11237,Employee_1237,28.0,Female,Customer Support,Support Manager,64100.0,3.2,2022-08-18,Karachi,4.0,3.0,No,No,7,22,21,No,No
+E11227,Employee_1227,27.0,Male,IT,IT Support Specialist,74300.0,2.5,2018-07-22,Peshawar,2.0,4.0,Yes,Yes,5,40,10,No,No
+E10391,Employee_391,37.0,Female,IT,Software Engineer,103600.0,8.1,2018-02-09,Lahore,3.0,3.0,Yes,No,4,10,14,No,No
+E11127,Employee_1127,42.0,Male,IT,Data Analyst,158400.0,12.8,2024-12-31,Karachi,3.0,3.0,Yes,No,3,33,16,No,No
+E10771,Employee_771,30.0,Male,IT,IT Support Specialist,67200.0,4.1,2021-02-17,Lahore,3.0,3.0,No,Yes,8,26,13,No,No
+E10624,Employee_624,50.0,Male,HR,HR Specialist,143300.0,14.1,2023-02-28,Rawalpindi,4.0,4.0,Yes,No,7,25,12,Yes,No
+E10989,Employee_989,38.0,Male,marketing,Content Strategist,145500.0,8.2,2019-07-23,Islamabad,3.0,4.0,Yes,No,4,19,10,No,No
+E11406,Employee_1406,21.0,Male,IT,IT Support Specialist,57800.0,0.0,2023-12-12,Rawalpindi,4.0,2.0,No,No,3,31,13,No,No
+E11167,Employee_1167,28.0,Female,IT,IT Manager,60700.0,4.2,2020-12-17,Lahore,3.0,2.0,No,No,4,4,16,No,No
+E10503,Employee_503,25.0,Male,Customer Support,Support Specialist,71400.0,1.9,2025-12-09,Rawalpindi,2.0,3.0,Yes,Yes,8,29,6,No,No
+E10726,Employee_726,49.0,Female,Finance,Financial Analyst,221700.0,19.4,2024-05-20,Islamabad,4.0,3.0,No,Yes,5,43,9,No,No
+E10296,Employee_296,28.0,Male,IT,Data Analyst,75000.0,2.9,2022-11-30,Peshawar,3.0,5.0,No,No,1,18,16,No,No
+E11431,Employee_1431,33.0,Male,Marketing,Marketing Specialist,90300.0,7.2,2019-06-28,Multan,5.0,2.0,No,Yes,5,20,7,No,No
+E10848,Employee_848,21.0,Female,Sales,Account Executive,49300.0,0.0,2022-03-28,Lahore,3.0,5.0,Yes,Yes,7,45,9,No,No
+E10212,Employee_212,35.0,Female,IT,Data Analyst,97100.0,6.3,2021-08-01,Multan,5.0,3.0,No,Yes,3,23,12,Yes,No
+E10033,Employee_33,37.0,Male,Operations,Operations Manager,N/A,7.5,2023-05-10,Rawalpindi,3.0,4.0,No,No,6,38,15,No,No
+E11295,Employee_1295,28.0,Female,HR,Recruiter,91400.0,3.7,2018-09-30,Peshawar,1.0,5.0,Yes,Yes,5,23,15,No,No
+E10909,Employee_909,43.0,Male,Customer Support,Support Representative,133400.0,11.1,2018-02-07,Peshawar,3.0,4.0,No,No,4,18,10,No,No
+E10464,Employee_464,31.0,Female,HR,HR Specialist,105500.0,5.5,2021-09-04,Lahore,3.0,3.0,Yes,Yes,9,24,17,No,No
+E10595,Employee_595,37.0,Female,Sales,Account Executive,128400.0,8.2,2019-02-26,Rawalpindi,4.0,3.0,No,No,7,16,12,Yes,No
+E10401,Employee_401,48.0,Male,Finance,Accountant,138600.0,13.1,2020-08-10,Islamabad,3.0,4.0,Yes,No,5,30,9,No,No
+E10705,Employee_705,48.0,Male,Operations,Coordinator,179200.0,15.0,2019-01-17,Lahore,2.0,4.0,No,No,7,39,12,No,No
+E10897,Employee_897,38.0,Male,IT,IT Manager,147100.0,11.2,2019-12-31,Karachi,4.0,3.0,Yes,Yes,7,20,6,Yes,No
+E11074,Employee_1074,37.0,Male,Finance,Finance Manager,146800.0,9.6,2024-12-22,Lahore,3.0,5.0,No,No,7,53,16,No,No
+E10679,Employee_679,30.0,Female,Operations,Operations Analyst,56400.0,4.4,2021-12-20,,4.0,4.0,No,No,4,27,11,Yes,No
+E10896,Employee_896,40.0,Male,Sales,Sales Executive,120200.0,8.9,2017-08-03,Karachi,3.0,5.0,No,No,4,18,5,No,No
+E11373,Employee_1373,21.0,Female,Customer Support,Support Manager,35600.0,0.0,2021-08-26,Multan,3.0,2.0,No,No,8,7,9,No,Yes
+E10832,Employee_832,38.0,male,IT,IT Manager,125600.0,11.7,2020-12-09,Multan,3.0,1.0,No,Yes,9,12,12,No,No
+E11264,Employee_1264,37.0,Male,HR,HR Specialist,133900.0,7.5,2022-08-18,Karachi,3.0,2.0,No,No,1,37,2,No,No
+E10468,Employee_468,37.0,Female,Sales,Account Executive,110700.0,9.9,2020-01-15,Islamabad,2.0,3.0,Yes,No,3,21,17,No,No
+E11490,Employee_1490,32.0,Male,Customer Support,Support Manager,82000.0,5.5,2022-06-09,Multan,5.0,5.0,Yes,No,9,21,17,Yes,No
+E10616,Employee_616,32.0,Female,IT,Software Engineer,111900.0,7.2,2025-04-15,Karachi,5.0,3.0,No,Yes,5,38,4,No,No
+E10261,Employee_261,39.0,Female,HR,HR Specialist,121500.0,10.6,2018-08-29,Islamabad,3.0,3.0,Yes,No,6,23,6,No,No
+E10571,Employee_571,28.0,Male,Operations,Coordinator,104300.0,3.1,2021-11-16,Lahore,5.0,2.0,No,No,9,5,8,No,No
+E10963,Employee_963,51.0,Male,Marketing,Content Strategist,210600.0,20.6,2021-07-21,Multan,3.0,2.0,No,No,4,26,11,No,Yes
+E10618,Employee_618,29.0,Male,Marketing,Content Strategist,72300.0,4.5,2023-02-04,Islamabad,3.0,4.0,Yes,Yes,3,22,17,No,No
+E10283,Employee_283,36.0,Male,Finance,Financial Analyst,89800.0,6.9,2025-05-05,Multan,4.0,2.0,No,No,5,39,6,No,Yes
+E10366,Employee_366,21.0,Male,Customer Support,Support Representative,39500.0,0.0,2020-04-01,Multan,4.0,2.0,No,Yes,6,19,12,No,No
+E10826,Employee_826,28.0,Female,Customer Support,Support Manager,36500.0,2.9,2024-11-12,Karachi,5.0,3.0,Yes,No,7,21,6,No,No
+E10670,Employee_670,38.0,Male,Sales,Sales Manager,120200.0,9.0,2019-03-05,Rawalpindi,4.0,4.0,No,Yes,7,16,15,Yes,No
+E11419,Employee_1419,39.0,Male,HR,HR Manager,123100.0,11.6,2019-07-15,Islamabad,4.0,3.0,Yes,Yes,2,27,21,Yes,No
+E10413,Employee_413,41.0,Female,Customer Support,Support Specialist,164300.0,13.0,2021-10-11,Multan,2.0,3.0,No,No,3,25,24,No,No
+E10617,Employee_617,37.0,Male,HR,HR Specialist,137400.0,9.3,2022-05-14,Lahore,4.0,3.0,Yes,No,4,38,0,No,No
+E10904,Employee_904,42.0,Female,Sales,Sales Executive,187500.0,14.5,2017-12-15,Rawalpindi,4.0,5.0,Yes,No,10,32,13,No,No
+E11157,Employee_1157,37.0,Male,Operations,Operations Analyst,93600.0,7.3,2020-10-09,Rawalpindi,2.0,4.0,No,Yes,1,35,16,No,No
+E10192,Employee_192,24.0,Female,Finance,Finance Manager,44900.0,1.0,2023-05-19,Peshawar,3.0,3.0,Yes,No,2,8,15,No,No
+E10183,Employee_183,38.0,Female,Marketing,Marketing Specialist,144500.0,10.7,2017-04-06,Multan,4.0,2.0,No,No,0,35,14,Yes,No
+E10782,Employee_782,34.0,Male,Sales,Sales Manager,105200.0,7.5,2020-09-21,Lahore,3.0,4.0,Yes,No,5,25,12,No,No
+E10530,Employee_530,33.0,Female,Marketing,Content Strategist,108300.0,5.9,2017-01-27,Multan,3.0,5.0,No,No,8,23,13,No,No
+E10301,Employee_301,27.0,Male,Customer Support,Support Specialist,59900.0,2.5,2024-12-03,Lahore,5.0,3.0,Yes,No,9,41,13,No,No
+E10015,Employee_15,,Male,it,Data Analyst,57500.0,3.5,2018-12-24,Peshawar,4.0,1.0,No,No,2,29,10,No,No
+E10127,Employee_127,32.0,Female,Sales,Account Executive,90700.0,5.0,2025-01-24,Lahore,4.0,5.0,Yes,No,9,47,7,No,No
+E11308,Employee_1308,21.0,Female,IT,IT Support Specialist,56500.0,0.0,2019-11-10,Islamabad,3.0,1.0,Yes,No,9,44,9,No,Yes
+E10993,Employee_993,,Male,Operations,Operations Analyst,104500.0,2.3,2021-01-24,Multan,4.0,4.0,Yes,No,6,29,10,No,Yes
+E10743,Employee_743,33.0,Female,Marketing,Marketing Specialist,94000.0,5.1,2023-05-22,Islamabad,4.0,3.0,No,No,3,34,17,Yes,No
+E10223,Employee_223,32.0,Male,Sales,Sales Executive,94400.0,5.4,2023-04-15,Lahore,4.0,4.0,No,No,7,12,16,Yes,No
+E10809,Employee_809,45.0,Male,IT,Data Analyst,163200.0,12.0,2025-07-28,Lahore,5.0,4.0,Yes,No,7,38,12,Yes,Yes
+E11206,Employee_1206,34.0,Female,Operations,Operations Manager,72300.0,6.1,2018-08-18,Islamabad,2.0,5.0,No,Yes,7,31,20,No,No
+E10876,Employee_876,26.0,Male,Sales,Sales Manager,84600.0,2.3,2017-08-05,Lahore,2.0,4.0,Yes,No,8,20,13,No,No
+E10984,Employee_984,39.0,Male,IT,IT Support Specialist,133000.0,9.9,2024-12-17,Peshawar,3.0,5.0,No,No,7,1,1,No,No
+E10974,Employee_974,36.0,Male,Operations,Coordinator,152700.0,9.5,2023-11-27,Peshawar,5.0,3.0,No,No,6,6,8,Yes,No
+E10443,Employee_443,31.0,Male,Operations,Operations Analyst,108200.0,4.2,2019-12-18,Multan,3.0,3.0,Yes,No,6,23,9,No,No
+E10946,Employee_946,25.0,Male,Sales,Sales Executive,41200.0,1.4,2021-11-14,Peshawar,5.0,5.0,No,No,7,34,9,No,No
+E10652,Employee_652,27.0,Male,IT,Software Engineer,81800.0,3.4,2021-03-22,Rawalpindi,2.0,3.0,No,Yes,0,21,14,No,No
+E10343,Employee_343,34.0,Male,HR,HR Specialist,124400.0,6.8,2020-06-14,Rawalpindi,2.0,3.0,No,No,4,13,13,No,No
+E10386,Employee_386,30.0,Female,Finance,Finance Manager,127800.0,4.7,2022-03-09,Karachi,1.0,2.0,No,No,5,21,7,No,No
+E10604,Employee_604,46.0,Male,Operations,Operations Manager,213200.0,17.9,2025-09-08,Lahore,4.0,5.0,No,No,6,25,15,Yes,No
+E10267,Employee_267,28.0,Female,Operations,Coordinator,97700.0,3.8,2019-06-14,Multan,4.0,2.0,No,No,3,9,10,No,No
+E10157,Employee_157,58.0,Female,Finance,Finance Manager,232600.0,24.1,2021-05-08,Islamabad,3.0,4.0,No,Yes,2,36,13,No,No
+E10132,Employee_132,48.0,Male,Sales,Account Executive,174500.0,16.7,2024-02-29,Karachi,4.0,3.0,No,Yes,8,19,14,No,No
+E11043,Employee_1043,33.0,Male,Operations,Operations Manager,126900.0,5.8,2017-07-04,Rawalpindi,3.0,5.0,No,No,6,9,8,No,No
+E11385,Employee_1385,40.0,Female,IT,IT Support Specialist,171900.0,13.4,2019-11-08,Karachi,3.0,4.0,No,No,4,16,5,No,Yes
+E10739,Employee_739,21.0,Male,IT,IT Manager,35000.0,0.0,2021-12-22,Rawalpindi,3.0,2.0,Yes,Yes,7,1,5,No,No
+E10888,Employee_888,24.0,Male,Marketing,Marketing Specialist,93100.0,1.4,2025-10-19,Peshawar,4.0,4.0,Yes,Yes,5,27,10,No,No
+E11451,Employee_1451,23.0,Male,Operations,Operations Analyst,50500.0,0.6,2017-01-28,Multan,4.0,2.0,No,Yes,5,23,25,No,No
+E10063,Employee_63,25.0,Female,Operations,Operations Manager,,2.1,2019-08-30,Rawalpindi,5.0,4.0,No,No,8,44,10,No,No
+E10981,Employee_981,41.0,Male,Sales,Sales Executive,117500.0,8.6,2018-02-01,Islamabad,3.0,4.0,No,No,5,8,8,No,No
+E10644,Employee_644,32.0,Male,Sales,Sales Executive,56400.0,4.6,2025-11-21,Multan,3.0,4.0,No,No,5,29,19,No,No
+E11468,Employee_1468,33.0,Male,Finance,Financial Analyst,94900.0,7.3,2020-11-09,Rawalpindi,4.0,5.0,Yes,Yes,4,24,12,Yes,No
+E10543,Employee_543,40.0,Male,Finance,Accountant,89800.0,10.5,2017-08-25,Rawalpindi,3.0,4.0,Yes,No,10,32,16,No,No
+E10045,Employee_45,33.0,Male,Customer Support,Support Manager,110400.0,6.5,2022-09-23,Islamabad,4.0,4.0,No,No,3,16,13,Yes,No
+E10813,Employee_813,30.0,Male,Finance,Financial Analyst,72200.0,5.4,2025-09-26,Islamabad,5.0,3.0,No,No,2,19,17,No,No
+E11262,Employee_1262,35.0,Female,IT,IT Manager,146600.0,9.3,2024-04-10,Islamabad,3.0,5.0,Yes,No,4,27,16,No,No
+E10420,Employee_420,32.0,Female,HR,Recruiter,83900.0,4.5,2021-03-06,Islamabad,2.0,4.0,No,No,8,8,13,No,No
+E11194,Employee_1194,25.0,Female,Finance,Financial Analyst,48500.0,1.4,2024-11-12,Lahore,2.0,4.0,No,No,3,16,18,No,No
+E11356,Employee_1356,36.0,Female,finance,Accountant,136900.0,9.0,2024-10-03,Multan,3.0,4.0,No,Yes,2,18,10,No,No
+E10029,Employee_29,31.0,Female,Operations,Operations Analyst,102800.0,6.4,2019-05-19,Islamabad,2.0,1.0,No,No,5,25,17,No,No
+E10274,Employee_274,45.0,Female,Customer Support,Support Manager,156400.0,12.4,2018-07-25,Islamabad,3.0,1.0,Yes,No,2,23,2,No,No
+E10881,Employee_881,31.0,Male,Operations,Operations Manager,,6.6,2024-05-18,Peshawar,4.0,5.0,No,No,2,2,9,No,No
+E10361,Employee_361,27.0,Male,Operations,Operations Manager,86800.0,3.0,2025-10-29,Rawalpindi,4.0,4.0,Yes,No,5,34,12,No,No
+E10120,Employee_120,32.0,Male,Operations,Coordinator,107800.0,5.9,2017-07-04,Multan,5.0,2.0,No,Yes,2,15,17,Yes,Yes
+E11484,Employee_1484,23.0,Male,Operations,Operations Analyst,43600.0,0.6,2018-11-21,Rawalpindi,4.0,5.0,No,No,2,17,12,No,No
+E11142,Employee_1142,32.0,Male,IT,IT Support Specialist,91700.0,4.8,2025-08-04,Karachi,1.0,1.0,No,No,3,19,16,No,Yes
+E10540,Employee_540,37.0,Male, Sales ,Sales Executive,106400.0,8.1,2024-10-04,Multan,4.0,3.0,Yes,No,6,34,15,No,No
+E11103,Employee_1103,33.0,Female,Operations,Coordinator,81300.0,5.4,2018-08-13,Lahore,3.0,5.0,No,No,7,16,14,No,No
+E10521,Employee_521,29.0,Female,Customer Support,Support Specialist,107400.0,5.2,2021-06-09,Multan,3.0,5.0,No,No,2,12,7,No,No
+E10542,Employee_542,21.0,Female,Finance,Accountant,65000.0,0.0,2019-05-20,Karachi,2.0,5.0,No,No,6,7,3,No,No
+E10646,Employee_646,35.0,Female,Operations,Operations Analyst,127400.0,6.2,2025-03-16,Karachi,4.0,3.0,No,Yes,5,17,18,No,Yes
+E11309,Employee_1309,35.0,Male,Finance,Finance Manager,119700.0,8.6,2024-03-10,Peshawar,4.0,4.0,No,No,3,30,14,No,No
+E10108,Employee_108,36.0,Female,Operations,Operations Manager,129300.0,9.5,2018-08-16,Multan,3.0,4.0,Yes,No,11,32,10,No,No
+E11370,Employee_1370,33.0,Male,Sales,Account Executive,116200.0,5.5,2019-08-06,Karachi,4.0,4.0,No,No,2,21,9,No,No
+E10007,Employee_7,31.0,Male,Marketing,Marketing Manager,61300.0,4.1,2025-06-14,Islamabad,2.0,2.0,Yes,No,4,35,17,No,No
+E11298,Employee_1298,36.0,Male,Marketing,Content Strategist,130200.0,7.6,2022-02-24,Islamabad,4.0,4.0,Yes,Yes,4,32,11,Yes,No
+E10663,Employee_663,24.0,Female,Sales,Sales Executive,75800.0,1.3,2025-08-29,Lahore,3.0,3.0,No,No,6,20,14,No,No
+E11390,Employee_1390,23.0,Male,Operations,Operations Analyst,47600.0,0.7,2020-12-18,Lahore,4.0,3.0,Yes,No,8,10,8,No,No
+E10147,Employee_147,32.0,Female,IT,IT Manager,100700.0,6.7,2020-04-19,Islamabad,3.0,4.0,No,No,3,13,13,No,No
+E10235,Employee_235,43.0,Male,IT,IT Support Specialist,173300.0,12.3,2019-02-10,Multan,3.0,5.0,No,No,4,32,2,No,Yes
+E11114,Employee_1114,42.0,Male,Operations,Coordinator,162100.0,13.1,2025-08-06,Rawalpindi,3.0,1.0,No,Yes,3,27,16,No,No
+E10334,Employee_334,40.0,Male,Operations,Operations Manager,136000.0,11.4,2020-09-09,Islamabad,3.0,4.0,No,No,4,31,14,No,No
+E11161,Employee_1161,44.0,Female,Finance,Accountant,174900.0,12.7,2024-10-17,Karachi,2.0,5.0,No,No,6,15,16,No,No
+E10309,Employee_309,35.0,Female,IT,IT Support Specialist,113300.0,7.1,2023-01-11,Karachi,3.0,1.0,No,No,3,45,8,No,No
+E11475,Employee_1475,29.0,Male,HR,Recruiter,145600.0,4.3,2024-09-03,Peshawar,3.0,4.0,No,No,5,39,17,No,No
+E10013,Employee_13,22.0,Female,Customer Support,Support Manager,81200.0,0.0,2019-07-02,Rawalpindi,4.0,2.0,Yes,No,7,2,13,No,No
+E10130,Employee_130,40.0,Male,HR,HR Specialist,155600.0,11.9,,Multan,2.0,3.0,No,No,2,27,12,No,No
+E10777,Employee_777,21.0,Male,Operations,Operations Manager,66800.0,0.0,2021-04-23,Multan,4.0,3.0,Yes,No,6,17,12,No,Yes
+E10601,Employee_601,44.0,Male,Customer Support,Support Specialist,151500.0,12.8,2019-09-27,Rawalpindi,3.0,4.0,No,No,6,39,12,No,No
+E10629,Employee_629,38.0,Male,Customer Support,Support Representative,95700.0,7.8,2025-10-26,Lahore,3.0,,Yes,Yes,4,11,9,No,No
+E10153,Employee_153,31.0,Male,Sales,Account Executive,104600.0,4.5,2023-03-16,Lahore,4.0,3.0,Yes,Yes,2,24,15,No,Yes
+E11394,Employee_1394,35.0,Male,Marketing,Content Strategist,119400.0,8.4,2022-03-04,Islamabad,3.0,2.0,No,No,5,10,13,No,No
+E10373,Employee_373,26.0,Male,Finance,Accountant,51100.0,2.8,2022-01-19,Rawalpindi,3.0,2.0,No,Yes,4,9,14,No,No
+E10064,Employee_64,,Male,Sales,Sales Executive,141200.0,3.7,2018-04-29,Rawalpindi,5.0,5.0,No,No,8,6,14,No,No
+E10945,Employee_945,24.0,Male,HR,HR Manager,38100.0,1.3,2021-09-15,Multan,3.0,5.0,No,Yes,10,35,17,No,No
+E10209,Employee_209,37.0,Male,Marketing,Content Strategist,110700.0,6.9,2020-09-21,Peshawar,4.0,5.0,No,Yes,0,17,19,Yes,No
+E11035,Employee_1035,43.0,Male,Operations,Operations Analyst,231700.0,15.7,2024-01-01,Peshawar,2.0,3.0,No,No,8,23,19,No,No
+E10581,Employee_581,41.0,Male,IT,IT Support Specialist,95800.0,8.9,2021-12-23,Lahore,5.0,5.0,No,No,3,28,12,Yes,No
+E10387,Employee_387,31.0,Male,IT,IT Support Specialist,60800.0,6.4,2020-11-10,Lahore,5.0,3.0,No,Yes,7,42,10,No,No
+E10713,Employee_713,33.0,Male,IT,Data Analyst,103400.0,6.1,2025-05-27,Lahore,4.0,3.0,Yes,No,5,24,0,No,No
+E10159,Employee_159,23.0,Male,HR,HR Specialist,46600.0,0.7,2024-11-28,Peshawar,3.0,2.0,No,Yes,3,35,10,No,No
+E10437,Employee_437,28.0,Male,Sales,Account Executive,87900.0,3.0,2022-08-12,Multan,4.0,3.0,No,No,3,8,16,No,No
+E10841,Employee_841,31.0,Male,Operations,Coordinator,91700.0,6.2,2020-05-17,Rawalpindi,4.0,3.0,Yes,No,5,14,7,Yes,No
+E11471,Employee_1471,31.0,Female,HR,HR Manager,52900.0,4.2,2025-12-30,Multan,3.0,4.0,No,Yes,7,41,8,No,No
+E10949,Employee_949,25.0,Female,IT,Software Engineer,51700.0,2.2,2019-01-02,Karachi,1.0,4.0,No,Yes,3,35,14,No,No
+E10145,Employee_145,24.0,Male,IT,IT Manager,64500.0,1.1,2020-02-27,Lahore,5.0,4.0,No,Yes,5,27,10,No,No
+E10966,Employee_966,37.0,Male,Sales,Sales Manager,125100.0,10.1,2022-07-14,Islamabad,4.0,4.0,No,No,13,0,13,Yes,No
+E11434,Employee_1434,25.0,Female,Finance,Financial Analyst,35000.0,2.2,2018-08-13,Peshawar,4.0,3.0,No,Yes,9,31,19,No,No
+E10077,Employee_77,39.0,Female,IT,IT Manager,99900.0,8.6,2023-06-28,Lahore,4.0,3.0,Yes,No,3,23,23,No,No
+E11418,Employee_1418,44.0,Male,Operations,Operations Analyst,165600.0,12.0,2023-10-25,Islamabad,3.0,1.0,No,No,6,22,7,No,No
+E11171,Employee_1171,38.0,Female,Marketing,Marketing Manager,104100.0,9.8,2019-07-02,Lahore,3.0,4.0,No,Yes,6,32,14,No,No
+E10917,Employee_917,27.0,Male,HR,Recruiter,62100.0,3.7,2021-06-03,Islamabad,4.0,4.0,Yes,Yes,10,8,10,No,No
+E10790,Employee_790,32.0,Female,IT,Data Analyst,95700.0,5.4,2025-12-15,Lahore,4.0,4.0,No,No,3,16,8,Yes,No
+E10649,Employee_649,37.0,Female,Finance,Financial Analyst,115000.0,9.2,2025-05-24,Peshawar,4.0,4.0,No,No,3,20,11,Yes,No
+E10262,Employee_262,,Female,Operations,Operations Analyst,70800.0,2.0,2020-10-13,Karachi,4.0,4.0,Yes,Yes,7,25,14,No,No
+E10560,Employee_560,44.0,Female,Finance,Finance Manager,,11.3,2019-04-27,Karachi,2.0,2.0,No,No,4,17,3,No,No
+E11022,Employee_1022,24.0,Male,IT,IT Manager,66700.0,1.1,2024-10-04,Lahore,4.0,5.0,Yes,Yes,2,21,14,No,Yes
+E11358,Employee_1358,45.0,Male,IT,Data Analyst,199300.0,16.5,2023-12-07,Peshawar,4.0,5.0,No,Yes,6,28,9,Yes,No
+E10215,Employee_215,27.0,Female,IT,Software Engineer,88500.0,3.5,2025-12-29,Lahore,4.0,2.0,No,No,3,0,14,No,No
+E10286,Employee_286,43.0,Male,Customer Support,Support Specialist,147000.0,10.3,2019-08-29,Rawalpindi,3.0,4.0,No,No,5,53,8,No,No
+E11005,Employee_1005,29.0,Female,Sales,Sales Executive,83400.0,4.3,2022-09-13,Peshawar,2.0,5.0,No,Yes,3,9,23,No,No
+E10867,Employee_867,21.0,Male,IT,IT Manager,54700.0,0.0,2020-07-08,Islamabad,3.0,1.0,Yes,No,5,15,11,No,No
+E10645,Employee_645,26.0,Male,Finance,Finance Manager,52200.0,2.6,2019-01-16,Peshawar,5.0,1.0,Yes,No,7,11,20,No,No
+E10580,Employee_580,42.0,Male,Operations,Coordinator,124500.0,10.4,2023-10-06,Multan,5.0,4.0,No,Yes,0,23,20,Yes,No
+E11255,Employee_1255,40.0,Female,Customer Support,Support Specialist,133600.0,10.3,2021-11-29,Rawalpindi,2.0,3.0,No,No,4,21,10,No,No
+E10337,Employee_337,38.0,Female,IT,Data Analyst,112800.0,8.3,2022-07-26,Lahore,3.0,3.0,No,No,6,26,14,No,No
+E10520,Employee_520,44.0,Male,Marketing,Marketing Specialist,174900.0,16.3,2023-02-12,Peshawar,2.0,4.0,No,Yes,9,56,18,No,No
+E11247,Employee_1247,26.0,Male,Finance,Financial Analyst,62600.0,2.0,2017-08-07,Lahore,3.0,5.0,No,Yes,4,33,7,No,No
+E10003,Employee_3,39.0,Female,IT,IT Support Specialist,115200.0,8.2,2017-12-26,Islamabad,4.0,3.0,Yes,No,2,24,1,No,No
+E11220,Employee_1220,41.0,Male,IT,Data Analyst,113400.0,12.7,2025-03-22,Karachi,4.0,4.0,Yes,Yes,5,29,7,Yes,No
+E10940,Employee_940,32.0,Female,IT,IT Manager,103800.0,5.8,2023-06-22,Karachi,4.0,1.0,Yes,No,2,53,25,Yes,Yes
+E10586,Employee_586,46.0,Male,Finance,Financial Analyst,199700.0,17.0,2024-04-07,Lahore,1.0,3.0,No,Yes,5,26,16,No,No
+E11432,Employee_1432,31.0,Male,Marketing,Marketing Specialist,79200.0,4.8,2024-12-18,Multan,4.0,2.0,No,Yes,5,23,23,No,No
+E10330,Employee_330,32.0,Male,Sales,Account Executive,118200.0,5.2,2020-11-29,,4.0,3.0,No,No,6,16,19,No,No
+E10117,Employee_117,28.0,Female,Customer Support,Support Representative,63000.0,4.2,2017-04-22,Peshawar,3.0,2.0,No,Yes,5,15,12,No,No
+E11165,Employee_1165,37.0,Male,Marketing,Marketing Specialist,118300.0,7.2,2024-10-10,Peshawar,3.0,3.0,Yes,No,2,12,13,No,No
+E11362,Employee_1362,23.0,Male,Sales,Sales Manager,57400.0,0.7,2024-01-27,Rawalpindi,4.0,4.0,Yes,No,5,47,7,No,No
+E11055,Employee_1055,37.0,Female,IT,IT Manager,150900.0,9.8,2019-12-16,Karachi,4.0,4.0,No,Yes,4,27,22,No,No
+E10548,Employee_548,48.0,Female,Operations,Operations Manager,174800.0,17.3,2019-06-25,Lahore,3.0,4.0,No,Yes,0,27,11,No,No
+E10804,Employee_804,31.0,Female,Sales,Account Executive,98300.0,6.1,2023-04-24,Peshawar,4.0,4.0,No,No,4,12,0,Yes,No
+E11178,Employee_1178,51.0,Male,IT,Data Analyst,204600.0,20.3,2020-07-03,Karachi,2.0,4.0,Yes,No,4,56,7,No,No
+E10483,Employee_483,47.0,Male,HR,HR Manager,158700.0,15.1,2023-10-10,Multan,5.0,4.0,No,Yes,4,27,6,No,No
+E11100,Employee_1100,31.0,Male,IT,Data Analyst,56700.0,4.1,2019-11-29,Rawalpindi,3.0,5.0,No,No,3,46,13,No,No
+E10454,Employee_454,26.0,Female,Operations,Coordinator,74600.0,2.9,2021-11-26,Peshawar,3.0,3.0,Yes,Yes,2,21,9,No,No
+E11436,Employee_1436,30.0,Male,IT,Software Engineer,117200.0,5.0,2019-08-14,Lahore,3.0,2.0,No,Yes,2,36,17,No,Yes
+E11071,Employee_1071,29.0,Male,HR,HR Manager,104900.0,4.8,2022-06-28,Islamabad,3.0,4.0,No,No,2,6,8,No,No
+E10961,Employee_961,25.0,Male,Customer Support,Support Representative,35000.0,1.4,2025-10-07,Islamabad,4.0,4.0,No,Yes,3,24,17,No,No
+E10154,Employee_154,29.0,Male,Sales,Account Executive,61200.0,3.9,2018-09-08,Rawalpindi,3.0,5.0,No,No,8,9,19,No,No
+E11354,Employee_1354,27.0,Female,Customer Support,Support Representative,107200.0,3.5,2025-08-12,Islamabad,4.0,4.0,No,Yes,9,24,7,No,No
+E10311,Employee_311,25.0,Male,Marketing,Marketing Manager,68700.0,2.0,2023-02-07,Peshawar,3.0,4.0,No,No,5,26,7,No,No
+E10384,Employee_384,27.0,Female,Operations,Operations Manager,44000.0,3.0,2021-11-25,Multan,4.0,5.0,No,Yes,8,14,16,No,No
+E10129,Employee_129,23.0,Male,IT,IT Support Specialist,35000.0,0.5,2024-04-23,Multan,4.0,5.0,No,No,7,47,2,No,No
+E10931,Employee_931,27.0,Male,Marketing,Marketing Manager,54300.0,3.5,2017-11-16,Lahore,4.0,3.0,No,No,3,23,6,No,Yes
+E10611,Employee_611,27.0,Male,IT,IT Manager,,3.1,2021-05-22,Multan,5.0,3.0,No,No,3,6,12,No,No
+E10288,Employee_288,42.0,Male,Marketing,Marketing Manager,169000.0,13.6,2023-08-13,Multan,3.0,2.0,Yes,Yes,3,33,11,No,No
+E10501,Employee_501,30.0,Female,Sales,Sales Executive,84800.0,4.2,2020-10-11,Rawalpindi,3.0,5.0,No,No,5,15,14,No,No
+E10041,Employee_41,21.0,Male,Operations,Operations Analyst,55000.0,0.0,2023-03-31,Multan,4.0,3.0,No,Yes,3,28,7,No,No
+E10317,Employee_317,41.0,Male,Sales,Sales Manager,134800.0,10.8,2020-03-19,Islamabad,3.0,3.0,No,Yes,6,9,17,No,Yes
+E10720,Employee_720,40.0,Female,IT,Software Engineer,107300.0,9.8,2022-08-20,Islamabad,3.0,5.0,Yes,Yes,3,25,12,No,No
+E10357,Employee_357,35.0,Male,Operations,Operations Manager,88900.0,6.0,2020-09-23,Multan,3.0,5.0,No,Yes,2,23,9,No,No
+E10178,Employee_178,39.0,Male,HR,Recruiter,108300.0,9.4,2019-12-26,Multan,2.0,3.0,Yes,No,10,34,11,No,No
+E10124,Employee_124,23.0,Male,Customer Support,Support Representative,53100.0,0.5,2021-01-07,Peshawar,3.0,2.0,No,Yes,3,23,14,No,No
+E10125,Employee_125,36.0,Male,IT,IT Manager,109100.0,9.6,2025-09-24,Islamabad,2.0,3.0,No,No,4,40,18,No,No
+E11344,Employee_1344,42.0,Female,customer support,Support Specialist,,12.8,2020-08-12,Rawalpindi,3.0,2.0,No,Yes,8,23,8,No,Yes
+E10293,Employee_293,27.0,Female,Finance,Financial Analyst,64500.0,2.9,2019-02-03,Karachi,3.0,2.0,No,Yes,11,23,9,No,No
+E10784,Employee_784,46.0,Male,IT,IT Manager,207800.0,16.4,2019-04-12,Islamabad,5.0,5.0,No,Yes,5,37,12,No,No
+E11328,Employee_1328,33.0,Female,IT,IT Manager,55800.0,5.1,2017-09-15,Peshawar,4.0,4.0,No,No,2,10,6,No,No
+E10432,Employee_432,29.0,Female,Finance,Financial Analyst,66100.0,5.2,2019-05-10,Lahore,3.0,5.0,No,No,0,19,10,No,No
+E10531,Employee_531,21.0,Female,IT,IT Support Specialist,63600.0,0.0,2019-10-11,Rawalpindi,4.0,4.0,No,No,6,15,16,No,No
+E11008,Employee_1008,21.0,Female,HR,Recruiter,46400.0,0.0,2021-10-16,Peshawar,5.0,4.0,No,Yes,3,23,18,No,No
+E11357,Employee_1357,30.0,Female,Sales,Account Executive,105300.0,5.7,2024-02-22,Rawalpindi,3.0,2.0,No,No,4,9,11,No,No
+E11058,Employee_1058,35.0,Male,Sales,Sales Executive,117300.0,6.9,2024-06-18,Lahore,3.0,3.0,Yes,No,3,16,16,No,No
+E11352,Employee_1352,46.0,female,Sales,Account Executive,156300.0,12.1,2020-01-26,Peshawar,5.0,3.0,Yes,No,7,7,22,No,No
+E11051,Employee_1051,38.0,Female,Sales,Sales Executive,113400.0,8.4,2021-08-07,Rawalpindi,4.0,2.0,No,No,5,17,5,No,No
+E11283,Employee_1283,32.0,Female,Customer Support,Support Specialist,105300.0,5.3,2022-02-15,Rawalpindi,3.0,5.0,No,Yes,4,35,9,No,No
+E10619,Employee_619,21.0,Female,IT,Data Analyst,35000.0,0.0,2022-05-09,Islamabad,2.0,2.0,No,Yes,3,10,16,No,No
+E10496,Employee_496,25.0,Male,Marketing,Marketing Manager,70100.0,1.7,2019-01-18,Islamabad,3.0,5.0,No,No,2,23,9,No,No
+E10625,Employee_625,41.0,Female,Customer Support,Support Manager,128200.0,11.4,2019-08-20,Multan,3.0,2.0,Yes,Yes,6,34,17,No,No
+E11341,Employee_1341,38.0,Male,HR,HR Specialist,100100.0,8.1,2023-05-13,Multan,3.0,4.0,No,Yes,3,20,17,No,No
+E11036,Employee_1036,29.0,female,Operations,Coordinator,97700.0,4.5,2020-04-02,Karachi,3.0,2.0,No,No,6,43,13,No,No
+E10196,Employee_196,37.0,Male,IT,IT Support Specialist,127000.0,7.8,2022-07-04,Lahore,4.0,5.0,No,Yes,0,20,15,Yes,No
+E11203,Employee_1203,37.0,Male,IT,Software Engineer,73800.0,7.8,2025-05-14,Rawalpindi,5.0,3.0,No,No,6,29,11,No,No
+E11251,Employee_1251,27.0,Female,HR,HR Specialist,80600.0,3.1,2022-08-07,Islamabad,3.0,5.0,No,No,2,30,19,No,No
+E11464,Employee_1464,35.0,Female,customer support,Support Manager,127600.0,6.1,2022-04-03,Rawalpindi,1.0,3.0,No,Yes,9,24,11,No,No
+E11129,Employee_1129,43.0,Male,Finance,Accountant,210200.0,14.5,2018-12-25,Lahore,3.0,2.0,Yes,No,4,31,11,No,No
+E10258,Employee_258,21.0,Female,Finance,Accountant,54300.0,0.0,2025-06-02,Multan,4.0,5.0,No,Yes,9,27,15,No,No
+E10968,Employee_968,26.0,Male,IT,IT Support Specialist,56600.0,2.4,2021-03-09,Peshawar,3.0,4.0,No,Yes,3,20,9,No,No
+E10523,Employee_523,21.0,Female,Customer Support,Support Specialist,52400.0,0.0,2024-11-22,Multan,1.0,3.0,No,No,1,15,14,No,No
+E10838,Employee_838,41.0,Male,Sales,Sales Manager,145200.0,9.4,2021-03-12,Karachi,4.0,2.0,No,No,1,44,12,Yes,Yes
+E11425,Employee_1425,21.0,Female,Sales,Sales Executive,41500.0,0.0,2019-09-13,Multan,4.0,2.0,No,Yes,4,19,15,No,No
+E10263,Employee_263,32.0,Male,IT,Software Engineer,101800.0,5.7,2019-03-24,Peshawar,3.0,1.0,No,Yes,3,16,14,No,Yes
+E10680,Employee_680,34.0,Female,Finance,Financial Analyst,123600.0,9.0,,Multan,4.0,1.0,No,No,8,12,16,Yes,No
+E11454,Employee_1454,35.0,Female,Finance,Financial Analyst,115700.0,8.8,2025-01-12,Rawalpindi,3.0,4.0,No,Yes,7,13,3,No,No
+E10913,Employee_913,27.0,Female,Finance,Accountant,90900.0,3.0,2025-06-15,Karachi,2.0,4.0,No,Yes,6,12,7,No,No
+E10482,Employee_482,27.0,Female,Operations,Operations Manager,52700.0,3.3,,Karachi,1.0,4.0,Yes,No,7,27,9,No,Yes
+E10481,Employee_481,21.0,Female,IT,IT Support Specialist,35000.0,0.0,2025-08-31,Rawalpindi,2.0,4.0,No,No,6,0,14,No,No
+E10081,Employee_81,39.0,Female,Sales,Sales Manager,125600.0,9.1,2018-08-03,Rawalpindi,5.0,2.0,No,No,0,16,22,Yes,No
+E11487,Employee_1487,44.0,Male,IT,Data Analyst,158100.0,13.2,2018-08-10,Multan,4.0,3.0,No,No,3,42,16,Yes,No
+E10016,Employee_16,46.0,Male,IT,Data Analyst,164200.0,12.9,2024-01-15,Peshawar,5.0,3.0,Yes,No,5,27,7,Yes,No
+E11272,Employee_1272,37.0,Female,Sales,Sales Manager,95000.0,7.0,2017-12-12,Multan,5.0,4.0,No,No,10,14,4,Yes,No
+E10788,Employee_788,,Male,Sales,Sales Executive,38900.0,2.7,2018-01-18,Multan,3.0,3.0,No,No,4,0,14,No,No
+E10943,Employee_943,44.0,Female,Operations,Coordinator,103000.0,11.0,2022-03-12,Karachi,4.0,4.0,No,Yes,3,31,11,Yes,No
+E10911,Employee_911,32.0,Female,Operations,Operations Manager,113100.0,7.4,2021-01-05,Peshawar,1.0,1.0,No,Yes,5,11,16,No,No
+E10066,Employee_66,36.0,Male,HR,HR Specialist,121100.0,9.4,2020-12-11,Peshawar,1.0,4.0,No,No,8,35,13,No,No
+E11389,Employee_1389,31.0,Female,Operations,Operations Manager,105400.0,5.0,2023-05-14,Lahore,2.0,3.0,No,No,3,9,11,No,No
+E10793,Employee_793,33.0,Male,Sales,Sales Manager,113100.0,8.1,2020-06-19,Multan,2.0,1.0,No,Yes,6,31,6,No,No
+E10513,Employee_513,25.0,Female,Customer Support,Support Representative,70300.0,2.0,2020-10-17,Multan,3.0,4.0,No,No,1,39,11,No,No
+E10427,Employee_427,32.0,Male,Marketing,Marketing Manager,106900.0,7.2,2025-03-27,Karachi,3.0,4.0,No,No,6,20,12,No,No
+E10059,Employee_59,40.0,Male,Operations,Operations Manager,127300.0,9.9,2017-11-22,Karachi,5.0,2.0,No,No,4,19,15,No,No
+E10397,Employee_397,36.0,Female,Marketing,Content Strategist,152100.0,10.2,2017-01-12,Karachi,3.0,5.0,No,Yes,7,34,14,No,No
+E10089,Employee_89,31.0,Female,HR,HR Manager,96900.0,5.3,2025-11-26,Islamabad,1.0,4.0,No,Yes,1,0,16,No,No
+E10054,Employee_54,32.0,Female,Customer Support,Support Manager,100000.0,5.6,2021-01-27,Peshawar,4.0,4.0,No,No,0,13,19,No,No
+E10026,Employee_26,,Female,Sales,Account Executive,147300.0,12.3,2023-08-28,Lahore,4.0,2.0,No,No,6,30,8,No,No
+E11263,Employee_1263,33.0,Male,Marketing,Marketing Specialist,111400.0,7.5,2021-10-14,Rawalpindi,4.0,4.0,No,No,1,30,7,No,No
+E10255,Employee_255,,Male,Customer Support,Support Representative,85400.0,4.4,2021-05-03,Islamabad,5.0,4.0,No,Yes,4,0,7,No,No
+E10698,Employee_698,31.0,Female,Customer Support,Support Specialist,113900.0,5.2,,Islamabad,5.0,5.0,Yes,No,6,22,15,No,No
+E10836,Employee_836,45.0,Male,HR,HR Specialist,142300.0,12.4,2024-05-07,Lahore,3.0,4.0,Yes,No,2,31,6,No,Yes
+E11285,Employee_1285,37.0,Male,Operations,Operations Analyst,120500.0,8.6,2023-11-21,Multan,4.0,4.0,No,No,4,34,2,No,No
+E10018,Employee_18,21.0,Male,Customer Support,Support Manager,63700.0,0.0,2017-11-21,Karachi,3.0,4.0,Yes,Yes,4,22,13,No,No
+E10537,Employee_537,30.0,Female,IT,Data Analyst,90700.0,4.8,2024-03-10,Islamabad,5.0,3.0,Yes,Yes,5,44,8,Yes,No
+E10505,Employee_505,44.0,Female,Sales,Sales Executive,162400.0,12.8,2019-06-16,Lahore,4.0,3.0,No,No,5,16,24,Yes,No
+E10839,Employee_839,41.0,Female,IT,Software Engineer,84100.0,9.1,2022-03-30,Multan,1.0,5.0,Yes,No,5,56,8,No,No
+E10986,Employee_986,23.0,Male,Customer Support,Support Representative,48500.0,0.5,2024-01-22,Lahore,4.0,4.0,No,No,5,31,16,No,No
+E10351,Employee_351,37.0,Male,Sales,Account Executive,122200.0,9.9,2020-06-07,Peshawar,4.0,3.0,No,Yes,5,44,13,Yes,No
+E10516,Employee_516,32.0,Male,HR,HR Manager,123700.0,5.9,2025-12-25,Karachi,4.0,4.0,No,No,6,10,18,Yes,No
+E10769,Employee_769,42.0,Male,Sales,Sales Executive,176800.0,13.5,2021-06-04,Islamabad,2.0,4.0,Yes,No,7,31,11,No,No
+E11310,Employee_1310,52.0,Female,Operations,Coordinator,191000.0,19.3,2025-05-01,Lahore,4.0,3.0,No,Yes,4,16,7,Yes,No
+E10097,Employee_97,36.0,Male,Sales,Account Executive,107000.0,6.3,2021-01-06,Lahore,3.0,3.0,No,No,4,29,4,No,No
+E11009,Employee_1009,38.0,Male,Operations,Operations Analyst,153300.0,10.6,2023-07-01,Islamabad,4.0,4.0,No,Yes,3,19,3,Yes,No
+E10444,Employee_444,27.0,Male,Operations,Coordinator,62000.0,3.1,2020-04-18,Rawalpindi,2.0,4.0,No,Yes,9,42,14,No,No
+E10667,Employee_667,22.0,Male,Marketing,Marketing Specialist,35000.0,0.0,2018-08-18,,4.0,2.0,No,Yes,8,55,15,No,No
+E11132,Employee_1132,21.0,Male,Operations,Operations Manager,35000.0,0.0,2017-07-21,Rawalpindi,5.0,5.0,No,No,3,14,10,No,No
+E11359,Employee_1359,37.0,Male,IT,Data Analyst,167500.0,10.9,2024-12-06,Karachi,3.0,2.0,No,Yes,6,23,8,No,No
+E11400,Employee_1400,22.0,Female,IT,Data Analyst,35000.0,0.0,2018-06-09,Rawalpindi,3.0,2.0,Yes,No,7,45,8,No,No
+E10138,Employee_138,34.0,Female,IT,Software Engineer,129600.0,8.5,2022-12-19,Islamabad,,3.0,Yes,No,2,18,14,Yes,No
+E10250,Employee_250,30.0,Female,IT,IT Support Specialist,72000.0,4.8,2017-11-06,Multan,3.0,2.0,No,No,4,18,15,No,No
+E10962,Employee_962,38.0,Female,Customer Support,Support Specialist,124800.0,7.3,2018-04-01,Lahore,4.0,5.0,Yes,No,8,27,11,No,No
+E10352,Employee_352,43.0,Female,Operations,Operations Manager,109600.0,12.0,2025-09-14,Lahore,3.0,4.0,No,Yes,5,17,1,No,No
+E10100,Employee_100,28.0,Male,Customer Support,Support Specialist,65100.0,3.1,2019-03-31,Islamabad,1.0,3.0,No,Yes,8,7,6,No,No
+E11150,Employee_1150,31.0,Female,hr,HR Specialist,103100.0,5.0,2022-10-24,Lahore,4.0,4.0,No,Yes,2,16,18,Yes,No
+E10295,Employee_295,25.0,Male,IT,Software Engineer,52800.0,2.1,2019-03-27,Lahore,2.0,3.0,Yes,No,2,23,10,No,No
+E11046,Employee_1046,23.0,Female,Finance,Finance Manager,35000.0,0.7,2022-06-10,Lahore,2.0,3.0,No,No,2,33,19,No,Yes
+E10224,Employee_224,34.0,Male,IT,Software Engineer,98600.0,5.8,2020-05-22,Multan,2.0,3.0,Yes,Yes,2,38,9,No,Yes
+E10155,Employee_155,25.0,Female,IT,Data Analyst,67000.0,1.9,2022-02-25,Islamabad,4.0,5.0,No,No,3,19,13,No,No
+E10404,Employee_404,33.0,Female,IT,IT Support Specialist,113600.0,7.3,2018-09-06,Lahore,3.0,5.0,No,No,6,27,13,No,No
+E10650,Employee_650,33.0,Male,Operations,Coordinator,89200.0,5.4,2021-01-14,Peshawar,4.0,5.0,No,No,4,21,21,No,No
+E11082,Employee_1082,45.0,Male,Customer Support,Support Manager,159900.0,15.7,2019-10-22,Rawalpindi,4.0,3.0,No,Yes,8,20,17,Yes,No
+E10753,Employee_753,47.0,Female,Marketing,Content Strategist,149600.0,12.6,2019-09-27,Peshawar,3.0,4.0,Yes,Yes,3,30,17,No,No
+E11075,Employee_1075,21.0,Female,Sales,Sales Manager,56300.0,0.0,2018-03-17,Karachi,3.0,2.0,No,No,6,11,8,No,No
+E10933,Employee_933,21.0,Female,Customer Support,Support Representative,35000.0,0.0,2017-12-02,Karachi,3.0,2.0,No,No,0,33,11,No,No
+E11398,Employee_1398,35.0,Male,Sales,Sales Manager,122200.0,6.6,2017-12-29,Rawalpindi,4.0,4.0,No,No,3,42,2,Yes,Yes
+E11495,Employee_1495,47.0,Female,IT,Data Analyst,181600.0,16.8,2017-12-30,Multan,5.0,3.0,Yes,Yes,1,22,25,Yes,No
+E11112,Employee_1112,49.0,Male,IT,IT Support Specialist,182500.0,16.2,2017-11-08,Rawalpindi,3.0,4.0,No,No,8,20,15,No,No
+E10168,Employee_168,21.0,Male,Customer Support,Support Representative,51800.0,0.0,2025-03-02,Peshawar,2.0,4.0,Yes,Yes,5,19,11,No,No
+E10524,Employee_524,29.0,Female,IT,IT Support Specialist,73100.0,5.0,2019-03-20,Peshawar,3.0,5.0,No,Yes,6,2,13,No,No
+E10775,Employee_775,,Female,Customer Support,Support Representative,89400.0,7.2,2017-05-06,Islamabad,4.0,4.0,No,No,5,22,18,No,No
+E11330,Employee_1330,33.0,Male,IT,IT Support Specialist,90500.0,5.4,2023-09-23,Multan,5.0,5.0,No,No,4,23,8,No,No
+E10024,Employee_24,,Male,IT,Data Analyst,98200.0,8.0,2022-10-18,Rawalpindi,1.0,4.0,Yes,Yes,3,0,0,No,No
+E10597,Employee_597,35.0,Female,Finance,Financial Analyst,117300.0,8.8,2025-04-18,Rawalpindi,2.0,4.0,No,No,4,29,14,No,No
+E10200,Employee_200,51.0,Female,Finance,Accountant,160200.0,14.0,2019-04-11,Islamabad,3.0,4.0,Yes,Yes,6,8,3,No,No
+E10402,Employee_402,47.0,Female,IT,Data Analyst,192700.0,17.9,2021-03-23,Islamabad,3.0,3.0,No,No,5,4,7,No,No
+E10246,Employee_246,21.0,Female,Finance,Financial Analyst,35000.0,0.0,2022-02-22,Lahore,5.0,2.0,No,Yes,4,31,12,No,No
+E11313,Employee_1313,37.0,Male,Marketing,Content Strategist,112900.0,9.9,2023-01-04,Multan,3.0,4.0,Yes,No,2,15,6,No,No
+E10884,Employee_884,49.0,Male,HR,HR Manager,200700.0,18.1,2021-03-02,Multan,3.0,4.0,Yes,No,3,35,17,No,Yes
+E10852,Employee_852,37.0,Female,Customer Support,Support Manager,103900.0,9.2,2025-09-12,Islamabad,2.0,1.0,No,No,3,6,16,No,No
+E10144,Employee_144,46.0,Male,Marketing,Marketing Manager,157600.0,14.6,2025-04-28,Islamabad,4.0,2.0,No,No,8,12,21,Yes,No
+E10759,Employee_759,38.0,Female,Sales,Account Executive,128800.0,9.9,2024-12-25,Lahore,2.0,4.0,No,No,5,33,13,No,No
+E10378,Employee_378,45.0,Male,Finance,Accountant,174800.0,16.4,2019-09-11,Peshawar,3.0,4.0,No,No,3,21,13,No,No
+E11014,Employee_1014,23.0,Male,Finance,Finance Manager,35000.0,0.5,2019-11-21,Lahore,2.0,5.0,Yes,No,2,14,11,No,Yes
+E10582,Employee_582,30.0,Female,IT,IT Manager,103000.0,4.4,2018-09-25,Lahore,3.0,3.0,Yes,No,7,32,10,No,No
+E10406,Employee_406,30.0,Female,Sales,Account Executive,98700.0,3.7,2019-05-19,Karachi,4.0,4.0,No,Yes,6,1,23,No,Yes
+E10944,Employee_944,37.0,Female,Operations,Operations Manager,132000.0,8.4,2021-07-22,Karachi,3.0,1.0,No,Yes,6,32,21,No,No
+E10817,Employee_817,31.0,Female,Sales,Sales Manager,78900.0,6.7,2022-12-22,Peshawar,2.0,4.0,No,No,2,25,4,No,No
+E10226,Employee_226,25.0,Male,IT,Software Engineer,71200.0,1.4,2017-09-06,Lahore,4.0,4.0,No,No,5,19,14,No,No
+E10850,Employee_850,37.0,Female,IT,IT Support Specialist,108400.0,8.3,2017-02-19,Peshawar,4.0,3.0,Yes,No,2,35,12,No,No
+E11065,Employee_1065,30.0,Male,HR,HR Manager,94400.0,4.4,2017-04-18,,3.0,4.0,No,No,7,27,11,No,No
+E10272,Employee_272,40.0,Female,Operations,Coordinator,158200.0,12.2,2022-06-28,Karachi,2.0,3.0,No,No,5,25,17,No,No
+E10639,Employee_639,25.0,Male,IT,Data Analyst,43700.0,2.1,2022-10-25,Lahore,3.0,3.0,No,No,3,10,17,No,No
+E11336,Employee_1336,27.0,Female,Customer Support,Support Manager,87700.0,2.8,2017-05-22,Rawalpindi,3.0,4.0,No,Yes,5,13,12,No,No
+E11353,Employee_1353,27.0,Male,IT,IT Support Specialist,72300.0,2.8,2020-04-29,Multan,4.0,3.0,No,No,6,43,13,No,No
+E11424,Employee_1424,28.0,Male,IT,IT Support Specialist,77300.0,3.5,2021-03-23,Islamabad,2.0,3.0,No,No,7,45,15,No,No
+E11405,Employee_1405,28.0,Female,Finance,Finance Manager,82500.0,4.3,2020-06-07,Peshawar,2.0,3.0,Yes,Yes,2,21,14,No,No
+E10639,Employee_639,25.0,Male,IT,Data Analyst,43700.0,2.1,2022-10-25,Lahore,3.0,3.0,No,No,3,10,17,No,No
+E10886,Employee_886,36.0,Male,Marketing,Content Strategist,109800.0,6.6,2019-12-17,Peshawar,3.0,,No,Yes,6,9,11,No,No
+E10249,Employee_249,44.0,Female,Operations,Operations Manager,172900.0,13.6,2020-09-30,Lahore,3.0,4.0,No,No,8,28,8,No,No
+E10924,Employee_924,40.0,Female,HR,HR Specialist,100400.0,8.6,2019-01-20,Islamabad,5.0,4.0,No,No,3,44,5,No,No
+E11250,Employee_1250,32.0,Female,Marketing,Content Strategist,75100.0,6.8,2022-08-03,Lahore,5.0,3.0,No,No,5,24,12,Yes,No
+E10660,Employee_660,30.0,Female,Operations,Operations Analyst,88000.0,5.2,2023-03-04,Karachi,5.0,3.0,Yes,Yes,7,4,3,Yes,No
+E10306,Employee_306,41.0,Female,Operations,Operations Analyst,126400.0,10.6,2017-10-30,,2.0,5.0,No,No,7,27,17,No,No
+E11130,Employee_1130,45.0,Male,HR,Recruiter,184000.0,16.0,2021-05-30,Peshawar,3.0,3.0,No,No,7,29,16,No,No
+E11007,Employee_1007,35.0,Female,Operations,Coordinator,133000.0,9.0,2024-05-10,Karachi,4.0,3.0,No,Yes,6,32,4,No,No
+E10377,Employee_377,42.0,Female,Marketing,Content Strategist,178200.0,11.5,2021-12-17,Karachi,2.0,3.0,Yes,No,5,29,6,No,No
+E10302,Employee_302,46.0,Male,Operations,Operations Analyst,193500.0,17.5,2019-08-02,Islamabad,4.0,4.0,Yes,No,11,38,10,No,No
+E11166,Employee_1166,38.0,Female,Sales,Sales Executive,146800.0,9.6,2024-12-09,Lahore,5.0,4.0,No,No,7,19,7,Yes,No
+E10214,Employee_214,36.0,Male,HR,Recruiter,135000.0,8.1,2019-08-25,Multan,3.0,5.0,No,Yes,10,21,20,No,No
+E10656,Employee_656,23.0,Male,Sales,Account Executive,73300.0,0.7,2019-11-26,Rawalpindi,3.0,5.0,No,Yes,5,19,11,No,No
+E10792,Employee_792,21.0,Female,Sales,Account Executive,43700.0,0.0,2020-04-03,Lahore,4.0,4.0,No,No,8,20,14,No,No
+E10363,Employee_363,38.0,Male,IT,Data Analyst,117000.0,10.6,2020-07-13,Multan,4.0,5.0,No,No,5,23,15,No,No
+E11211,Employee_1211,36.0,Male,Operations,Operations Manager,124600.0,7.7,2022-02-16,Multan,3.0,3.0,No,No,5,29,16,No,No
+E11351,Employee_1351,43.0,Female,Marketing,Marketing Specialist,172300.0,12.9,2023-02-06,Karachi,1.0,1.0,No,No,5,27,14,No,Yes
+E10102,Employee_102,27.0,Female,Sales,Account Executive,73100.0,3.5,,Rawalpindi,3.0,4.0,No,No,7,31,6,No,No
+E10021,Employee_21,33.0,Female,IT,Software Engineer,70400.0,5.4,2019-12-10,Karachi,5.0,4.0,No,No,3,6,8,No,No
+E10023,Employee_23,35.0,Male,Sales,Sales Manager,137000.0,9.5,2021-05-27,Karachi,2.0,3.0,No,Yes,3,36,1,No,No
+E11294,Employee_1294,34.0,Female,Sales,Sales Manager,70800.0,7.3,2024-04-22,Rawalpindi,3.0,2.0,No,Yes,7,11,14,No,No
+E10681,Employee_681,21.0,Female,Sales,Sales Manager,35000.0,0.0,2017-12-03,Karachi,4.0,4.0,No,Yes,6,29,5,No,No
+E10237,Employee_237,23.0,Male,HR,Recruiter,35000.0,0.7,2018-12-04,Rawalpindi,2.0,4.0,Yes,Yes,7,21,16,No,No
+E10822,Employee_822,39.0,Male,Operations,Coordinator,143000.0,8.9,2021-03-02,Islamabad,2.0,3.0,No,No,5,29,10,No,No
+E11367,Employee_1367,60.0,Female,Finance,Financial Analyst,275600.0,25.3,2018-11-25,Peshawar,3.0,1.0,No,No,6,24,7,No,No
+E10172,Employee_172,58.0,Male,Customer Support,Support Manager,216300.0,17.1,2021-08-15,Peshawar,1.0,5.0,Yes,No,5,29,5,No,No
+E11013,Employee_1013,21.0,Female,HR,HR Manager,68000.0,0.0,2023-11-27,Multan,3.0,2.0,Yes,Yes,9,20,12,No,No
+E11252,Employee_1252,28.0,Male,Marketing,Content Strategist,57100.0,2.8,2024-09-01,Lahore,3.0,4.0,No,Yes,5,15,13,No,No
+E10719,Employee_719,36.0,Male,Customer Support,Support Specialist,133000.0,7.4,2025-05-15,Lahore,4.0,4.0,No,Yes,7,43,16,No,No
+E10907,Employee_907,27.0,Female,Sales,Sales Manager,99000.0,3.7,2017-09-29,Lahore,4.0,2.0,Yes,No,8,13,4,No,No
+E11109,Employee_1109,34.0,Female,Operations,Operations Analyst,95700.0,5.4,2023-05-06,Multan,3.0,3.0,Yes,Yes,9,20,19,No,No
+E10765,Employee_765,37.0,Male,Marketing,Marketing Specialist,117000.0,6.9,2021-01-11,Rawalpindi,2.0,4.0,No,No,2,15,19,No,No
+E11440,Employee_1440,44.0,Female,IT,IT Manager,150600.0,13.3,2020-08-24,Multan,4.0,3.0,No,Yes,8,27,6,No,No
+E10717,Employee_717,48.0,Female,Operations,Coordinator,223000.0,16.9,2017-02-15,Lahore,5.0,4.0,Yes,No,5,21,9,No,No
+E11011,Employee_1011,25.0,Male,IT,IT Manager,37100.0,1.8,2018-08-15,Rawalpindi,5.0,3.0,No,Yes,3,13,12,No,No
+E10603,Employee_603,38.0,Male,IT,Data Analyst,89900.0,10.5,2017-03-05,Peshawar,4.0,5.0,No,No,6,17,0,No,No
+E10510,Employee_510,36.0,Female,Finance,Financial Analyst,116700.0,8.7,2018-11-15,Rawalpindi,2.0,2.0,Yes,Yes,7,18,16,No,No
+E11069,Employee_1069,24.0,Male, Operations ,Operations Manager,63100.0,1.0,2018-01-05,Rawalpindi,4.0,2.0,No,No,6,15,19,No,No
+E10368,Employee_368,,Female,IT,Software Engineer,141100.0,11.3,2020-10-22,Peshawar,3.0,4.0,No,Yes,6,23,9,No,No
+E10599,Employee_599,33.0,Male,Operations,Operations Manager,122700.0,7.6,2023-08-24,Lahore,4.0,1.0,No,No,3,31,13,Yes,No
+E10702,Employee_702,28.0,Male,IT,IT Manager,66900.0,4.0,2017-01-03,Karachi,4.0,4.0,Yes,No,4,27,11,Yes,No
+E10300,Employee_300,41.0,Male,IT,Software Engineer,169700.0,13.3,2018-12-04,Rawalpindi,4.0,2.0,Yes,No,0,36,16,Yes,No
+E11209,Employee_1209,33.0,Male,IT,IT Support Specialist,104300.0,6.3,2020-09-14,Peshawar,4.0,3.0,No,No,6,16,9,Yes,No
+E10049,Employee_49,36.0,male,IT,IT Support Specialist,106600.0,8.1,2021-11-08,Karachi,3.0,4.0,Yes,Yes,4,30,8,No,No
+E10479,Employee_479,42.0,Female,Customer Support,Support Manager,149300.0,12.6,2025-08-04,Multan,4.0,5.0,Yes,Yes,5,44,12,Yes,No
+E10260,Employee_260,44.0,Male,Finance,Finance Manager,134600.0,10.7,2017-01-16,Rawalpindi,4.0,4.0,No,No,12,8,12,Yes,No
+E10148,Employee_148,32.0,Male,Operations,Coordinator,114900.0,4.9,2017-09-03,Multan,3.0,3.0,No,No,4,2,16,No,No
+E10135,Employee_135,30.0,Female,Customer Support,Support Specialist,79500.0,3.7,2018-08-24,Peshawar,4.0,3.0,No,No,11,16,7,No,No
+E10655,Employee_655,38.0,Male,IT,Data Analyst,101500.0,7.9,2024-11-29,Rawalpindi,3.0,4.0,Yes,No,4,19,4,No,No
+E11343,Employee_1343,44.0,Female,Customer Support,Support Representative,125100.0,10.6,2020-05-16,Lahore,5.0,4.0,No,No,7,27,4,Yes,No
+E10983,Employee_983,47.0,Male,Customer Support,Support Manager,173800.0,16.6,2017-04-17,Multan,2.0,5.0,No,No,7,16,8,No,No
+E10379,Employee_379,28.0,Female,Sales,Sales Executive,53400.0,3.1,2020-06-16,Islamabad,4.0,2.0,No,No,4,11,22,No,No
+E10847,Employee_847,40.0,Male,Marketing,Content Strategist,135000.0,9.0,2025-09-16,Lahore,1.0,3.0,No,No,2,43,1,No,No
+E11159,Employee_1159,38.0,Female,Sales,Sales Executive,97300.0,10.0,2017-06-11,Islamabad,2.0,2.0,Yes,Yes,2,45,21,No,No
+E10194,Employee_194,32.0,Female,IT,IT Manager,80400.0,6.1,2025-03-14,Rawalpindi,3.0,5.0,No,No,7,26,11,No,No
+E10408,Employee_408,28.0,Male,Sales,Account Executive,70200.0,4.0,2021-12-28,Islamabad,3.0,4.0,Yes,No,5,33,6,No,No
+E11297,Employee_1297,36.0,Male,IT,Data Analyst,108800.0,7.1,2019-07-19,Lahore,1.0,4.0,Yes,No,5,4,17,No,Yes
+E10665,Employee_665,29.0,Male,Finance,Financial Analyst,80600.0,3.4,2024-04-06,Lahore,5.0,,No,No,6,16,9,No,Yes
+E10031,Employee_31,26.0,Female,Sales,Sales Manager,53600.0,2.4,2022-12-20,Peshawar,5.0,2.0,No,No,4,43,10,No,Yes
+E10004,Employee_4,23.0,Female,Sales,Account Executive,35000.0,0.7,2023-08-17,Peshawar,3.0,5.0,No,Yes,2,44,14,No,No
+E10137,Employee_137,31.0,Male,HR,Recruiter,81000.0,5.6,,Peshawar,4.0,5.0,No,No,5,31,11,No,No
+E10577,Employee_577,33.0,Male,Sales,Sales Manager,136200.0,8.2,2020-10-12,Rawalpindi,3.0,3.0,No,No,7,40,7,No,No
+E10737,Employee_737,34.0,Male,Customer Support,Support Specialist,132200.0,7.4,2024-02-09,Rawalpindi,4.0,3.0,No,No,6,33,12,No,No
+E10393,Employee_393,34.0,Male,Operations,Operations Analyst,113700.0,7.1,2021-11-22,Karachi,3.0,3.0,Yes,Yes,6,22,9,No,No
+E10116,Employee_116,41.0,Female,Marketing,Marketing Manager,,10.4,2023-06-09,Islamabad,4.0,4.0,No,No,10,6,13,No,No
+E11381,Employee_1381,41.0,Male,Sales,Sales Manager,127000.0,9.4,2021-07-15,Islamabad,2.0,3.0,No,Yes,2,33,21,No,No
+E11338,Employee_1338,36.0,Female,IT,Data Analyst,105700.0,6.9,2025-04-10,Lahore,4.0,4.0,Yes,No,4,39,14,Yes,No
+E11067,Employee_1067,41.0,Male,Sales,Sales Manager,158400.0,12.4,2024-09-12,Karachi,4.0,2.0,No,Yes,5,11,16,Yes,No
+E10801,Employee_801,41.0,Female,Operations,Operations Analyst,188500.0,13.8,2025-12-20,Lahore,1.0,4.0,No,Yes,3,16,15,No,No
+E11377,Employee_1377,,Male,Finance,Financial Analyst,156500.0,11.2,2020-05-30,Rawalpindi,4.0,5.0,No,Yes,2,26,10,Yes,Yes
+E10837,Employee_837,24.0,Female,HR,HR Manager,49100.0,1.0,2021-11-16,Peshawar,3.0,4.0,No,No,6,10,4,No,No
+E10078,Employee_78,34.0,Male,Marketing,Marketing Specialist,151600.0,8.1,2018-06-13,Islamabad,3.0,5.0,Yes,No,5,24,8,No,No
+E10279,Employee_279,30.0,Female,Sales,Sales Executive,114700.0,5.1,2022-05-08,Islamabad,3.0,4.0,No,Yes,3,33,6,No,No
+E11332,Employee_1332,,Female,Marketing,Marketing Specialist,95800.0,5.0,2019-09-02,Karachi,,4.0,No,No,7,11,15,Yes,No
+E10760,Employee_760,21.0,Female,HR,HR Manager,37800.0,0.0,2021-12-09,Lahore,3.0,3.0,No,Yes,4,28,6,No,No
+E10863,Employee_863,47.0,Male,Sales,Sales Manager,161400.0,12.5,,Peshawar,4.0,2.0,No,Yes,2,6,14,No,No
+E11269,Employee_1269,44.0,Female,Finance,Finance Manager,133800.0,13.7,2020-09-06,Islamabad,2.0,4.0,Yes,No,2,16,9,No,No
+E10836,Employee_836,45.0,Male,HR,HR Specialist,142300.0,12.4,2024-05-07,Lahore,3.0,4.0,Yes,No,2,31,6,No,Yes
+E11249,Employee_1249,37.0,Female,Operations,Coordinator,103700.0,8.4,2022-07-09,Multan,3.0,4.0,No,Yes,3,19,12,No,No
+E10879,Employee_879,40.0,Male,HR,HR Manager,156600.0,12.2,2025-05-01,Multan,3.0,3.0,No,No,8,21,14,No,No
+E10806,Employee_806,21.0,Female,HR,HR Specialist,64900.0,0.0,2024-09-09,Lahore,3.0,5.0,No,No,8,32,12,No,No
+E10641,Employee_641,46.0,Male,Operations,Operations Analyst,169500.0,15.5,2021-09-08,Peshawar,5.0,5.0,Yes,No,9,34,9,No,No
+E11179,Employee_1179,21.0,Female,IT,Data Analyst,35000.0,0.0,2025-03-27,Multan,4.0,1.0,No,No,3,21,10,No,No
+E10082,Employee_82,26.0,Female,HR,Recruiter,47200.0,2.7,2021-07-22,Lahore,3.0,5.0,Yes,Yes,2,24,19,No,No
+E11050,Employee_1050,31.0,Male,IT,Data Analyst,83600.0,4.9,2020-10-27,Multan,3.0,3.0,No,Yes,6,28,11,No,No
+E10017,Employee_17,30.0,Male,Marketing,Marketing Specialist,95100.0,3.8,2021-09-08,Karachi,1.0,4.0,No,No,3,32,16,No,No
+E10203,Employee_203,49.0,Male,Sales,Sales Manager,178500.0,13.7,2020-03-24,Lahore,4.0,4.0,No,No,7,15,15,No,No
+E11038,Employee_1038,,Female,IT,IT Manager,113700.0,8.1,2020-04-13,Peshawar,3.0,3.0,Yes,No,8,32,12,No,No
+E11028,Employee_1028,26.0,Female,Customer Support,Support Specialist,61100.0,2.0,2020-01-06,Lahore,2.0,3.0,Yes,No,5,29,17,No,Yes
+E10141,Employee_141,34.0,Female,Finance,Accountant,122700.0,8.8,2023-01-28,Lahore,2.0,4.0,No,Yes,8,0,14,No,No
+E10569,Employee_569,35.0,Female,IT,Software Engineer,93300.0,7.0,2019-12-05,Rawalpindi,3.0,1.0,No,Yes,6,27,14,No,No
+E11188,Employee_1188,28.0,Male,HR,Recruiter,81200.0,3.1,2022-03-31,Islamabad,4.0,3.0,No,No,3,0,15,No,No
+E11326,Employee_1326,35.0,Male,Operations,Operations Analyst,89900.0,7.2,2023-04-30,Lahore,3.0,3.0,Yes,No,6,19,9,No,Yes
+E10675,Employee_675,21.0,male,Sales,Sales Executive,57000.0,0.0,2023-09-28,Lahore,3.0,5.0,Yes,Yes,5,18,12,No,No
+E11086,Employee_1086,41.0,Male,Marketing,Marketing Manager,850000,9.0,2020-03-30,Islamabad,1.0,3.0,Yes,No,7,29,11,No,No
+E10561,Employee_561,30.0,Female,IT,Software Engineer,65000.0,3.9,2024-11-05,Rawalpindi,5.0,3.0,No,Yes,1,25,15,No,No
+E10620,Employee_620,36.0,Female,Customer Support,Support Specialist,124900.0,6.5,2017-10-07,Multan,4.0,3.0,Yes,No,9,29,7,No,No
+E10163,Employee_163,38.0,Female,Customer Support,Support Manager,127300.0,10.2,2021-08-13,Multan,,4.0,No,No,3,34,19,No,Yes
+E10114,Employee_114,24.0,Female,Sales,Account Executive,58700.0,1.4,2020-12-16,Rawalpindi,1.0,3.0,Yes,No,4,25,12,No,No
+E11207,Employee_1207,39.0,Female,IT,IT Manager,133800.0,11.3,2020-03-28,Peshawar,3.0,4.0,Yes,No,9,19,14,No,No
+E10535,Employee_535,21.0,Female,Marketing,Marketing Specialist,41200.0,0.0,2020-02-07,Karachi,2.0,5.0,No,Yes,6,19,6,No,No
+E10208,Employee_208,34.0,Female,Sales,Sales Manager,84400.0,5.8,2025-05-18,Multan,2.0,3.0,Yes,No,6,17,16,No,Yes
+E11348,Employee_1348,37.0,Male,Sales,Sales Executive,129200.0,8.5,2019-05-26,Peshawar,2.0,4.0,Yes,Yes,3,33,2,No,No
+E11399,Employee_1399,45.0,Female,HR,HR Specialist,191400.0,16.1,2024-08-30,Islamabad,4.0,4.0,No,Yes,5,13,20,Yes,No
+E11260,Employee_1260,31.0,Female,IT,Software Engineer,97700.0,5.0,2022-11-25,Rawalpindi,1.0,3.0,No,No,8,54,9,No,No
+E11286,Employee_1286,36.0,Male,Sales,Account Executive,168900.0,10.4,2023-02-05,Multan,4.0,4.0,No,No,2,26,10,Yes,No
+E10044,Employee_44,29.0,Female,Sales,Account Executive,98900.0,3.7,2019-10-25,Rawalpindi,4.0,4.0,No,Yes,2,16,19,No,No
+E10019,Employee_19,25.0,Male,Sales,Sales Executive,42900.0,1.4,2021-03-10,Karachi,3.0,3.0,Yes,No,5,57,16,No,No
+E10785,Employee_785,34.0,Male,IT,Data Analyst,97400.0,7.9,2017-07-01,Lahore,3.0,3.0,No,No,11,7,15,No,No
+E11278,Employee_1278,40.0,Female,IT,IT Manager,137700.0,12.6,2025-01-19,Lahore,4.0,3.0,No,No,2,46,19,No,Yes
+E10455,Employee_455,33.0,Male,Customer Support,Support Manager,90500.0,6.1,2019-02-16,Multan,5.0,5.0,No,No,0,19,14,Yes,No
+E10563,Employee_563,28.0,Male,Operations,Operations Analyst,71400.0,2.8,2024-02-25,Karachi,1.0,3.0,No,No,7,5,10,No,No
+E10431,Employee_431,41.0,Male,Finance,Accountant,157200.0,13.8,2021-10-20,Multan,4.0,4.0,No,Yes,5,39,17,Yes,Yes
+E10318,Employee_318,24.0,Male,Operations,Operations Manager,43100.0,1.1,2022-08-26,Peshawar,2.0,5.0,No,Yes,4,42,11,No,No
+E10725,Employee_725,28.0,Female,IT,Data Analyst,65300.0,4.3,2021-06-10,Karachi,5.0,4.0,No,No,9,11,12,No,No
+E10477,Employee_477,,Male,Sales,Sales Executive,216000.0,15.5,2025-03-13,Multan,1.0,4.0,No,No,2,38,7,No,No
+E10549,Employee_549,32.0,Male,Finance,Financial Analyst,86700.0,6.3,2023-08-21,Karachi,5.0,3.0,No,No,4,42,9,No,No
+E10570,Employee_570,44.0,Male,Sales,Sales Executive,157700.0,11.5,2023-07-20,Karachi,2.0,5.0,No,Yes,7,18,12,No,No
+E11331,Employee_1331,25.0,Female,Finance,Finance Manager,55700.0,1.7,2022-01-26,Lahore,4.0,3.0,Yes,No,6,12,15,No,No
+E10006,Employee_6,36.0,Male,HR,Recruiter,141800.0,9.2,2021-10-23,Peshawar,4.0,4.0,No,Yes,3,30,7,Yes,No
+E10526,Employee_526,27.0,Male,Sales,Sales Executive,83400.0,2.9,2023-03-11,Multan,3.0,2.0,No,Yes,1,10,8,No,No
+E10421,Employee_421,32.0,Female,Operations,Operations Manager,68400.0,6.8,2021-01-09,Peshawar,2.0,5.0,No,No,1,8,14,No,No
+E11208,Employee_1208,35.0,Male,Sales,Sales Executive,73300.0,5.9,2021-02-26,Rawalpindi,4.0,1.0,Yes,No,4,20,10,Yes,No
+E10370,Employee_370,35.0,Male,Operations,Coordinator,114500.0,9.6,2020-05-07,Karachi,3.0,3.0,Yes,No,2,13,14,No,No
+E10273,Employee_273,35.0,Female,Customer Support,Support Representative,117400.0,8.5,2017-11-12,Karachi,4.0,5.0,No,No,8,0,9,No,No
+E10103,Employee_103,33.0,Male,Sales,Sales Manager,138100.0,6.8,2017-09-29,Lahore,5.0,5.0,Yes,No,6,32,18,No,No
+E10276,Employee_276,27.0,Male,Sales,Sales Executive,87300.0,3.4,2025-05-14,Multan,3.0,4.0,No,Yes,6,36,15,No,No
+E10270,Employee_270,46.0,Male,HR,HR Manager,170700.0,12.3,2018-02-18,Multan,3.0,4.0,No,Yes,2,16,8,No,No
+E10354,Employee_354,42.0,Male,Operations,Coordinator,135400.0,9.0,2023-04-30,Lahore,2.0,5.0,Yes,No,2,17,5,No,No
+E10326,Employee_326,21.0,Female,Finance,Finance Manager,38600.0,0.0,2025-06-20,Islamabad,3.0,1.0,No,No,5,20,4,No,Yes
+E11128,Employee_1128,21.0,Male,Operations,Coordinator,43400.0,0.0,2018-01-11,Peshawar,1.0,4.0,No,No,4,19,9,No,No
+E10071,Employee_71,42.0,Female,Marketing,Content Strategist,,11.4,2024-03-16,Multan,3.0,4.0,No,No,1,30,5,No,No
+E10467,Employee_467,38.0,Male,IT,IT Support Specialist,104800.0,9.4,2020-04-29,Rawalpindi,3.0,2.0,No,Yes,5,25,17,No,No
+E10047,Employee_47,27.0,Male,Operations,Coordinator,73500.0,3.4,2024-08-19,Lahore,1.0,5.0,No,No,5,20,14,No,No
+E10908,Employee_908,28.0,Male,Sales,Account Executive,90800.0,3.1,2022-07-24,Multan,3.0,4.0,No,No,8,45,10,No,No
+E10731,Employee_731,44.0,Male,Operations,Coordinator,191800.0,15.3,2019-06-28,Islamabad,3.0,3.0,No,No,10,27,10,No,No
+E10398,Employee_398,25.0,Male,IT,Software Engineer,62700.0,1.7,2025-12-25,Karachi,3.0,3.0,Yes,Yes,4,10,10,No,No
+E10051,Employee_51,28.0,Female,Customer Support,Support Representative,88700.0,4.4,2020-04-12,Peshawar,4.0,2.0,No,No,3,32,8,No,No
+E10409,Employee_409,25.0,Female,Sales,Account Executive,47100.0,1.6,2025-08-15,Lahore,2.0,3.0,Yes,Yes,2,17,18,No,No
+E10971,Employee_971,36.0,Female,Sales,Account Executive,114400.0,9.9,2019-09-28,Peshawar,4.0,3.0,No,No,4,14,20,Yes,No
+E10005,Employee_5,44.0,Male,HR,Recruiter,140200.0,12.2,2020-05-23,Lahore,2.0,4.0,No,No,4,31,11,No,No
+E11019,Employee_1019,37.0,Female,Operations,Operations Analyst,96300.0,9.6,2019-12-21,Lahore,5.0,5.0,No,Yes,7,19,9,Yes,No
+E10954,Employee_954,26.0,Female,Sales,Account Executive,54900.0,2.5,2018-10-14,Lahore,3.0,3.0,Yes,Yes,3,27,19,No,No
+E10918,Employee_918,31.0,Female,IT,IT Manager,59600.0,4.5,2020-02-01,Lahore,3.0,5.0,No,No,8,33,7,No,No
+E11363,Employee_1363,36.0,Female,Customer Support,Support Specialist,118900.0,9.5,2025-09-05,Islamabad,3.0,3.0,No,Yes,1,12,17,No,No
+E10533,Employee_533,29.0,Female,Finance,Financial Analyst,56900.0,3.3,2024-10-08,Islamabad,4.0,3.0,No,No,5,20,3,No,No
+E10672,Employee_672,30.0,Female,IT,Data Analyst,110200.0,5.1,2020-10-31,Multan,4.0,3.0,Yes,No,1,14,13,Yes,Yes
+E10613,Employee_613,30.0,Female,IT,IT Manager,81800.0,4.7,2022-05-12,Rawalpindi,3.0,4.0,Yes,No,5,33,16,No,No
+E10872,Employee_872,40.0,Male,Operations,Operations Analyst,161000.0,12.3,2023-03-20,Peshawar,4.0,3.0,Yes,Yes,4,33,14,Yes,No
+E10579,Employee_579,47.0,Male,Customer Support,Support Representative,172200.0,17.3,2019-12-22,Peshawar,4.0,3.0,No,No,7,24,8,Yes,No
+E10475,Employee_475,34.0,Male,Sales,Account Executive,90600.0,6.0,2023-11-28,Lahore,5.0,3.0,Yes,Yes,6,10,14,Yes,No
+E11111,Employee_1111,48.0,Female,Operations,Coordinator,165100.0,15.3,2017-12-01,Lahore,5.0,5.0,No,Yes,7,27,16,Yes,No
+E10718,Employee_718,34.0,Female,Sales,Sales Executive,104300.0,8.0,2024-12-01,Lahore,5.0,4.0,Yes,No,0,22,9,No,No
+E10359,Employee_359,31.0,Female,Operations,Operations Analyst,105300.0,6.7,2020-04-13,Multan,1.0,5.0,No,No,11,23,8,No,No
+E10721,Employee_721,24.0,Female,Operations,Operations Manager,51500.0,1.0,2018-10-26,Peshawar,2.0,3.0,No,No,7,40,4,No,Yes
+E10435,Employee_435,30.0,Male,Marketing,Marketing Manager,67100.0,4.3,2018-07-10,Islamabad,4.0,5.0,Yes,No,4,0,13,No,No
+E11066,Employee_1066,33.0,Female,Sales,Sales Executive,95900.0,5.0,2020-07-20,Multan,1.0,3.0,No,No,7,16,10,No,No
+E11496,Employee_1496,41.0,Female,Customer Support,Support Representative,178900.0,13.3,2022-12-23,Lahore,3.0,3.0,No,Yes,4,19,10,No,No
+E11254,Employee_1254,34.0,Male,sales,Account Executive,100100.0,5.8,2019-04-12,Multan,3.0,5.0,No,No,3,22,19,No,No
+E10799,Employee_799,33.0,Female,IT,IT Manager,132600.0,5.7,2017-07-15,Lahore,4.0,,No,Yes,10,29,12,Yes,No
+E10654,Employee_654,49.0,Female,Operations,Operations Analyst,143200.0,13.0,2020-01-02,Islamabad,3.0,1.0,No,No,11,29,17,No,No
+E11241,Employee_1241,43.0,Female,Sales,Account Executive,119600.0,9.5,2021-11-22,Multan,4.0,4.0,No,Yes,4,23,11,No,No
+E11318,Employee_1318,39.0,Female,IT,IT Manager,105500.0,8.0,2022-08-24,Islamabad,3.0,1.0,No,No,4,36,8,No,No
+E10671,Employee_671,44.0,Male,Operations,Operations Analyst,209400.0,16.1,2017-01-21,Lahore,3.0,4.0,No,Yes,9,21,11,No,No
+E10588,Employee_588,32.0,Male,Marketing,Content Strategist,86000.0,5.6,2020-02-13,Peshawar,2.0,5.0,No,Yes,5,33,3,No,No
+E11073,Employee_1073,37.0,Male,Sales,Sales Executive,131600.0,7.0,2021-08-31,Lahore,4.0,4.0,No,No,5,25,12,No,No
+E11163,Employee_1163,48.0,Male,Sales,Account Executive,179300.0,17.2,2018-04-16,Islamabad,5.0,4.0,Yes,Yes,4,14,17,Yes,No
+E10882,Employee_882,21.0,Female,Operations,Operations Analyst,35000.0,0.0,2025-10-18,Rawalpindi,5.0,3.0,No,No,3,5,16,No,No
+E10189,Employee_189,24.0,Male,Marketing,Content Strategist,40700.0,1.2,2025-12-20,Lahore,5.0,5.0,No,No,6,12,14,No,No
+E11259,Employee_1259,23.0,Male,Operations,Operations Manager,39000.0,0.6,2018-08-18,Lahore,4.0,5.0,No,No,3,32,17,No,No
+E10800,Employee_800,27.0,Female,Sales,Sales Executive,35000.0,3.0,2022-03-09,Multan,3.0,3.0,No,No,6,42,15,No,No
+E11099,Employee_1099,31.0,Female,Sales,Sales Executive,85000.0,5.8,2017-03-21,Karachi,4.0,4.0,No,Yes,7,35,10,No,No
+E11422,Employee_1422,30.0,Male,Operations,Operations Analyst,77800.0,5.5,2022-09-25,Multan,2.0,3.0,No,Yes,2,13,9,No,No
+E10344,Employee_344,33.0,Male,Marketing,Content Strategist,125700.0,5.1,2021-04-08,Peshawar,2.0,3.0,Yes,Yes,5,22,16,No,No
+E10789,Employee_789,38.0,Male,Finance,Financial Analyst,119600.0,11.3,2022-03-12,Lahore,1.0,5.0,No,No,5,26,7,No,No
+E10008,Employee_8,35.0,Female,Finance,Finance Manager,113500.0,8.5,2019-08-13,Rawalpindi,4.0,3.0,No,No,4,30,3,Yes,No
+E10991,Employee_991,40.0,Female,Sales,Account Executive,138900.0,11.5,2018-12-07,Peshawar,4.0,5.0,No,Yes,6,7,17,No,No
+E11015,Employee_1015,28.0,Female,Marketing,Content Strategist,77900.0,4.3,2019-06-03,Islamabad,4.0,3.0,No,No,5,10,20,Yes,No
+E10216,Employee_216,31.0,Male,Customer Support,Support Representative,70100.0,4.8,2023-02-07,Rawalpindi,2.0,5.0,Yes,No,5,27,9,No,No
+E10110,Employee_110,38.0,Male,Finance,Accountant,132000.0,10.0,2021-05-25,Multan,3.0,3.0,No,No,6,10,15,No,No
+E10220,Employee_220,32.0,Female,Sales,Account Executive,116200.0,6.2,2021-06-11,Islamabad,5.0,4.0,Yes,Yes,4,19,8,Yes,Yes
+E10818,Employee_818,35.0,Male,HR,HR Manager,83700.0,7.0,2019-07-05,Lahore,2.0,4.0,No,No,4,35,9,No,No
+E10637,Employee_637,33.0,Male,IT,IT Support Specialist,138400.0,5.3,2022-10-02,Peshawar,4.0,3.0,Yes,Yes,6,32,8,Yes,No
+E11225,Employee_1225,24.0,Male,HR,Recruiter,82100.0,1.2,2025-09-27,Islamabad,3.0,1.0,No,Yes,3,33,16,No,No
+E10830,Employee_830,38.0,Male,IT,Data Analyst,134200.0,11.8,2020-03-16,Peshawar,5.0,5.0,No,Yes,3,7,11,Yes,No
+E10028,Employee_28,23.0,Male,Sales,Sales Executive,50800.0,0.6,2019-04-26,Rawalpindi,2.0,4.0,Yes,Yes,5,29,14,No,No
+E10231,Employee_231,37.0,Female,Sales,Sales Manager,136100.0,9.5,2024-06-03,Rawalpindi,3.0,5.0,No,No,4,27,7,No,No
+E10507,Employee_507,28.0,Female,HR,HR Specialist,88000.0,3.7,2025-07-24,Multan,1.0,2.0,No,No,10,55,3,No,No
+E10416,Employee_416,41.0,Male,Operations,Operations Analyst,131900.0,12.0,2025-06-28,Peshawar,4.0,3.0,Yes,Yes,9,50,19,No,No
+E10053,Employee_53,30.0,Female,Operations,Operations Manager,115200.0,4.8,2018-04-11,Multan,3.0,1.0,Yes,Yes,5,35,16,No,No
+E11271,Employee_1271,23.0,Female,IT,IT Support Specialist,35900.0,0.5,2024-06-26,Islamabad,5.0,3.0,No,Yes,4,14,9,No,No
+E11321,Employee_1321,42.0,Male,Customer Support,Support Specialist,185100.0,14.5,2024-09-03,Multan,2.0,4.0,No,Yes,4,26,8,No,No
+E10587,Employee_587,29.0,Male,IT,Data Analyst,77300.0,4.9,2020-12-25,Rawalpindi,,5.0,No,No,2,29,11,Yes,No
+E10685,Employee_685,34.0,Female,Marketing,Marketing Specialist,100000.0,7.9,2019-06-11,Islamabad,3.0,4.0,Yes,No,6,18,11,No,No
+E10559,Employee_559,30.0,Female,Marketing,Marketing Manager,107300.0,4.7,2025-03-04,Karachi,5.0,4.0,No,Yes,3,17,11,No,No
+E10197,Employee_197,23.0,Female,IT,IT Support Specialist,37100.0,0.6,2025-12-26,Islamabad,3.0,2.0,No,Yes,6,2,11,No,No
+E10772,Employee_772,29.0,Female,HR,HR Specialist,74600.0,3.9,2017-11-25,Rawalpindi,1.0,4.0,Yes,Yes,4,13,8,No,Yes
+E11032,Employee_1032,44.0,Female,Operations,Operations Manager,152700.0,12.7,2021-04-13,Lahore,3.0,2.0,No,No,3,42,21,No,No
+E11392,Employee_1392,38.0,Male,Operations,Operations Analyst,157500.0,9.8,2019-11-17,Karachi,2.0,3.0,Yes,No,1,29,9,No,No
+E10065,Employee_65,42.0,Male,Operations,Operations Manager,143300.0,12.7,2019-07-18,Rawalpindi,4.0,4.0,No,No,6,34,8,Yes,No
+E10677,Employee_677,36.0,Male,Sales,Sales Executive,101500.0,7.5,2020-11-28,Rawalpindi,5.0,5.0,Yes,No,2,45,10,No,No
+E10070,Employee_70,23.0,Female,HR,Recruiter,35000.0,0.5,2025-04-23,Karachi,4.0,4.0,Yes,No,6,29,16,No,No
+E11197,Employee_1197,39.0,Female,Marketing,Marketing Specialist,129500.0,10.5,2019-05-22,Karachi,3.0,4.0,No,Yes,9,47,15,No,No
+E11040,Employee_1040,35.0,Male,Operations,Operations Analyst,107300.0,9.6,2021-05-31,Karachi,3.0,4.0,Yes,No,8,8,17,No,No
+E10380,Employee_380,30.0,Male,Finance,Accountant,65100.0,5.6,2024-03-13,Multan,2.0,3.0,Yes,Yes,6,17,15,No,No
+E10268,Employee_268,35.0,Female,Finance,Accountant,77500.0,6.4,2021-04-17,Multan,3.0,2.0,No,Yes,5,43,8,No,No
+E11219,Employee_1219,36.0,Female,Operations,Operations Analyst,120400.0,7.8,2021-01-19,Peshawar,4.0,4.0,No,No,7,38,5,Yes,No
+E11444,Employee_1444,32.0,Male,Operations,Operations Analyst,111200.0,5.1,2021-12-12,Multan,4.0,3.0,Yes,Yes,8,30,10,No,No
+E10139,Employee_139,34.0,Male,Customer Support,Support Specialist,91000.0,7.8,2017-08-06,Karachi,2.0,2.0,No,No,1,4,12,No,No
+E10575,Employee_575,35.0,Female,Customer Support,Support Representative,116300.0,7.3,2020-05-01,Islamabad,4.0,3.0,No,No,5,19,17,No,Yes
+E10219,Employee_219,41.0,Female,Customer Support,Support Manager,,11.1,2022-03-02,Islamabad,3.0,4.0,Yes,No,8,29,11,No,Yes
+E11180,Employee_1180,26.0,Male,Finance,Finance Manager,63500.0,2.2,2018-11-17,Multan,3.0,5.0,Yes,Yes,8,25,8,No,No
+E10358,Employee_358,34.0,Female,Finance,Financial Analyst,130400.0,6.7,2018-01-13,Karachi,4.0,2.0,No,Yes,4,17,10,Yes,Yes
+E10484,Employee_484,32.0,Female,Finance,Finance Manager,113700.0,7.5,2021-01-31,Islamabad,4.0,5.0,Yes,Yes,6,24,17,Yes,No
+E11044,Employee_1044,33.0,Female,Marketing,Marketing Manager,88800.0,7.3,2017-02-01,Peshawar,2.0,4.0,No,No,4,38,18,No,No
+E10236,Employee_236,29.0,Female,Customer Support,Support Specialist,60600.0,4.2,2022-05-02,Rawalpindi,4.0,3.0,No,No,4,9,13,Yes,No
+E10694,Employee_694,36.0,Male,Finance,Accountant,101200.0,6.8,2023-04-08,Multan,1.0,4.0,Yes,No,8,19,17,No,No
+E10238,Employee_238,32.0,Male,IT,Software Engineer,83600.0,5.3,2022-10-30,Multan,4.0,3.0,Yes,Yes,1,5,17,No,No
+E11097,Employee_1097,33.0,Male,Sales,Account Executive,94000.0,6.7,2018-04-18,Multan,3.0,3.0,Yes,Yes,3,31,10,No,No
+E11198,Employee_1198,46.0,Female,Sales,Sales Executive,155600.0,13.4,2017-10-22,Rawalpindi,1.0,2.0,No,Yes,4,20,11,No,Yes
+E11456,Employee_1456,38.0,Female,Operations,Operations Manager,119700.0,8.1,2024-02-08,Rawalpindi,2.0,4.0,No,No,3,5,12,No,No
+E11052,Employee_1052,39.0,Male,IT,Software Engineer,167500.0,12.7,2019-04-10,Karachi,1.0,4.0,No,No,5,0,15,No,No
+E11403,Employee_1403,44.0,Male,IT,Data Analyst,130900.0,11.3,2021-01-25,Islamabad,3.0,4.0,Yes,No,0,23,3,No,No
+E10101,Employee_101,27.0,Male,IT,Data Analyst,74400.0,3.2,2021-08-09,Peshawar,4.0,4.0,No,Yes,4,41,6,No,No
+E10591,Employee_591,42.0,Male,Operations,Operations Analyst,102900.0,9.4,2018-06-09,Rawalpindi,3.0,5.0,No,No,4,39,18,No,No
+E10333,Employee_333,31.0,Male,Marketing,Marketing Specialist,93300.0,5.1,2017-05-12,Karachi,4.0,4.0,No,Yes,6,22,9,Yes,No
+E10987,Employee_987,23.0,Female,Finance,Finance Manager,35000.0,0.7,2022-01-23,Islamabad,2.0,4.0,No,No,8,20,12,No,Yes
+E10607,Employee_607,41.0,Male,Operations,Operations Manager,135300.0,12.0,2017-03-07,Peshawar,3.0,4.0,No,No,7,46,18,No,No
+E10958,Employee_958,37.0,Male,Marketing,Marketing Specialist,117400.0,9.6,2020-12-16,Rawalpindi,2.0,3.0,Yes,No,6,24,9,No,No
+E10757,Employee_757,24.0,Female,Finance,Financial Analyst,35100.0,0.9,2025-10-21,Rawalpindi,3.0,4.0,No,Yes,7,34,7,No,No
+E11080,Employee_1080,43.0,Female,Marketing,Content Strategist,201100.0,15.4,2023-07-30,Rawalpindi,4.0,1.0,No,No,0,14,10,No,No
+E10259,Employee_259,41.0,Female,IT,Data Analyst,143600.0,11.8,2019-02-09,Islamabad,3.0,4.0,No,Yes,0,15,10,No,Yes
+E11236,Employee_1236,24.0,Male,Operations,Coordinator,63400.0,1.5,2021-07-30,Karachi,3.0,4.0,Yes,No,2,2,17,No,No
+E11173,Employee_1173,26.0,Female,Operations,Operations Analyst,65300.0,2.8,2021-09-08,Peshawar,3.0,4.0,No,No,7,26,10,No,Yes
+E10871,Employee_871,26.0,Male,Marketing,Marketing Specialist,,1.9,2025-12-17,Islamabad,1.0,1.0,Yes,No,0,27,10,No,No
+E11407,Employee_1407,35.0,Female,Customer Support,Support Specialist,119200.0,9.6,2025-06-27,Peshawar,3.0,4.0,No,No,9,40,12,No,No
+E10860,Employee_860,38.0,Male,IT,Software Engineer,125900.0,9.9,2020-09-25,Peshawar,4.0,5.0,No,No,10,33,13,Yes,No
+E10438,Employee_438,24.0,Female,Operations,Operations Manager,60400.0,1.2,2020-10-12,Karachi,3.0,2.0,Yes,No,5,15,6,No,No
+E10553,Employee_553,29.0,Female,IT,Software Engineer,111900.0,4.4,2019-10-30,Karachi,4.0,4.0,No,No,7,54,12,No,No
+E10787,Employee_787,42.0,Female,Customer Support,Support Representative,143100.0,9.3,2018-05-26,Islamabad,3.0,4.0,No,Yes,2,36,13,No,No
+E10073,Employee_73,32.0,Male,Operations,Operations Analyst,87700.0,5.9,2020-01-30,Peshawar,4.0,4.0,Yes,Yes,4,0,9,No,No
+E10770,Employee_770,47.0,Female,Finance,Financial Analyst,190200.0,16.3,2023-03-13,Rawalpindi,4.0,4.0,No,Yes,9,44,11,Yes,No
+E10085,Employee_85,36.0,Male,Customer Support,Support Specialist,115800.0,10.4,2023-09-09,Karachi,4.0,5.0,No,No,2,28,8,Yes,No
+E10545,Employee_545,38.0,Female,Customer Support,Support Specialist,163200.0,11.9,2023-08-23,Rawalpindi,4.0,4.0,No,Yes,9,27,19,No,No
+E11492,Employee_1492,28.0,Male,Operations,Coordinator,77500.0,4.3,2022-07-25,Islamabad,3.0,5.0,Yes,No,7,44,15,No,Yes
+E11168,Employee_1168,37.0,Male,Marketing,Marketing Manager,120100.0,11.0,2017-12-14,Multan,3.0,3.0,No,No,6,33,5,No,No
+E10755,Employee_755,28.0,Male,Customer Support,Support Specialist,99900.0,3.8,2021-04-11,Rawalpindi,3.0,3.0,No,No,3,36,17,No,No
+E11034,Employee_1034,42.0,Male,IT,Data Analyst,126300.0,9.5,2022-10-26,Peshawar,3.0,5.0,No,Yes,8,22,10,No,No
+E11312,Employee_1312,28.0,Female,Marketing,Marketing Manager,83000.0,4.4,2021-03-07,Lahore,4.0,5.0,No,No,8,29,12,Yes,No
+E11224,Employee_1224,36.0,Female,HR,Recruiter,98800.0,7.0,2023-09-09,Islamabad,3.0,3.0,Yes,No,5,17,14,No,No
+E11347,Employee_1347,29.0,Male,Operations,Operations Analyst,78000.0,4.8,2025-10-01,Multan,3.0,3.0,Yes,Yes,5,4,8,No,No
+E10690,Employee_690,32.0,Male,Marketing,Content Strategist,117400.0,4.7,2017-06-24,Lahore,3.0,4.0,Yes,No,3,19,9,No,No
+E10369,Employee_369,29.0,Male,IT,Software Engineer,52500.0,4.0,2021-11-09,Rawalpindi,3.0,3.0,No,Yes,3,32,10,No,No
+E10451,Employee_451,35.0,Female,IT,IT Manager,97200.0,6.2,2018-08-10,Karachi,4.0,3.0,Yes,No,6,19,17,Yes,No
+E10278,Employee_278,40.0,Female,HR,HR Manager,107600.0,9.3,2020-07-23,Lahore,4.0,4.0,No,No,5,20,13,No,No
+E10715,Employee_715,22.0,Male,Operations,Coordinator,67400.0,0.0,2025-08-24,Lahore,2.0,4.0,Yes,Yes,0,32,10,No,Yes
+E11445,Employee_1445,34.0,Female,Operations,Operations Analyst,141200.0,8.8,2022-10-02,Peshawar,3.0,3.0,No,Yes,7,31,13,No,No
+E11474,Employee_1474,35.0,Male,Operations,Operations Analyst,149900.0,9.6,2024-09-16,Islamabad,5.0,3.0,No,Yes,3,24,17,No,No
+E10853,Employee_853,36.0,Male,Marketing,Marketing Specialist,73700.0,9.1,2020-10-28,Multan,4.0,3.0,No,No,6,21,10,No,No
+E10572,Employee_572,40.0,Female,Finance,Finance Manager,128100.0,10.3,2024-10-14,Multan,3.0,1.0,Yes,Yes,7,19,17,No,Yes
+E11151,Employee_1151,43.0,Female,Sales,Account Executive,170400.0,14.4,2025-03-06,Karachi,3.0,3.0,No,Yes,5,31,10,No,No
+E10686,Employee_686,38.0,Female,Customer Support,Support Specialist,114000.0,10.7,2017-01-13,Lahore,1.0,5.0,No,Yes,1,27,15,No,No
+E10133,Employee_133,50.0,Male,Marketing,Marketing Manager,168100.0,14.3,2022-07-06,Lahore,4.0,4.0,No,Yes,10,22,10,Yes,No
+E10092,Employee_92,45.0,Female,Customer Support,Support Specialist,175400.0,15.2,2017-08-23,Lahore,2.0,2.0,Yes,No,3,20,16,No,No
+E11306,Employee_1306,37.0,Female,Customer Support,Support Representative,127500.0,8.1,2024-08-05,Peshawar,,2.0,No,Yes,4,50,9,No,No
+E10594,Employee_594,32.0,Male,Finance,Financial Analyst,100700.0,5.7,2023-01-20,Multan,5.0,3.0,No,No,4,0,9,Yes,No
+E10628,Employee_628,27.0,Female,IT,IT Support Specialist,65800.0,2.9,2020-05-02,Lahore,3.0,3.0,No,Yes,2,18,10,No,No
+E10429,Employee_429,34.0,Male,Marketing,Marketing Manager,70700.0,6.6,2022-07-31,Karachi,3.0,3.0,No,No,2,35,8,No,No
+E11062,Employee_1062,31.0,Female,Operations,Operations Analyst,,6.4,2019-09-21,Peshawar,4.0,3.0,Yes,No,7,28,11,Yes,No
+E11169,Employee_1169,44.0,Male,Operations,Coordinator,169000.0,13.3,2018-11-25,Lahore,3.0,3.0,Yes,Yes,4,22,15,No,No
+E10345,Employee_345,37.0,Male,Customer Support,Support Manager,137200.0,9.4,2017-01-16,Peshawar,4.0,3.0,No,No,8,48,9,Yes,No
+E11311,Employee_1311,31.0,Male,Sales,Account Executive,122700.0,6.2,2019-03-26,Lahore,3.0,3.0,No,Yes,9,4,19,No,No
+E10820,Employee_820,31.0,Male,HR,HR Manager,90000.0,5.0,2017-12-21,Karachi,3.0,4.0,No,No,7,27,16,No,No
+E10823,Employee_823,23.0,Male,Marketing,Marketing Specialist,72900.0,0.7,2024-04-26,Islamabad,5.0,5.0,No,No,4,27,18,No,No
+E10426,Employee_426,,Male,IT,IT Support Specialist,80800.0,5.7,2018-07-13,Multan,3.0,3.0,Yes,No,4,20,13,No,No
+E11290,Employee_1290,38.0,Male,Customer Support,Support Representative,165400.0,10.2,2017-10-03,,2.0,1.0,No,Yes,8,17,12,No,No
+E10833,Employee_833,25.0,Male,Marketing,Marketing Specialist,65100.0,2.0,2023-03-08,Karachi,4.0,5.0,No,Yes,5,30,15,No,No
+E10181,Employee_181,38.0,Male,Sales,Sales Manager,96600.0,9.6,2022-05-06,Karachi,2.0,5.0,No,Yes,9,15,12,No,Yes
+E10697,Employee_697,43.0,Male,Finance,Accountant,160000.0,15.2,2020-05-03,Karachi,4.0,3.0,No,No,6,33,12,Yes,No
+E10998,Employee_998,47.0,Male,Customer Support,Support Manager,179400.0,14.9,2021-01-22,Multan,5.0,3.0,Yes,No,7,21,9,Yes,No
+E10829,Employee_829,42.0,Female,Marketing,Content Strategist,145200.0,10.0,,Islamabad,3.0,5.0,No,No,0,17,9,No,No
+E10107,Employee_107,29.0,Male,IT,IT Support Specialist,83600.0,4.7,2020-02-16,Lahore,3.0,3.0,Yes,Yes,9,34,10,No,No
+E10519,Employee_519,38.0,Female,IT,IT Support Specialist,132900.0,8.4,2024-08-18,Karachi,4.0,3.0,Yes,Yes,4,22,13,No,No
+E10704,Employee_704,28.0,Male,IT,Software Engineer,60200.0,2.8,2022-01-17,Karachi,3.0,3.0,Yes,No,0,14,15,No,Yes
+E10095,Employee_95,30.0,Female,Operations,Operations Manager,106900.0,3.9,2020-09-22,Peshawar,,1.0,Yes,No,7,23,3,No,Yes
+E10764,Employee_764,24.0,Female,HR,Recruiter,36400.0,1.1,2019-01-18,Peshawar,1.0,3.0,No,No,6,26,10,No,No
+E11368,Employee_1368,52.0,Female,Operations,Operations Manager,164700.0,14.3,2025-10-25,Multan,4.0,4.0,No,No,6,11,12,Yes,No
+E11289,Employee_1289,33.0,Male,Customer Support,Support Representative,99400.0,5.1,2021-10-31,Rawalpindi,3.0,4.0,No,No,7,38,10,No,Yes
+E10376,Employee_376,34.0,Male,Finance,Accountant,96400.0,7.4,2024-01-03,Rawalpindi,1.0,5.0,No,No,5,21,12,No,No
+E10807,Employee_807,24.0,Female,IT,IT Support Specialist,52800.0,1.0,,Lahore,,1.0,No,No,4,34,22,No,Yes
+E10027,Employee_27,31.0,Male,Sales,Sales Manager,79300.0,6.1,2017-01-16,Peshawar,3.0,5.0,No,No,3,24,13,No,No
+E10708,Employee_708,36.0,Female,Operations,Operations Manager,148400.0,9.0,2018-05-10,Peshawar,3.0,4.0,No,No,3,31,9,No,No
+E10939,Employee_939,29.0,Male,Finance,Financial Analyst,95800.0,4.9,2022-10-25,Peshawar,4.0,4.0,No,No,8,17,16,No,No
+E11411,Employee_1411,37.0,Male,Sales,Sales Executive,143400.0,11.0,2020-04-22,Rawalpindi,4.0,3.0,No,No,7,20,14,No,No
+E11441,Employee_1441,39.0,Female,Sales,Sales Executive,125000.0,10.4,2024-07-18,Rawalpindi,2.0,,No,No,3,6,11,No,Yes
+E11360,Employee_1360,34.0,Female,IT,Software Engineer,85900.0,5.7,2018-12-23,Lahore,3.0,4.0,No,Yes,8,48,10,No,No
+E10346,Employee_346,45.0,Female,Sales,Sales Executive,187400.0,16.5,2019-09-24,Islamabad,3.0,3.0,No,No,6,3,20,No,No
+E11413,Employee_1413,27.0,Male,Operations,Operations Manager,64800.0,3.6,2020-10-30,Peshawar,3.0,3.0,No,Yes,6,32,4,No,No
+E10233,Employee_233,34.0,Female,Finance,Financial Analyst,103900.0,6.4,2018-12-24,Lahore,4.0,4.0,Yes,Yes,5,40,17,No,No
+E11412,Employee_1412,34.0,Male,IT,Data Analyst,52700.0,6.6,2020-12-19,Karachi,4.0,3.0,No,Yes,6,29,13,Yes,No
+E10858,Employee_858,41.0,Male,IT,IT Manager,161100.0,11.1,2025-05-23,Karachi,4.0,4.0,Yes,No,0,25,3,No,No
+E10567,Employee_567,33.0,Male,Sales,Sales Executive,106900.0,6.7,2017-01-08,Rawalpindi,5.0,5.0,Yes,No,9,25,9,Yes,No
+E11057,Employee_1057,39.0,Female,Finance,Financial Analyst,143500.0,8.9,2023-11-17,Islamabad,5.0,4.0,No,No,7,31,8,Yes,No
+E10696,Employee_696,21.0,Female,HR,HR Manager,43300.0,0.0,2022-08-24,Rawalpindi,2.0,4.0,No,No,9,28,18,No,No
+E11498,Employee_1498,30.0,Male,Sales,Account Executive,100200.0,5.7,2022-09-18,Multan,4.0,4.0,No,Yes,9,41,16,Yes,No
+E11115,Employee_1115,35.0,Female,Sales,Sales Manager,97500.0,7.8,2024-07-04,Islamabad,3.0,1.0,No,No,9,19,14,No,No
+E10289,Employee_289,26.0,Male,IT,IT Manager,46300.0,2.3,2022-05-19,Islamabad,5.0,4.0,No,Yes,3,20,2,No,No
+E10310,Employee_310,38.0,Male,IT,Software Engineer,120700.0,10.6,2024-09-02,Multan,2.0,5.0,No,No,6,1,12,No,No
+E11459,Employee_1459,39.0,Male,Sales,Sales Manager,117200.0,8.9,2019-03-31,Peshawar,2.0,2.0,No,Yes,5,29,8,No,No
+E11376,Employee_1376,39.0,Female,Finance,Financial Analyst,87800.0,11.0,2019-07-30,Karachi,4.0,4.0,No,No,3,31,12,Yes,No
+E10365,Employee_365,37.0,Female,Customer Support,Support Specialist,151800.0,10.3,2022-01-14,Islamabad,3.0,3.0,No,No,4,16,18,No,No
+E10284,Employee_284,36.0,Male,Marketing,Marketing Manager,123800.0,10.4,2025-07-26,Rawalpindi,2.0,5.0,Yes,No,0,10,13,No,No
+E10803,Employee_803,21.0,Female,Finance,Accountant,49500.0,0.0,2019-04-10,Lahore,4.0,3.0,No,No,3,22,13,No,No
+E10890,Employee_890,42.0,Male,Operations,Operations Manager,165800.0,13.3,2021-05-27,Lahore,3.0,5.0,No,Yes,2,11,16,No,No
+E10079,Employee_79,43.0,Male,Marketing,Content Strategist,164200.0,12.9,2023-04-30,Islamabad,3.0,3.0,No,No,3,28,12,No,No
+E11105,Employee_1105,21.0,Female,IT,Software Engineer,35000.0,0.0,2022-02-28,Lahore,5.0,5.0,No,No,3,21,7,No,No
+E10502,Employee_502,41.0,Male,Sales,Sales Manager,109100.0,8.6,2018-11-11,Multan,4.0,3.0,No,Yes,5,31,7,Yes,No
+E11217,Employee_1217,36.0,Male,Marketing,Marketing Specialist,88900.0,7.1,2020-03-01,Peshawar,2.0,3.0,Yes,Yes,3,10,14,No,No
+E11126,Employee_1126,24.0,Female,Customer Support,Support Representative,51400.0,0.9,2019-05-02,Karachi,3.0,5.0,Yes,No,6,47,10,No,No
+E10528,Employee_528,29.0,Male,Customer Support,Support Manager,82800.0,4.3,2021-05-15,Rawalpindi,4.0,3.0,No,No,0,8,9,No,No
+E10222,Employee_222,22.0,Female,IT,IT Manager,55000.0,0.0,2024-04-04,Peshawar,3.0,3.0,No,No,5,27,9,No,No
+E11090,Employee_1090,36.0,Male,Operations,Coordinator,116400.0,7.1,2021-10-12,Peshawar,4.0,4.0,No,No,5,34,13,No,No
+E11253,Employee_1253,50.0,Male,Sales,Sales Manager,161700.0,12.8,2025-02-18,Peshawar,2.0,3.0,No,No,3,21,25,No,No
+E10877,Employee_877,27.0,Female,Sales,Sales Manager,73300.0,2.9,2017-07-15,Karachi,1.0,4.0,No,Yes,8,52,17,No,No
+E10500,Employee_500,30.0,Female,Sales,Account Executive,77100.0,4.8,2021-02-06,Islamabad,2.0,3.0,No,No,10,22,4,No,No
+E10282,Employee_282,38.0,Male,Customer Support,Support Representative,155800.0,9.4,2018-03-20,Rawalpindi,3.0,5.0,No,Yes,8,22,19,No,No
+E10495,Employee_495,36.0,Male,Operations,Operations Analyst,98000.0,8.7,2021-06-15,,4.0,5.0,No,No,6,26,9,Yes,No
+E10947,Employee_947,47.0,Male,Sales,Sales Executive,148100.0,14.0,2018-11-28,Multan,4.0,4.0,No,No,3,26,10,No,No
+E10038,Employee_38,27.0,Male,Operations,Operations Manager,unknown,2.8,2021-07-15,Peshawar,3.0,4.0,No,Yes,4,29,10,No,No
+E10707,Employee_707,30.0,Male,Sales,Sales Manager,86400.0,5.8,2019-05-22,Rawalpindi,3.0,4.0,Yes,Yes,8,23,12,No,No
+E10994,Employee_994,44.0,Female,HR,Recruiter,146800.0,11.6,2017-08-03,Rawalpindi,3.0,1.0,Yes,No,4,15,10,No,No
+E10489,Employee_489,52.0,Female,HR,Recruiter,188400.0,17.0,2025-12-28,Islamabad,2.0,4.0,No,No,4,19,21,No,No
+E11190,Employee_1190,33.0,Female,HR,HR Manager,110500.0,6.0,2022-06-24,Karachi,4.0,3.0,No,No,4,30,13,No,No
+E11235,Employee_1235,35.0,Female,Customer Support,Support Representative,106700.0,8.4,2019-09-14,Lahore,4.0,4.0,No,No,4,30,24,Yes,No
+E10647,Employee_647,36.0,Female,HR,Recruiter,109800.0,8.1,2024-09-12,Karachi,4.0,5.0,No,No,5,17,14,Yes,No
+E10106,Employee_106,46.0,Male,Finance,Accountant,173200.0,15.1,2020-05-27,Islamabad,4.0,4.0,Yes,No,9,19,10,No,No
+E10982,Employee_982,22.0,Female,Customer Support,Support Representative,63900.0,0.0,2023-06-02,Multan,2.0,4.0,No,No,4,13,7,No,No
+E10734,Employee_734,25.0,Male,Operations,Operations Analyst,61300.0,2.1,2019-10-27,Islamabad,3.0,4.0,No,No,0,35,16,No,No
+E10972,Employee_972,27.0,Female,Customer Support,Support Specialist,66800.0,3.5,2019-02-13,Karachi,4.0,5.0,No,Yes,7,35,11,No,No
+E10126,Employee_126,40.0,Male,Operations,Coordinator,168100.0,12.7,2019-12-30,Lahore,2.0,4.0,No,No,3,37,3,No,No
+E10859,Employee_859,41.0,Female,Finance,Financial Analyst,162500.0,13.6,2024-05-20,Peshawar,5.0,2.0,No,No,7,31,13,Yes,No
+E11031,Employee_1031,51.0,Male,Marketing,Content Strategist,216500.0,19.2,2021-12-23,Rawalpindi,3.0,5.0,Yes,No,9,16,10,No,No
+E10951,Employee_951,37.0,Female,Sales,Sales Executive,133000.0,10.4,2025-04-05,Peshawar,4.0,3.0,No,No,4,9,11,No,No
+E11316,Employee_1316,24.0,Female,Operations,Operations Analyst,35000.0,1.4,2017-11-06,Peshawar,4.0,3.0,No,Yes,5,26,28,No,No
+E10385,Employee_385,50.0,Female,IT,Data Analyst,165500.0,15.0,2019-03-18,Multan,3.0,5.0,No,No,8,29,18,No,No
+E10895,Employee_895,33.0,Female,Customer Support,Support Specialist,103300.0,7.0,2017-06-14,Islamabad,3.0,4.0,No,Yes,6,32,11,No,No
+E10162,Employee_162,38.0,Female,Finance,Accountant,107100.0,10.4,2019-05-26,Multan,4.0,4.0,No,No,6,3,0,No,No
+E11096,Employee_1096,25.0,Male,Operations,Operations Analyst,46000.0,1.5,2025-06-29,Islamabad,5.0,4.0,No,Yes,9,18,12,No,Yes
+E10490,Employee_490,33.0,Female,Operations,Operations Analyst,87300.0,6.1,2021-03-24,Multan,4.0,4.0,No,No,4,49,18,Yes,Yes
+E10712,Employee_712,31.0,Female,Operations,Coordinator,84500.0,6.7,2019-12-12,Lahore,4.0,3.0,No,No,6,30,14,Yes,No
+E11261,Employee_1261,34.0,Male,IT,Software Engineer,119500.0,5.8,2018-08-04,Rawalpindi,3.0,3.0,Yes,No,12,18,20,No,No
+E10374,Employee_374,46.0,Female,Operations,Operations Analyst,176800.0,14.3,2020-08-12,Peshawar,2.0,2.0,No,No,4,35,13,No,Yes
+E10442,Employee_442,30.0,Female,Sales,Account Executive,71900.0,6.0,2025-04-19,Islamabad,4.0,5.0,No,Yes,0,7,7,Yes,No
+E10632,Employee_632,44.0,Female,IT,Software Engineer,190500.0,14.6,2017-02-04,Lahore,2.0,4.0,No,No,3,25,21,No,No
+E10811,Employee_811,29.0,Female,Finance,Accountant,49400.0,4.6,2018-01-28,Rawalpindi,2.0,5.0,No,No,3,52,15,No,No
+E11156,Employee_1156,23.0,Female,HR,HR Specialist,35000.0,0.7,2023-02-25,Islamabad,4.0,1.0,Yes,Yes,8,28,6,No,No
+E10640,Employee_640,53.0,Male,Operations,Operations Manager,256600.0,19.3,2018-05-09,Karachi,3.0,4.0,No,No,4,25,14,No,No
+E11021,Employee_1021,33.0,Female,Operations,Coordinator,112700.0,5.4,2017-11-30,Islamabad,4.0,4.0,No,No,4,3,15,Yes,No
+E11053,Employee_1053,36.0,Female,Operations,Operations Analyst,74600.0,7.9,2021-06-08,Rawalpindi,5.0,4.0,No,No,4,4,10,Yes,No
+E10375,Employee_375,50.0,Male,Operations,Operations Manager,172200.0,13.2,2019-05-18,Rawalpindi,2.0,4.0,No,No,6,20,12,No,No
+E10724,Employee_724,47.0,Female,Sales,Sales Manager,188900.0,15.7,2021-04-03,Peshawar,4.0,4.0,Yes,Yes,8,33,6,No,Yes
+E11106,Employee_1106,50.0,Male,Finance,Accountant,232100.0,20.4,2022-05-30,Rawalpindi,3.0,2.0,No,Yes,9,41,7,No,Yes
+E10767,Employee_767,32.0,Female,Marketing,Marketing Manager,100300.0,6.4,2023-05-12,Rawalpindi,4.0,2.0,No,Yes,5,22,9,No,No
+E10977,Employee_977,34.0,Female,IT,IT Support Specialist,unknown,5.5,2023-12-12,Peshawar,4.0,4.0,No,No,7,20,16,Yes,No
+E10119,Employee_119,39.0,Female,Finance,Financial Analyst,158000.0,9.7,2022-02-26,Karachi,5.0,5.0,No,No,4,29,15,No,No
+E10899,Employee_899,36.0,Male,Marketing,Content Strategist,114200.0,9.0,2021-12-01,Multan,2.0,5.0,Yes,No,6,36,14,No,No
+E10802,Employee_802,31.0,Male,Finance,Finance Manager,100300.0,4.6,2018-04-03,Islamabad,1.0,5.0,No,Yes,7,20,12,No,No
+E11458,Employee_1458,21.0,Female,Customer Support,Support Representative,35000.0,0.0,2023-02-27,Karachi,4.0,4.0,No,Yes,5,20,7,No,No
+E11201,Employee_1201,30.0,Female,Finance,Finance Manager,90500.0,4.5,2024-02-09,Multan,4.0,1.0,No,No,4,30,16,Yes,No
+E10825,Employee_825,26.0,Male,Operations,Coordinator,64900.0,2.9,2023-05-27,Peshawar,3.0,2.0,Yes,No,4,20,25,No,No
+E10415,Employee_415,36.0,Female,HR,Recruiter,121300.0,8.3,,Multan,2.0,4.0,Yes,No,10,11,8,No,No
+E10856,Employee_856,29.0,Male,IT,Software Engineer,57500.0,3.7,2019-03-11,Peshawar,1.0,4.0,Yes,No,5,34,13,No,No
+E10805,Employee_805,26.0,Male,Customer Support,Support Representative,62600.0,2.4,2022-08-19,Rawalpindi,4.0,4.0,Yes,Yes,0,24,11,No,No
+E10128,Employee_128,46.0,Female,Finance,Accountant,167000.0,13.9,2025-08-08,,4.0,2.0,No,No,7,31,10,No,No
+E11374,Employee_1374,21.0,Male,HR,HR Manager,35000.0,0.0,2018-07-12,Peshawar,3.0,5.0,No,No,8,13,12,No,No
+E11379,Employee_1379,24.0,Male,Marketing,Content Strategist,42400.0,1.0,2025-06-14,Rawalpindi,3.0,3.0,Yes,No,4,10,16,No,No
+E10573,Employee_573,32.0,Male,Sales,Account Executive,83600.0,6.6,2021-07-01,Multan,2.0,3.0,No,No,2,15,9,No,No
+E11091,Employee_1091,35.0,Female,Operations,Operations Manager,135300.0,9.0,2020-03-20,Karachi,5.0,3.0,Yes,No,1,20,8,No,No
+E10936,Employee_936,46.0,Male,HR,HR Specialist,182000.0,15.0,2017-06-23,Karachi,3.0,5.0,No,Yes,7,9,7,No,No
+E10673,Employee_673,31.0,Male,IT,Data Analyst,87300.0,6.3,2025-10-07,Peshawar,4.0,3.0,No,No,5,11,7,No,No
+E10400,Employee_400,32.0,Female,Operations,Operations Manager,74500.0,6.0,2025-01-04,Multan,4.0,4.0,No,No,10,28,9,Yes,No
+E10779,Employee_779,35.0,Female,Marketing,Marketing Specialist,117200.0,6.6,2020-04-10,Peshawar,3.0,3.0,No,No,6,9,4,No,No
+E10552,Employee_552,31.0,Female,Finance,Financial Analyst,49300.0,4.2,2025-08-14,Multan,3.0,5.0,No,No,4,20,15,No,Yes
+E10565,Employee_565,39.0,Male,IT,Software Engineer,123800.0,9.4,2024-06-19,,4.0,3.0,No,No,7,0,17,No,No
+E10175,Employee_175,41.0,Female,Operations,Operations Analyst,141100.0,11.0,2019-12-20,Islamabad,2.0,,No,No,5,15,16,No,No
+E10321,Employee_321,28.0,Male,Sales,Sales Executive,69100.0,3.9,2022-06-03,Rawalpindi,3.0,5.0,No,Yes,7,23,12,No,No
+E10525,Employee_525,34.0,Female,HR,Recruiter,124300.0,8.9,2017-06-20,Rawalpindi,4.0,4.0,No,No,6,39,8,Yes,No
+E10470,Employee_470,21.0,Female,IT,Software Engineer,63900.0,0.0,2019-04-24,Peshawar,3.0,3.0,No,No,6,19,4,No,No
+E11369,Employee_1369,33.0,Male,Sales,Sales Manager,101800.0,6.5,2018-05-10,Multan,4.0,3.0,Yes,Yes,5,0,15,Yes,No
+E11430,Employee_1430,33.0,Female,HR,Recruiter,70200.0,6.7,2020-04-10,Multan,4.0,3.0,No,Yes,6,18,7,Yes,No
+E11335,Employee_1335,39.0,Female,HR,HR Specialist,98100.0,8.4,2020-01-24,Rawalpindi,5.0,4.0,Yes,Yes,2,0,9,Yes,No
+E10080,Employee_80,31.0,Male,Finance,Financial Analyst,64600.0,4.6,2021-07-01,Karachi,4.0,3.0,No,No,3,29,15,Yes,No
+E10534,Employee_534,38.0,Female,Customer Support,Support Representative,141700.0,9.1,2018-02-12,Islamabad,4.0,2.0,No,No,1,28,11,Yes,Yes
+E11042,Employee_1042,28.0,Female,Operations,Operations Analyst,61900.0,3.9,2017-05-02,Multan,3.0,2.0,No,Yes,5,14,15,No,No
+E10458,Employee_458,27.0,Male,HR,HR Specialist,98100.0,2.3,2018-08-02,Lahore,3.0,4.0,No,No,1,21,13,No,No
+E10291,Employee_291,48.0,Male,IT,Software Engineer,167800.0,11.9,2022-01-03,Karachi,4.0,3.0,No,No,3,39,14,No,No
+E10371,Employee_371,50.0,Male,Operations,Operations Manager,204400.0,18.5,2021-03-04,Karachi,3.0,4.0,No,Yes,7,36,8,No,No
+E10266,Employee_266,39.0,Female,Sales,Sales Executive,163600.0,12.2,2023-12-05,Lahore,3.0,3.0,No,Yes,9,34,11,No,No
+E10589,Employee_589,,Male,Operations,Operations Manager,38800.0,0.0,2021-09-08,Multan,1.0,4.0,No,No,4,15,12,No,No
+E10478,Employee_478,34.0,Female,HR,Recruiter,98800.0,7.2,2020-11-06,Karachi,3.0,4.0,Yes,No,8,28,17,No,No
+E10165,Employee_165,33.0,Male,Customer Support,Support Manager,91500.0,6.6,2024-09-10,Karachi,3.0,2.0,Yes,Yes,4,37,3,No,No
+E11288,Employee_1288,37.0,Male,IT,IT Support Specialist,96800.0,7.4,2022-01-21,Rawalpindi,3.0,3.0,No,No,5,18,4,No,No
+E10094,Employee_94,40.0,Female,IT,IT Support Specialist,137100.0,10.5,2022-01-29,Karachi,4.0,4.0,Yes,No,3,11,11,Yes,No
+E10474,Employee_474,23.0,female,Finance,Accountant,78800.0,0.6,2019-08-21,Lahore,5.0,4.0,No,Yes,1,48,19,No,No
+E10198,Employee_198,29.0,Female,IT,IT Support Specialist,50000.0,4.1,2019-01-19,Islamabad,3.0,3.0,No,No,3,27,4,No,No
+E10186,Employee_186,32.0,Female,Customer Support,Support Representative,65100.0,5.5,2022-03-18,Peshawar,2.0,5.0,No,No,0,34,19,No,No
+E10996,Employee_996,47.0,Male,Finance,Accountant,184300.0,16.3,2024-08-11,Lahore,3.0,3.0,Yes,Yes,7,15,9,No,No
+E10422,Employee_422,28.0,Female,IT,Data Analyst,108100.0,4.3,2024-04-29,Peshawar,4.0,,No,No,4,8,5,No,No
+E10452,Employee_452,56.0,Female,Sales,Sales Manager,213600.0,18.4,2017-11-25,Peshawar,2.0,3.0,No,No,1,15,11,No,No
+E10257,Employee_257,29.0,Female,Customer Support,Support Specialist,93300.0,4.6,2023-05-06,Karachi,4.0,2.0,Yes,Yes,9,12,17,Yes,No
+E10136,Employee_136,41.0,Male,Sales,Sales Manager,87200.0,10.4,2020-03-06,Lahore,1.0,5.0,No,Yes,5,17,3,No,No
+E11200,Employee_1200,34.0,Male,Operations,Coordinator,135400.0,8.9,2019-05-14,Rawalpindi,5.0,1.0,Yes,No,9,33,18,Yes,No
+E10959,Employee_959,48.0,Male,Finance,Financial Analyst,156600.0,15.0,2023-01-06,Rawalpindi,5.0,3.0,Yes,Yes,3,20,4,No,No
+E10052,Employee_52,35.0,Female,Marketing,Content Strategist,87200.0,7.6,2020-07-02,Peshawar,1.0,1.0,No,Yes,5,36,20,No,No
+E10955,Employee_955,43.0,Male,Marketing,Marketing Specialist,171200.0,15.0,2019-12-31,Rawalpindi,4.0,4.0,No,No,7,3,4,No,No
+E10584,Employee_584,42.0,Male,Customer Support,Support Representative,123900.0,12.0,2024-02-12,Karachi,5.0,5.0,No,No,2,11,12,No,No
+E11104,Employee_1104,30.0,Female,Sales,Account Executive,81500.0,3.6,2020-09-22,Rawalpindi,4.0,5.0,No,Yes,1,36,11,No,No
+E11355,Employee_1355,33.0,Male,IT,IT Support Specialist,123800.0,7.1,2018-03-23,Peshawar,4.0,5.0,No,No,6,15,19,No,No
+E11404,Employee_1404,30.0,Female,HR,HR Specialist,108800.0,5.0,2022-10-05,Peshawar,3.0,4.0,No,No,6,33,12,No,No
+E10050,Employee_50,35.0,Male,Marketing,Marketing Manager,110000.0,7.2,2023-09-11,Peshawar,3.0,5.0,No,No,6,37,8,No,No
+E10342,Employee_342,32.0,Male,HR,HR Specialist,94200.0,5.6,2018-05-24,Islamabad,3.0,4.0,No,Yes,3,27,17,No,No
+E10798,Employee_798,28.0,Female,IT,Data Analyst,65100.0,3.0,2023-11-04,Rawalpindi,5.0,3.0,Yes,No,4,28,14,No,No
+E10970,Employee_970,53.0,Male,Finance,Accountant,265200.0,22.9,2025-05-30,Multan,4.0,3.0,No,No,3,20,12,No,No
+E10527,Employee_527,27.0,Male,Operations,Operations Analyst,77600.0,2.7,2021-04-03,Lahore,3.0,4.0,No,Yes,8,12,11,No,No
+E10948,Employee_948,26.0,Female,IT,Data Analyst,97800.0,2.4,2025-05-16,Karachi,3.0,4.0,No,No,1,26,16,No,No
+E11079,Employee_1079,38.0,Male,Sales,Account Executive,123200.0,9.1,2024-01-20,Lahore,2.0,4.0,Yes,No,5,16,11,No,No
+E10683,Employee_683,38.0,Male,IT,Software Engineer,131700.0,11.7,2019-06-29,Rawalpindi,3.0,4.0,No,Yes,3,39,15,No,No
+E10463,Employee_463,48.0,Female,Operations,Operations Manager,220800.0,19.2,2023-08-20,Lahore,3.0,4.0,No,Yes,5,25,13,No,No
+E10887,Employee_887,42.0,Female,Sales,Sales Executive,139700.0,10.6,2021-03-08,Rawalpindi,5.0,4.0,Yes,Yes,5,13,16,No,No
+E10960,Employee_960,34.0,Female,HR,Recruiter,73700.0,5.9,2025-02-05,Lahore,4.0,4.0,Yes,Yes,5,52,3,Yes,No
+E11291,Employee_1291,30.0,Male,Operations,Coordinator,62300.0,3.7,2020-03-21,Multan,3.0,4.0,No,Yes,6,26,11,No,No
+E10469,Employee_469,37.0,Male,Sales,Account Executive,140400.0,10.0,2023-11-27,Rawalpindi,2.0,4.0,Yes,Yes,2,17,6,No,No
+E10648,Employee_648,24.0,Female,Sales,Account Executive,72300.0,1.1,2023-06-01,Islamabad,5.0,5.0,No,Yes,5,12,0,No,No
+E11191,Employee_1191,37.0,Male,Finance,Finance Manager,100700.0,7.5,2022-08-24,Karachi,4.0,3.0,Yes,No,6,44,7,No,No
+E10034,Employee_34,34.0,Female,Sales,Sales Executive,102900.0,8.7,2021-07-05,Islamabad,2.0,2.0,No,Yes,6,11,15,No,No
+E10417,Employee_417,34.0,Male,Customer Support,Support Specialist,115800.0,6.9,2020-08-20,Multan,5.0,4.0,No,No,4,44,25,Yes,No
+E10810,Employee_810,37.0,Male,Sales,Account Executive,137300.0,7.5,2019-06-06,Peshawar,3.0,4.0,No,Yes,2,0,19,No,No
+E10248,Employee_248,36.0,Female,Sales,Sales Executive,121600.0,9.9,2021-01-23,Islamabad,5.0,3.0,Yes,No,3,25,15,No,No
+E10866,Employee_866,48.0,Female,IT,IT Support Specialist,194800.0,19.3,2019-10-17,Peshawar,4.0,5.0,No,No,3,21,10,No,No
+E11303,Employee_1303,38.0,Male,Customer Support,Support Representative,117400.0,7.3,2025-11-19,Multan,3.0,1.0,No,No,6,52,10,No,Yes
+E10440,Employee_440,35.0,Male,IT,IT Manager,98300.0,6.9,2021-05-12,Karachi,3.0,3.0,Yes,No,9,19,4,No,No
+E11342,Employee_1342,41.0,Male,Operations,Operations Manager,145200.0,10.6,2018-04-10,Rawalpindi,3.0,4.0,No,No,6,22,3,No,No
+E11480,Employee_1480,38.0,Male,Customer Support,Support Specialist,137900.0,9.4,2021-10-09,Lahore,2.0,3.0,No,Yes,4,9,10,No,No
+E10217,Employee_217,26.0,Male,IT,Software Engineer,48300.0,2.3,2021-11-25,Lahore,4.0,3.0,Yes,Yes,5,32,14,No,Yes
+E11479,Employee_1479,43.0,Female,Operations,Operations Analyst,115200.0,9.9,2025-09-01,Rawalpindi,4.0,1.0,Yes,No,3,34,11,Yes,No
+E11287,Employee_1287,31.0,Male,Customer Support,Support Manager,118800.0,4.2,2024-05-16,Rawalpindi,3.0,4.0,Yes,Yes,7,15,7,No,No
+E10544,Employee_544,36.0,Female,IT,IT Support Specialist,128900.0,8.7,2024-08-06,Islamabad,3.0,2.0,No,No,8,12,8,No,No
+E11465,Employee_1465,24.0,Female,Operations,Coordinator,45200.0,1.1,2025-11-23,Islamabad,,2.0,No,Yes,8,28,10,No,No
+E11137,Employee_1137,46.0,Female,Customer Support,Support Manager,169200.0,14.7,2018-05-08,Peshawar,2.0,1.0,No,No,5,29,13,No,No
+E10494,Employee_494,25.0,Male,IT,Data Analyst,52000.0,2.1,2022-03-01,Islamabad,2.0,4.0,No,Yes,1,21,6,No,No
+E11199,Employee_1199,25.0,Female,Operations,Operations Manager,62400.0,1.8,2025-11-29,Rawalpindi,4.0,3.0,No,No,6,22,16,No,No
+E10465,Employee_465,49.0,Female,Finance,Financial Analyst,138600.0,12.3,2021-10-12,Lahore,5.0,3.0,No,No,5,25,17,No,No
+E10392,Employee_392,,Male,HR,HR Manager,141300.0,10.9,2025-05-03,Multan,3.0,3.0,Yes,Yes,6,27,10,No,No
+E11314,Employee_1314,36.0,Female,IT,IT Manager,,7.0,2025-11-11,Rawalpindi,3.0,3.0,Yes,No,7,41,17,No,No
+E10439,Employee_439,30.0,Female,Finance,Financial Analyst,80800.0,4.3,2019-04-05,,3.0,5.0,No,No,4,38,18,No,No
+E11455,Employee_1455,27.0,Male,Customer Support,Support Specialist,35000.0,2.5,2025-02-07,Karachi,2.0,3.0,Yes,No,6,12,13,No,Yes
+E10583,Employee_583,27.0,Male,Finance,Finance Manager,35000.0,2.7,2019-03-03,Multan,4.0,4.0,No,Yes,2,43,10,No,No
+E11500,Employee_1500,23.0,Female,Customer Support,Support Specialist,39800.0,0.6,2024-11-06,Multan,4.0,5.0,Yes,Yes,8,7,7,No,No
+E10327,Employee_327,37.0,Female,IT,Software Engineer,148700.0,10.7,2019-01-01,Islamabad,2.0,3.0,No,No,8,17,15,No,No
+E11085,Employee_1085,52.0,Female,Marketing,Content Strategist,215100.0,21.7,2021-07-02,Peshawar,5.0,3.0,No,Yes,4,28,13,Yes,No
+E11258,Employee_1258,43.0,Male,Customer Support,Support Specialist,147800.0,14.5,2020-05-28,Peshawar,4.0,1.0,No,No,7,24,11,Yes,No
+E10466,Employee_466,41.0,Male,Marketing,Content Strategist,129500.0,10.0,2017-07-07,Karachi,4.0,2.0,No,No,6,24,0,No,Yes
+E10554,Employee_554,,Female,Customer Support,Support Specialist,,10.1,2023-02-22,Peshawar,4.0,1.0,No,Yes,7,32,4,No,No
+E10062,Employee_62,46.0,Male,Sales,Sales Executive,161400.0,13.4,2017-10-31,Islamabad,4.0,2.0,No,Yes,8,34,15,Yes,No
+E10419,Employee_419,30.0,Female,HR,Recruiter,71600.0,5.5,2023-11-18,Peshawar,5.0,1.0,Yes,No,5,0,12,Yes,No
+E11170,Employee_1170,21.0,Male,Sales,Sales Manager,56500.0,0.0,2019-07-24,Rawalpindi,4.0,4.0,No,No,9,35,8,No,No
+E10709,Employee_709,24.0,Male,Sales,Sales Executive,35000.0,1.1,2023-10-01,Rawalpindi,3.0,4.0,No,Yes,8,40,3,No,No
+E11466,Employee_1466,21.0,Male,Operations,Operations Analyst,35000.0,0.0,2019-12-12,Rawalpindi,5.0,4.0,Yes,No,8,28,9,No,No
+E10539,Employee_539,31.0,Male,Sales,Sales Executive,87000.0,4.6,2020-10-23,Rawalpindi,4.0,4.0,Yes,Yes,7,27,8,Yes,No
+E10156,Employee_156,27.0,Male,Customer Support,Support Specialist,78500.0,3.7,2025-11-02,Peshawar,4.0,4.0,No,Yes,4,27,7,No,No
+E10797,Employee_797,28.0,Female,Sales,Sales Manager,93000.0,4.0,2018-09-26,Rawalpindi,3.0,2.0,No,Yes,2,33,15,No,No
+E11284,Employee_1284,40.0,Male,Operations,Operations Analyst,145100.0,10.7,2025-08-15,Multan,3.0,3.0,Yes,Yes,3,35,9,No,No
+E10969,Employee_969,43.0,Female,Finance,Financial Analyst,137500.0,10.5,,Islamabad,3.0,4.0,No,No,5,34,15,No,No
+E10417,Employee_417,34.0,Male,Customer Support,Support Specialist,115800.0,6.9,2020-08-20,Multan,5.0,4.0,No,No,4,44,25,Yes,No
+E10083,Employee_83,34.0,Male,Marketing,Marketing Specialist,136400.0,7.1,2023-05-31,Peshawar,4.0,4.0,No,No,5,45,16,Yes,No
+E10922,Employee_922,27.0,Male,IT,Data Analyst,94700.0,3.5,2020-07-25,Multan,5.0,5.0,No,No,5,5,8,No,No
+E11244,Employee_1244,22.0,Female,IT,IT Manager,59400.0,0.0,2017-12-27,Islamabad,2.0,3.0,No,Yes,4,45,17,No,No
+E10367,Employee_367,39.0,Female,IT,IT Manager,166500.0,10.0,2018-03-14,Multan,3.0,3.0,No,No,2,46,9,No,No
+E10957,Employee_957,38.0,Male,HR,HR Manager,122400.0,10.1,2019-12-07,Karachi,3.0,3.0,No,No,4,28,8,No,No
+E10862,Employee_862,,Male,HR,HR Manager,51900.0,2.2,2021-04-15,Multan,2.0,3.0,No,No,8,24,9,No,No
+E10979,Employee_979,25.0,Male,IT,IT Support Specialist,72900.0,1.8,2021-08-05,Multan,1.0,3.0,No,No,0,25,15,No,No
+E10612,Employee_612,29.0,Female,Sales,Account Executive,61800.0,3.7,2023-11-06,Multan,4.0,4.0,Yes,Yes,3,44,11,No,Yes
+E10349,Employee_349,39.0,Male,Customer Support,Support Specialist,146300.0,11.0,2022-07-10,Rawalpindi,4.0,3.0,Yes,No,8,20,13,Yes,No
+E11202,Employee_1202,21.0,Male,Customer Support,Support Representative,36500.0,0.0,2025-07-06,Lahore,3.0,3.0,No,Yes,6,20,7,No,Yes
+E11366,Employee_1366,33.0,Male,Marketing,Content Strategist,94100.0,7.6,2021-09-22,Rawalpindi,5.0,3.0,No,No,6,31,21,Yes,No
+E10167,Employee_167,35.0,Male,Sales,Sales Executive,113100.0,7.2,2019-07-12,Karachi,1.0,3.0,No,Yes,2,44,15,No,No
+E10857,Employee_857,28.0,Male,Customer Support,Support Representative,85000.0,2.8,2021-11-28,Multan,4.0,5.0,No,Yes,5,10,15,No,No
+E11154,Employee_1154,34.0,Female,IT,IT Support Specialist,63100.0,6.2,2022-08-25,Multan,4.0,5.0,Yes,No,2,2,5,Yes,No
+E11429,Employee_1429,21.0,Female,Operations,Operations Analyst,50000.0,0.0,2021-09-29,Lahore,4.0,2.0,No,Yes,6,10,15,No,No
+E10547,Employee_547,21.0,Male,IT,Software Engineer,61900.0,0.0,2024-11-17,Islamabad,4.0,3.0,No,Yes,4,33,8,No,No
+E10205,Employee_205,27.0,Female,HR,Recruiter,72100.0,3.4,2023-12-26,Peshawar,5.0,4.0,Yes,No,5,32,10,No,No
+E11177,Employee_1177,32.0,Female,Sales,Sales Executive,105300.0,7.0,2021-02-26,Lahore,3.0,3.0,No,No,7,46,13,No,No
+E10710,Employee_710,31.0,Female,Customer Support,Support Specialist,97300.0,5.5,2020-11-15,Rawalpindi,4.0,3.0,No,No,4,11,18,Yes,No
+E10606,Employee_606,48.0,Male,Sales,Account Executive,198600.0,16.9,2019-09-02,Islamabad,4.0,2.0,Yes,Yes,6,14,15,Yes,Yes
+E11365,Employee_1365,42.0,Female,HR,HR Manager,133900.0,10.0,2018-02-11,,2.0,4.0,No,No,6,35,20,No,No
+E10187,Employee_187,42.0,Female,Customer Support,Support Representative,142200.0,14.5,2022-11-22,Multan,3.0,4.0,No,Yes,4,40,4,No,No
+E10778,Employee_778,45.0,Female,Finance,Finance Manager,188300.0,14.7,2020-05-12,Multan,3.0,3.0,No,No,11,16,16,No,No
+E11461,Employee_1461,26.0,Male,IT,Software Engineer,73100.0,2.6,2021-08-03,Peshawar,4.0,3.0,Yes,Yes,1,27,5,No,No
+E11276,Employee_1276,26.0,Male,HR,HR Manager,94400.0,2.7,2017-10-29,Karachi,4.0,4.0,No,Yes,3,25,9,No,No
+E10010,Employee_10,37.0,Female,Operations,Operations Analyst,87900.0,7.0,2024-09-26,Rawalpindi,4.0,3.0,Yes,No,7,28,17,Yes,Yes
+E10011,Employee_11,26.0,Male,Operations,Coordinator,86000.0,2.5,2022-12-08,Peshawar,3.0,3.0,No,Yes,5,20,16,No,No
+E11491,Employee_1491,29.0,Male,IT,Data Analyst,64300.0,5.1,2018-09-19,Karachi,2.0,1.0,No,Yes,5,30,6,No,No
+E11382,Employee_1382,27.0,Male,Operations,Operations Manager,68500.0,3.7,2017-03-19,Multan,4.0,4.0,No,Yes,5,17,13,No,No
+E10722,Employee_722,48.0,Male,Finance,Accountant,179400.0,16.8,2018-07-27,Multan,3.0,5.0,Yes,Yes,5,41,14,No,No
+E10631,Employee_631,36.0,Female,IT,IT Support Specialist,135400.0,9.9,2022-03-27,Peshawar,4.0,4.0,Yes,Yes,4,20,17,No,No
+E10973,Employee_973,,Female,Customer Support,Support Representative,56500.0,0.0,2023-04-11,Multan,3.0,3.0,No,No,3,40,17,No,No
+E10747,Employee_747,42.0,Male,IT,IT Support Specialist,159300.0,12.3,2019-02-12,Islamabad,3.0,3.0,No,No,7,15,10,No,Yes
+E11072,Employee_1072,33.0,Male,Customer Support,Support Specialist,121400.0,7.0,2025-09-20,Islamabad,5.0,4.0,Yes,No,1,13,3,No,No
+E10556,Employee_556,40.0,Male,Marketing,Content Strategist,161600.0,12.6,2025-01-19,Rawalpindi,5.0,3.0,Yes,No,3,33,10,Yes,No
+E10290,Employee_290,37.0,Female,Finance,Financial Analyst,128100.0,9.3,2023-07-18,Rawalpindi,4.0,1.0,Yes,Yes,6,31,13,No,No
+E10729,Employee_729,36.0,Male,Sales,Account Executive,100900.0,6.6,2024-04-17,Islamabad,1.0,4.0,No,No,7,14,15,No,No
+E10428,Employee_428,32.0,Female,Finance,Finance Manager,101500.0,7.2,2022-11-09,Islamabad,,4.0,Yes,Yes,4,35,1,Yes,Yes
+E10562,Employee_562,37.0,Male,Finance,Finance Manager,154300.0,11.0,2022-04-08,Rawalpindi,4.0,4.0,No,No,7,23,8,Yes,No
+E10794,Employee_794,29.0,Female,Finance,Accountant,95000.0,3.2,2019-06-19,Multan,2.0,5.0,No,No,4,39,22,No,No
+E10995,Employee_995,26.0,Male,Finance,Financial Analyst,73000.0,2.8,2020-07-28,Lahore,4.0,4.0,No,No,5,26,15,No,Yes
+E11428,Employee_1428,24.0,Female,Customer Support,Support Specialist,35000.0,1.4,2020-04-21,Karachi,3.0,4.0,No,Yes,4,23,15,No,No
+E11054,Employee_1054,33.0,Female,Customer Support,Support Manager,,7.4,2025-04-28,Karachi,2.0,4.0,No,Yes,5,1,18,No,Yes
+E10122,Employee_122,53.0,Female,IT,IT Support Specialist,190700.0,17.1,2019-06-20,Karachi,4.0,4.0,No,No,7,22,5,No,No
+E10657,Employee_657,38.0,Male,IT,IT Manager,141200.0,9.7,2022-04-07,Rawalpindi,3.0,5.0,No,No,3,7,21,No,No
+E11160,Employee_1160,30.0,Male,Marketing,Content Strategist,54400.0,3.9,2025-04-18,Karachi,1.0,2.0,No,No,6,12,3,No,No
+E10768,Employee_768,28.0,Female,Operations,Operations Manager,76700.0,3.7,2021-04-03,Multan,3.0,4.0,No,No,3,29,14,No,Yes
+E10152,Employee_152,42.0,Male,Sales,Account Executive,164700.0,12.6,2021-01-22,Islamabad,5.0,4.0,No,Yes,4,25,15,Yes,No
+E11159,Employee_1159,38.0,Female,Sales,Sales Executive,97300.0,10.0,2017-06-11,Islamabad,2.0,2.0,Yes,Yes,2,45,21,No,No
+E10113,Employee_113,38.0,Female,Finance,Finance Manager,110400.0,7.5,2021-08-05,Islamabad,2.0,3.0,No,No,6,45,2,No,No
+E10834,Employee_834,,Male,Operations,Operations Manager,89800.0,4.9,2020-11-22,Rawalpindi,4.0,5.0,Yes,Yes,5,27,15,No,No
+E11460,Employee_1460,40.0,Female,Operations,Operations Analyst,155400.0,11.6,2021-01-29,Karachi,3.0,5.0,No,Yes,5,26,12,No,No
+E10424,Employee_424,22.0,Male,Sales,Sales Manager,51100.0,0.0,2019-02-20,Peshawar,4.0,3.0,No,Yes,6,33,13,No,No
+E10873,Employee_873,45.0,Female,Operations,Operations Analyst,178800.0,16.6,2017-06-01,Islamabad,3.0,4.0,Yes,No,5,44,16,No,No
+E10915,Employee_915,39.0,Female,Finance,Finance Manager,106500.0,8.3,2025-01-24,Peshawar,2.0,5.0,Yes,Yes,7,34,9,No,No
+E10919,Employee_919,36.0,Female,IT,Data Analyst,108900.0,7.6,2017-10-11,Multan,4.0,4.0,Yes,Yes,5,24,20,Yes,No
+E11215,Employee_1215,42.0,Female,IT,Software Engineer,124800.0,9.3,2021-05-12,Islamabad,3.0,4.0,No,Yes,5,31,10,No,No
+E10131,Employee_131,29.0,Male,Operations,Coordinator,750000,4.3,2024-05-15,Rawalpindi,4.0,3.0,Yes,Yes,1,22,14,Yes,Yes
+E10462,Employee_462,29.0,Female,HR,HR Manager,58700.0,3.5,2021-02-12,Peshawar,3.0,5.0,Yes,No,8,18,17,No,No
+E11483,Employee_1483,42.0,Male,Operations,Operations Analyst,129400.0,11.7,2021-03-31,Lahore,4.0,,No,No,3,20,11,No,No
+E10851,Employee_851,35.0,Male,Marketing,Marketing Manager,132900.0,8.4,2025-02-11,Islamabad,3.0,,No,No,5,0,12,No,No
+E10134,Employee_134,28.0,Male,Operations,Coordinator,116500.0,3.1,2023-10-27,Karachi,1.0,3.0,No,No,1,22,10,No,No
+E10001,Employee_1,42.0,Male,Finance,Financial Analyst,189200.0,13.8,2025-08-28,Rawalpindi,4.0,3.0,No,No,4,38,14,Yes,No
+E11088,Employee_1088,24.0,Male,Operations,Coordinator,43000.0,1.4,2019-05-21,Peshawar,5.0,3.0,No,Yes,5,18,14,No,Yes
+E11204,Employee_1204,54.0,Male,IT,IT Manager,216900.0,18.8,2019-11-04,Multan,2.0,4.0,No,No,3,11,14,No,No
+E11437,Employee_1437,37.0,Male,Operations,Operations Analyst,168000.0,9.7,2024-06-30,Lahore,2.0,5.0,No,No,5,19,15,No,Yes
+E11195,Employee_1195,45.0,Male,Customer Support,Support Manager,176900.0,12.6,2021-02-17,Lahore,3.0,4.0,No,No,8,29,9,No,No
+E10700,Employee_700,44.0,Male,HR,HR Specialist,137600.0,12.3,2024-08-04,Karachi,3.0,4.0,Yes,Yes,3,18,10,No,No
+E11299,Employee_1299,40.0,Female,Customer Support,Support Specialist,98000.0,11.3,2017-07-02,Islamabad,3.0,5.0,No,Yes,7,31,3,No,No
+E10978,Employee_978,29.0,Male,Operations,Operations Analyst,80500.0,4.4,2019-11-27,Lahore,3.0,4.0,No,No,4,47,12,No,No
+E10992,Employee_992,32.0,Female,Sales,Sales Manager,119400.0,7.0,,Multan,4.0,4.0,No,No,4,28,16,No,No
+E11301,Employee_1301,37.0,Male,Operations,Operations Manager,143700.0,7.3,2017-03-13,Peshawar,4.0,4.0,No,No,4,11,19,Yes,No
+E10412,Employee_412,28.0,Female,Customer Support,Support Representative,76400.0,2.7,2017-03-23,Lahore,5.0,3.0,Yes,No,5,22,17,No,No
+E10323,Employee_323,36.0,Female,Marketing,Marketing Specialist,131400.0,10.4,2025-07-29,Lahore,1.0,3.0,No,No,7,40,10,No,No
+E10002,Employee_2,39.0,Female,Finance,Finance Manager,156200.0,8.6,2025-12-28,Islamabad,4.0,4.0,Yes,No,0,14,23,Yes,No
+E11277,Employee_1277,27.0,Male,IT,Data Analyst,82000.0,2.5,2017-07-19,Peshawar,3.0,3.0,No,Yes,8,35,13,No,Yes
+E10436,Employee_436,31.0,Female,Operations,Operations Analyst,122100.0,6.6,2017-06-05,Karachi,4.0,4.0,No,Yes,4,9,11,Yes,No
+E10453,Employee_453,37.0,Male,Marketing,Marketing Specialist,161800.0,11.1,2018-08-13,Karachi,4.0,3.0,Yes,No,2,23,15,Yes,No
+E10039,Employee_39,41.0,Female,IT,Data Analyst,164400.0,14.0,2025-07-17,Multan,4.0,2.0,No,No,8,17,12,Yes,No
+E10184,Employee_184,27.0,Female,Operations,Coordinator,99800.0,2.3,2017-06-17,Lahore,2.0,4.0,Yes,No,6,10,14,No,No
+E11134,Employee_1134,33.0,Male,IT,IT Manager,100100.0,7.4,2022-04-27,Rawalpindi,5.0,4.0,No,No,3,28,18,Yes,No
+E10880,Employee_880,34.0,Male,Operations,Operations Analyst,122200.0,8.8,2019-10-12,Peshawar,4.0,3.0,No,Yes,3,17,14,No,No
+E10218,Employee_218,39.0,Female,Operations,Operations Analyst,102300.0,7.9,2018-09-05,Lahore,,5.0,No,Yes,4,15,21,Yes,No
+E11033,Employee_1033,36.0,Male,Sales,Sales Manager,115600.0,8.5,2020-10-16,Lahore,2.0,2.0,No,Yes,5,23,16,No,Yes
+E10855,Employee_855,26.0,Male,Operations,Operations Analyst,56900.0,2.6,2025-04-04,Peshawar,4.0,5.0,Yes,Yes,2,19,15,No,No
+E10307,Employee_307,25.0,Male,Marketing,Content Strategist,52500.0,2.2,2021-04-29,Karachi,3.0,5.0,No,Yes,7,37,11,No,No
+E10730,Employee_730,32.0,Male,Sales,Sales Manager,73700.0,6.5,2024-07-08,Multan,4.0,4.0,No,No,4,17,15,Yes,No
+E10441,Employee_441,39.0,Male,IT,Software Engineer,117700.0,9.7,2024-10-20,Lahore,3.0,5.0,No,Yes,5,8,8,No,No
+E11027,Employee_1027,32.0,Female,Sales,Sales Manager,,5.2,2024-10-02,Lahore,3.0,3.0,No,No,9,36,9,No,No
+E10550,Employee_550,36.0,Female,IT,IT Manager,88000.0,6.7,2018-09-11,Peshawar,4.0,3.0,Yes,No,5,21,13,Yes,No
+E10314,Employee_314,26.0,Female,IT,IT Manager,58000.0,2.8,2024-09-24,Rawalpindi,3.0,4.0,Yes,Yes,4,10,15,No,Yes
+E11147,Employee_1147,41.0,Female,Customer Support,Support Representative,171500.0,12.7,2023-06-23,Lahore,4.0,3.0,No,Yes,3,21,12,Yes,No
+E10701,Employee_701,23.0,Male,Customer Support,Support Representative,42000.0,0.7,2020-12-04,Peshawar,4.0,4.0,Yes,No,0,44,12,No,No
+E10332,Employee_332,32.0,Female,Marketing,Content Strategist,86000.0,6.8,2019-08-19,Karachi,3.0,4.0,Yes,No,3,29,10,No,No
+E10037,Employee_37,32.0,Male,IT,IT Manager,117600.0,6.8,2017-12-23,Multan,3.0,4.0,No,No,6,19,23,No,No
+E10111,Employee_111,35.0,Male,Customer Support,Support Representative,108500.0,7.2,2017-04-25,Karachi,3.0,3.0,No,Yes,3,26,11,No,No
+E11061,Employee_1061,29.0,Female,Operations,Coordinator,74000.0,3.2,2024-07-08,Lahore,1.0,2.0,No,No,5,36,19,No,Yes
+E10889,Employee_889,35.0,Male,Operations,Operations Manager,106000.0,8.3,2018-12-23,Rawalpindi,4.0,2.0,Yes,No,8,44,13,Yes,No
+E11138,Employee_1138,39.0,Male,Operations,Operations Manager,142600.0,8.1,2017-12-04,Multan,3.0,4.0,Yes,Yes,10,13,16,No,No
+E10916,Employee_916,50.0,Male,Customer Support,Support Specialist,175200.0,20.8,2019-12-16,Lahore,3.0,3.0,No,No,7,29,20,No,No
+E11212,Employee_1212,28.0,Male,Finance,Accountant,47500.0,3.7,2025-08-21,Rawalpindi,3.0,2.0,Yes,Yes,4,18,16,No,No
+E10927,Employee_927,43.0,Male,IT,IT Support Specialist,187400.0,13.4,2018-02-04,Peshawar,3.0,4.0,No,Yes,3,27,17,No,No
+E10746,Employee_746,44.0,Female,Finance,Accountant,137400.0,12.2,2022-07-25,Multan,3.0,3.0,No,No,8,8,11,No,No
+E10615,Employee_615,44.0,Female,Marketing,Marketing Manager,152600.0,13.7,2020-12-20,Peshawar,4.0,5.0,No,Yes,3,21,13,No,No
+E10776,Employee_776,40.0,Male,Marketing,Marketing Manager,165200.0,12.7,2019-02-06,Islamabad,5.0,3.0,No,Yes,5,19,11,No,No
+E11006,Employee_1006,33.0,Female,IT,Software Engineer,130200.0,8.0,2025-09-09,Peshawar,5.0,4.0,No,Yes,4,19,11,Yes,No
+E10714,Employee_714,30.0,Male,Customer Support,Support Manager,81000.0,4.7,2017-05-22,Peshawar,3.0,4.0,No,Yes,6,29,14,No,No
+E10578,Employee_578,36.0,Female,HR,HR Manager,144500.0,10.3,2017-03-03,Islamabad,4.0,4.0,No,Yes,2,7,25,Yes,No
+E11239,Employee_1239,44.0,Female,Customer Support,Support Manager,113200.0,10.2,2022-03-26,Karachi,4.0,4.0,Yes,No,8,22,21,No,No
+E10434,Employee_434,26.0,Male,Marketing,Marketing Specialist,73500.0,2.3,,Multan,2.0,4.0,No,Yes,7,17,16,No,No
+E10164,Employee_164,32.0,Male,Finance,Accountant,102700.0,6.3,2024-09-24,Multan,5.0,4.0,No,No,8,7,10,Yes,No
+E10264,Employee_264,34.0,Male,Finance,Financial Analyst,131000.0,8.6,2025-10-10,Multan,3.0,2.0,No,Yes,3,10,11,No,No
+E10232,Employee_232,37.0,Male,Marketing,Content Strategist,111000.0,9.9,2017-06-25,Islamabad,3.0,4.0,No,No,3,16,10,No,No
+E10303,Employee_303,38.0,Male,Sales,Sales Executive,131900.0,10.8,2023-05-16,Karachi,4.0,4.0,No,Yes,7,19,17,Yes,No
+E11196,Employee_1196,37.0,Female,Finance,Finance Manager,139000.0,9.2,2020-04-27,Multan,4.0,4.0,No,No,3,18,16,No,No
+E10928,Employee_928,35.0,Male,Customer Support,Support Manager,83400.0,7.5,2021-03-07,Multan,3.0,5.0,No,Yes,5,36,0,No,No
+E10176,Employee_176,38.0,Male,Sales,Sales Executive,128200.0,8.5,2018-03-10,Rawalpindi,4.0,2.0,No,Yes,6,22,20,No,Yes
+E11143,Employee_1143,38.0,Female,Operations,Operations Manager,93000.0,7.6,2019-03-03,Islamabad,2.0,4.0,No,Yes,6,12,11,No,No
+E10150,Employee_150,37.0,Male,Operations,Operations Manager,86500.0,9.1,2025-07-20,Lahore,4.0,5.0,Yes,No,7,33,12,Yes,No
+E11452,Employee_1452,21.0,Female,Operations,Coordinator,35000.0,0.0,,Islamabad,4.0,5.0,No,No,4,30,6,No,Yes
+E10979,Employee_979,25.0,Male,IT,IT Support Specialist,72900.0,1.8,2021-08-05,Multan,1.0,3.0,No,No,0,25,15,No,No
+E10072,Employee_72,43.0,Male,IT,Data Analyst,141100.0,13.7,2023-04-15,Rawalpindi,1.0,3.0,Yes,No,8,36,14,No,No
+E10169,Employee_169,32.0,Male,IT,Software Engineer,100700.0,5.1,2021-10-13,Rawalpindi,4.0,3.0,No,Yes,2,19,6,No,No
+E10456,Employee_456,21.0,Male,Customer Support,Support Manager,41700.0,0.0,2022-07-16,Islamabad,5.0,4.0,No,Yes,4,21,10,No,No
+E10090,Employee_90,21.0,Male,Operations,Coordinator,51400.0,0.0,2025-02-15,Islamabad,3.0,4.0,No,No,6,29,5,No,No
+E10118,Employee_118,34.0,Male,Marketing,Marketing Manager,87100.0,7.6,2020-12-11,Islamabad,3.0,4.0,No,No,0,29,10,No,No
+E10488,Employee_488,47.0,Male,Finance,Accountant,142800.0,12.5,2018-08-14,Peshawar,2.0,3.0,Yes,No,6,0,21,No,No
+E10322,Employee_322,39.0,Female,IT,Software Engineer,149700.0,11.3,2017-09-10,Rawalpindi,4.0,4.0,No,No,6,37,15,No,No
+E11327,Employee_1327,35.0,Male,Operations,Operations Analyst,163600.0,7.4,2024-05-14,Islamabad,5.0,2.0,No,No,9,8,16,Yes,No
+E11415,Employee_1415,36.0,Male,Sales,Sales Manager,131500.0,7.8,2021-02-16,Multan,3.0,2.0,Yes,Yes,4,15,12,No,Yes
+E10460,Employee_460,30.0,Male,Operations,Operations Manager,63300.0,5.9,2025-04-15,Rawalpindi,4.0,3.0,No,Yes,6,48,17,No,Yes
+E11478,Employee_1478,38.0,Female,IT,IT Manager,127200.0,10.4,2023-02-24,Islamabad,2.0,5.0,No,Yes,6,16,16,No,No
+E11098,Employee_1098,28.0,Male,Finance,Financial Analyst,95500.0,3.7,2024-02-18,Lahore,4.0,4.0,No,No,4,19,10,No,Yes
+E11162,Employee_1162,27.0,Male,Customer Support,Support Representative,68400.0,2.5,2019-06-14,Rawalpindi,5.0,5.0,No,No,6,17,20,No,No
+E10242,Employee_242,30.0,Female,Operations,Coordinator,87400.0,4.8,2023-07-26,Multan,3.0,4.0,No,Yes,6,37,10,No,No
+E10699,Employee_699,37.0,Male,Finance,Accountant,109400.0,6.9,2020-12-25,Lahore,5.0,5.0,No,Yes,4,15,29,No,No
+E11022,Employee_1022,24.0,Male,IT,IT Manager,66700.0,1.1,2024-10-04,Lahore,4.0,5.0,Yes,Yes,2,21,14,No,Yes
+E10914,Employee_914,43.0,Male, IT ,IT Support Specialist,165500.0,14.5,2025-03-28,Islamabad,1.0,2.0,No,Yes,7,15,11,No,Yes
+E11493,Employee_1493,42.0,Male,Finance,Finance Manager,137200.0,10.3,2025-07-08,Rawalpindi,2.0,4.0,Yes,Yes,5,16,3,No,No
+E10703,Employee_703,32.0,Male,HR,HR Manager,77100.0,5.9,2024-07-01,Lahore,3.0,3.0,No,Yes,5,36,12,No,No
+E11140,Employee_1140,21.0,Female,Operations,Coordinator,37500.0,0.0,,Karachi,4.0,3.0,No,No,3,34,9,No,No
+E10585,Employee_585,41.0,Female,Finance,Finance Manager,146300.0,13.0,2020-07-24,Multan,2.0,2.0,No,No,4,5,19,No,No
+E10980,Employee_980,41.0,Female,Operations,Coordinator,152600.0,11.5,2021-03-24,Multan,3.0,2.0,No,No,5,7,20,No,No
+E10693,Employee_693,29.0,Male,Marketing,Marketing Manager,94600.0,4.5,2022-04-28,Lahore,4.0,4.0,No,Yes,4,34,9,Yes,No
+E10271,Employee_271,40.0,Female,HR,Recruiter,143800.0,13.0,2017-01-25,Multan,4.0,4.0,Yes,No,5,26,9,No,No
+E10112,Employee_112,40.0,Male,Marketing,Marketing Specialist,159900.0,11.6,2023-04-30,Karachi,3.0,3.0,Yes,No,6,29,12,No,No
+E10596,Employee_596,25.0,Male,Operations,Operations Manager,63000.0,2.0,2025-02-05,Islamabad,4.0,4.0,Yes,No,7,32,12,No,No
+E10786,Employee_786,38.0,Female,Sales,Sales Executive,130600.0,11.2,2017-11-30,Karachi,4.0,3.0,No,Yes,4,22,13,No,No
+E10517,Employee_517,27.0,Male,Sales,Sales Manager,65600.0,2.8,2020-08-02,Multan,3.0,3.0,No,Yes,2,26,3,No,Yes
+E10227,Employee_227,46.0,Female,Finance,Accountant,173400.0,16.3,2018-09-30,Peshawar,2.0,3.0,Yes,Yes,3,30,15,No,No
+E10497,Employee_497,29.0,Female,Customer Support,Support Manager,97900.0,4.9,2021-02-06,Islamabad,4.0,3.0,No,No,5,18,15,No,No
+E10842,Employee_842,40.0,Female,IT,IT Manager,133500.0,8.9,2022-05-11,Islamabad,3.0,5.0,No,No,2,0,9,No,No
+E10499,Employee_499,29.0,Female,IT,IT Manager,57200.0,3.6,2023-09-24,Peshawar,4.0,3.0,Yes,Yes,7,41,7,No,No
+E10976,Employee_976,38.0,Male,Customer Support,Support Representative,75600.0,7.2,2020-02-01,Peshawar,4.0,3.0,Yes,No,6,0,3,Yes,No
+E10221,Employee_221,34.0,Female,IT,Data Analyst,116600.0,7.5,2018-11-28,Rawalpindi,4.0,4.0,No,Yes,7,39,12,Yes,No
+E11274,Employee_1274,34.0,Male, HR ,HR Specialist,116300.0,5.5,2023-07-04,Rawalpindi,4.0,4.0,No,No,3,54,14,No,No
+E10878,Employee_878,44.0,Female,Operations,Operations Manager,175000.0,11.9,2025-12-18,Islamabad,4.0,5.0,No,No,7,33,11,Yes,No
+E10921,Employee_921,32.0,Female,IT,Data Analyst,101000.0,5.3,2024-04-19,Rawalpindi,5.0,3.0,No,No,6,41,13,Yes,Yes
+E11081,Employee_1081,38.0,Female,IT,IT Support Specialist,73200.0,9.2,2018-09-15,Rawalpindi,4.0,4.0,No,No,9,29,5,No,No
+E10985,Employee_985,45.0,Female,Finance,Financial Analyst,154000.0,15.4,2019-08-12,Rawalpindi,4.0,5.0,No,No,6,28,11,No,No
+E11375,Employee_1375,29.0,Male,Operations,Operations Analyst,78000.0,4.5,2021-06-05,Multan,4.0,3.0,Yes,Yes,4,29,8,No,No
+E10313,Employee_313,39.0,Male,Sales,Sales Manager,116700.0,8.7,2023-08-22,Peshawar,5.0,4.0,No,No,6,17,12,Yes,No
+E11216,Employee_1216,34.0,Male,Sales,Account Executive,129700.0,8.5,2025-06-21,Islamabad,3.0,4.0,No,No,5,3,8,No,No
+E10508,Employee_508,32.0,Female,Operations,Operations Analyst,108100.0,7.1,2021-11-29,Karachi,2.0,3.0,Yes,No,3,20,18,No,No
+E10394,Employee_394,38.0,Female,Sales,Sales Manager,118000.0,8.3,2018-08-17,Multan,1.0,5.0,Yes,Yes,5,7,14,No,No
+E10410,Employee_410,39.0,Male,IT,IT Support Specialist,125300.0,8.6,2025-07-17,Multan,4.0,5.0,No,Yes,5,18,14,Yes,No
+E10678,Employee_678,38.0,Male,Marketing,Marketing Manager,145500.0,10.3,2021-05-05,Islamabad,4.0,4.0,No,Yes,6,18,9,No,No
+E10953,Employee_953,36.0,Male,Finance,Financial Analyst,108400.0,9.6,2024-06-06,Lahore,4.0,2.0,Yes,No,7,32,10,No,No
+E11426,Employee_1426,38.0,Female,Customer Support,Support Specialist,130700.0,9.0,2022-02-12,Lahore,4.0,5.0,No,No,11,6,7,Yes,No
+E10329,Employee_329,35.0,Male,Operations,Coordinator,136000.0,9.5,2018-05-13,Multan,4.0,5.0,Yes,No,6,14,8,Yes,No
+E11037,Employee_1037,27.0,Male,Operations,Operations Analyst,114500.0,2.7,2025-06-08,Karachi,3.0,4.0,No,Yes,6,15,20,No,No
+E10086,Employee_86,31.0,Male,IT,Data Analyst,108600.0,6.0,2024-01-05,Rawalpindi,3.0,3.0,No,No,7,15,15,No,No
+E10084,Employee_84,33.0,Male,Finance,Accountant,97000.0,5.7,2021-06-20,Rawalpindi,4.0,4.0,No,Yes,0,29,8,No,No
+E10207,Employee_207,21.0,Male,Marketing,Content Strategist,35000.0,0.0,2017-03-12,Peshawar,4.0,3.0,Yes,No,7,5,12,No,No
+E10104,Employee_104,28.0,Male,Sales,Sales Executive,62300.0,3.0,2019-10-26,Lahore,3.0,2.0,Yes,Yes,5,29,12,No,Yes
+E10735,Employee_735,33.0,Male,Marketing,Marketing Manager,140900.0,7.8,2019-05-03,Rawalpindi,2.0,3.0,Yes,No,6,24,11,No,No
+E10695,Employee_695,40.0,Male,IT,Data Analyst,162700.0,11.6,2018-07-01,Islamabad,3.0,2.0,Yes,Yes,3,10,15,No,Yes
+E10498,Employee_498,27.0,Male,IT,IT Support Specialist,87100.0,2.6,2019-03-12,Islamabad,2.0,2.0,No,Yes,2,16,13,No,No
+E10328,Employee_328,,Female,Customer Support,Support Specialist,94600.0,0.0,2023-05-26,Islamabad,3.0,4.0,Yes,Yes,4,2,16,No,No
+E11488,Employee_1488,37.0,Female,Finance,Financial Analyst,156500.0,10.5,2022-11-22,Peshawar,4.0,2.0,No,No,1,21,21,Yes,No
+E10661,Employee_661,33.0,Male,Marketing,Content Strategist,117000.0,7.8,2023-10-10,Rawalpindi,5.0,3.0,No,Yes,4,21,9,No,No
+E10347,Employee_347,43.0,Female,IT,Software Engineer,159900.0,10.4,2021-05-27,Rawalpindi,3.0,3.0,No,No,3,18,13,No,No
+E10211,Employee_211,26.0,Male,IT,Software Engineer,80700.0,2.8,2021-02-25,Multan,3.0,3.0,Yes,No,8,23,6,No,No
+E10568,Employee_568,39.0,Male,Sales,Sales Manager,107500.0,8.3,2020-10-24,Lahore,4.0,5.0,Yes,Yes,2,39,16,No,No
+E10143,Employee_143,30.0,Male,Finance,Financial Analyst,84200.0,5.8,2018-09-04,Rawalpindi,3.0,5.0,No,No,6,10,13,No,No
+E10515,Employee_515,37.0,Male,Finance,Accountant,100300.0,7.2,2019-08-01,Karachi,4.0,3.0,No,Yes,4,7,8,Yes,No
+E11029,Employee_1029,38.0,Male,IT,Software Engineer,132600.0,9.2,2022-06-01,Lahore,1.0,3.0,Yes,Yes,2,33,13,No,No
+E10865,Employee_865,40.0,Male,Finance,Financial Analyst,125100.0,11.7,2017-01-01,Islamabad,5.0,4.0,Yes,No,5,37,12,Yes,No
+E10892,Employee_892,57.0,Female,IT,Data Analyst,198700.0,23.3,2021-04-12,Lahore,1.0,4.0,No,Yes,0,19,12,No,No
+E10815,Employee_815,25.0,Female,Customer Support,Support Manager,37900.0,1.8,2023-07-07,Rawalpindi,4.0,1.0,No,No,5,22,21,No,Yes
+E11233,Employee_1233,49.0,Male,IT,Data Analyst,163200.0,14.3,2018-01-29,Rawalpindi,4.0,2.0,No,No,2,12,13,Yes,Yes
+E10564,Employee_564,40.0,Male,HR,Recruiter,147600.0,9.2,2018-09-26,Multan,3.0,,No,No,5,25,21,No,No
+E11078,Employee_1078,45.0,Female,Marketing,Marketing Specialist,175700.0,15.9,2017-08-15,Islamabad,2.0,5.0,Yes,Yes,5,31,8,No,No
+E10372,Employee_372,30.0,Male,Sales,Account Executive,86600.0,3.8,2022-08-26,Lahore,3.0,3.0,No,No,3,10,18,No,No
+E11012,Employee_1012,21.0,Female,Customer Support,Support Representative,35000.0,0.0,2022-12-29,Karachi,5.0,4.0,Yes,Yes,5,9,8,No,No
+E10891,Employee_891,34.0,Female,Sales,Sales Executive,94500.0,6.3,2021-10-26,Multan,4.0,3.0,Yes,No,7,30,21,No,Yes
+E11234,Employee_1234,24.0,Male,Customer Support,Support Specialist,39300.0,1.3,,Islamabad,5.0,3.0,No,No,3,13,12,No,No
+E10684,Employee_684,26.0,Female,Sales,Account Executive,1200000,1.8,2017-10-03,Karachi,3.0,4.0,Yes,Yes,12,25,5,No,No
+E10633,Employee_633,40.0,Male,Finance,Accountant,118200.0,8.7,2020-10-24,Lahore,3.0,3.0,No,No,1,30,5,No,No
+E10195,Employee_195,53.0,Male,Sales,Sales Manager,239000.0,19.7,2020-02-08,Rawalpindi,1.0,4.0,Yes,Yes,5,10,11,No,Yes
+E10514,Employee_514,39.0,Female,IT,IT Manager,147800.0,9.5,2023-01-03,Lahore,5.0,2.0,No,Yes,6,25,13,Yes,No
+E10210,Employee_210,41.0,Male,Marketing,Content Strategist,141700.0,8.9,2017-03-08,Islamabad,3.0,3.0,No,No,0,32,19,No,No
+E11001,Employee_1001,30.0,Male,Operations,Coordinator,74900.0,4.5,2017-07-13,Islamabad,2.0,4.0,No,Yes,0,31,2,No,No
+E10636,Employee_636,26.0,Male,Customer Support,Support Specialist,58900.0,2.7,2017-08-09,,2.0,3.0,No,No,7,11,9,No,No
+E10088,Employee_88,41.0,Female,HR,Recruiter,115300.0,11.0,2019-03-21,Multan,3.0,3.0,No,Yes,5,21,14,No,No
+E11181,Employee_1181,46.0,Female,Sales,Sales Manager,164500.0,14.3,2020-02-01,Lahore,4.0,1.0,No,No,7,0,6,No,Yes
+E10910,Employee_910,45.0,Male,HR,Recruiter,176100.0,14.9,2025-09-23,Islamabad,5.0,3.0,No,No,0,14,8,No,No
+E10191,Employee_191,28.0,Male,IT,Software Engineer,93600.0,3.6,2022-06-22,Rawalpindi,4.0,3.0,No,No,8,48,15,No,Yes
+E10179,Employee_179,50.0,Female,IT,Software Engineer,239400.0,20.4,2025-02-05,Multan,4.0,4.0,No,No,3,20,6,Yes,No
+E10557,Employee_557,31.0,Male,Finance,Accountant,82600.0,4.1,2020-08-06,Karachi,1.0,3.0,No,No,5,35,10,No,No
+E11136,Employee_1136,30.0,Male,Marketing,Marketing Manager,85600.0,4.9,2020-08-24,Lahore,4.0,3.0,No,No,9,25,20,Yes,No
+E11150,Employee_1150,31.0,Female,hr,HR Specialist,103100.0,5.0,2022-10-24,Lahore,4.0,4.0,No,Yes,2,16,18,Yes,No
+E11117,Employee_1117,31.0,Male,Sales,Account Executive,107500.0,5.4,2022-01-16,Karachi,5.0,3.0,Yes,No,0,17,9,No,No
+E10745,Employee_745,27.0,Male,Operations,Operations Analyst,60000.0,2.9,2022-09-29,Peshawar,4.0,3.0,No,No,5,30,9,No,No
+E11448,Employee_1448,36.0,Female,Finance,Accountant,98600.0,6.5,2017-02-21,Islamabad,2.0,3.0,Yes,No,5,44,17,No,Yes
+E10512,Employee_512,38.0,Male,IT,Software Engineer,98200.0,10.0,2021-08-13,Peshawar,4.0,3.0,Yes,No,5,22,7,No,No
+E11256,Employee_1256,28.0,Male,Sales,Sales Executive,74700.0,4.4,2021-11-27,Peshawar,4.0,4.0,No,Yes,5,20,3,Yes,Yes
+E10472,Employee_472,41.0,Female,Operations,Operations Analyst,173000.0,11.6,2019-12-07,Multan,3.0,4.0,No,No,6,32,13,No,No
+E10399,Employee_399,37.0,Female,Sales,Sales Executive,103600.0,11.2,2023-01-22,Islamabad,3.0,2.0,No,No,5,24,18,No,No
+E10036,Employee_36,28.0,Female,IT,IT Manager,55100.0,3.4,2024-02-11,Lahore,4.0,1.0,No,No,6,28,6,No,Yes
+E10206,Employee_206,38.0,Male,IT,Software Engineer,142600.0,7.5,2025-04-22,Islamabad,3.0,4.0,No,No,6,4,14,No,No
+E10609,Employee_609,43.0,Male,Sales,Sales Manager,139500.0,10.4,2021-06-11,Karachi,2.0,3.0,No,Yes,2,12,15,No,No
+E11300,Employee_1300,31.0,Female,IT,Data Analyst,98200.0,4.6,2022-01-19,Rawalpindi,4.0,2.0,No,Yes,1,25,10,No,Yes
+E11175,Employee_1175,29.0,Female,Customer Support,Support Specialist,80800.0,4.1,2020-12-10,Peshawar,3.0,5.0,No,No,6,26,20,No,No
+E11068,Employee_1068,36.0,Male,Sales,Sales Manager,123500.0,9.8,2022-08-25,Multan,3.0,5.0,No,Yes,9,5,19,No,No
+E10430,Employee_430,38.0,Male,IT,Data Analyst,108000.0,10.2,2025-07-22,Lahore,3.0,4.0,Yes,Yes,5,26,16,No,Yes
+E10713,Employee_713,33.0,Male,IT,Data Analyst,103400.0,6.1,2025-05-27,Lahore,4.0,3.0,Yes,No,5,24,0,No,No
+E10229,Employee_229,36.0,Female,Operations,Operations Manager,124900.0,10.4,2022-03-20,Lahore,4.0,3.0,Yes,No,5,19,16,No,No
+E11004,Employee_1004,35.0,Female,Customer Support,Support Representative,106800.0,7.7,2022-11-22,Karachi,3.0,3.0,No,Yes,7,13,14,No,No
+E11030,Employee_1030,28.0,Female,Customer Support,Support Representative,80200.0,4.4,2019-01-03,Islamabad,4.0,5.0,Yes,No,4,3,4,No,Yes
+E11473,Employee_1473,34.0,Female,Operations,Coordinator,115400.0,8.7,2018-03-26,Multan,4.0,4.0,Yes,No,0,27,3,No,No
+E10985,Employee_985,45.0,Female,Finance,Financial Analyst,154000.0,15.4,2019-08-12,Rawalpindi,4.0,5.0,No,No,6,28,11,No,No
+E10728,Employee_728,38.0,Female,Marketing,Content Strategist,110200.0,9.4,2018-10-02,Multan,2.0,4.0,Yes,No,5,26,13,No,No
+E10319,Employee_319,38.0,Male,Marketing,Marketing Specialist,113000.0,8.7,2020-01-20,Lahore,5.0,4.0,No,Yes,6,30,13,No,No
+E10630,Employee_630,36.0,Male,HR,HR Manager,151700.0,10.2,2018-01-10,Rawalpindi,4.0,3.0,No,No,4,13,0,Yes,No
+E10926,Employee_926,45.0,Male,Customer Support,Support Manager,224400.0,17.1,2022-01-31,Lahore,5.0,5.0,Yes,Yes,5,32,13,Yes,No
+E10894,Employee_894,42.0,Male,IT,IT Support Specialist,124200.0,11.3,2022-11-24,Karachi,4.0,3.0,No,Yes,9,10,12,No,No
+E11020,Employee_1020,35.0,Male,Operations,Coordinator,142100.0,8.0,2018-01-31,Rawalpindi,5.0,5.0,Yes,No,6,26,15,Yes,No
+E11393,Employee_1393,37.0,Male,Operations,Coordinator,131900.0,9.4,2024-01-06,Lahore,2.0,4.0,No,Yes,5,10,23,No,Yes
+E10035,Employee_35,34.0,Female,HR,Recruiter,93400.0,6.6,2023-12-07,Multan,3.0,1.0,No,No,4,48,18,No,Yes
+E10076,Employee_76,38.0,Female,IT,IT Support Specialist,128800.0,10.2,2017-10-09,Peshawar,3.0,3.0,No,No,7,8,12,No,No
+E10174,Employee_174,31.0,Male,Operations,Operations Manager,89900.0,5.8,2024-09-12,Rawalpindi,1.0,5.0,No,No,2,26,10,No,No
+E11076,Employee_1076,43.0,Male,Marketing,Content Strategist,124700.0,11.8,2025-12-02,Islamabad,4.0,3.0,No,Yes,7,16,5,No,No
+E11213,Employee_1213,21.0,Male,Sales,Sales Executive,35000.0,0.0,2021-05-23,Karachi,3.0,2.0,Yes,Yes,5,31,9,No,No
+E11340,Employee_1340,33.0,Male,Sales,Sales Executive,120900.0,7.3,2017-10-01,Lahore,3.0,3.0,Yes,No,1,20,6,No,No
+E11438,Employee_1438,27.0,Female,Marketing,Marketing Specialist,85200.0,2.3,2024-01-31,Lahore,1.0,3.0,No,No,7,15,13,No,Yes
+E10748,Employee_748,39.0,Male,Operations,Operations Analyst,,8.1,2021-07-04,Islamabad,4.0,3.0,No,No,11,24,7,Yes,No
+E11396,Employee_1396,33.0,Female,Customer Support,Support Representative,68200.0,6.2,2024-10-25,Karachi,5.0,4.0,No,No,7,30,12,No,No
+E10509,Employee_509,43.0,Female,IT,IT Support Specialist,129100.0,10.3,2022-10-14,Multan,2.0,,Yes,No,4,16,14,No,No
+E10711,Employee_711,37.0,Female,Operations,Coordinator,101900.0,7.0,2018-09-20,Rawalpindi,4.0,4.0,No,No,5,18,9,Yes,No
+E10608,Employee_608,32.0,Male,Customer Support,Support Representative,82300.0,7.2,2022-02-10,Multan,4.0,5.0,Yes,Yes,10,41,4,Yes,No
+E10388,Employee_388,37.0,Male,Sales,Account Executive,102500.0,8.1,2024-04-20,Karachi,2.0,5.0,Yes,No,6,52,5,No,No
+E11118,Employee_1118,35.0,Female,Sales,Sales Executive,85800.0,6.4,2018-01-21,Lahore,5.0,5.0,No,No,6,48,14,Yes,No
+E11477,Employee_1477,25.0,Female,Operations,Operations Manager,35000.0,2.2,2021-01-24,Lahore,5.0,3.0,No,Yes,7,27,26,No,Yes
+E10752,Employee_752,41.0,Female,Customer Support,Support Representative,95500.0,9.6,2021-06-12,Islamabad,5.0,3.0,Yes,Yes,5,34,9,Yes,No
+E10912,Employee_912,34.0,Male,IT,Software Engineer,117400.0,8.7,2020-04-10,Peshawar,3.0,4.0,Yes,Yes,10,25,10,No,No
+E10149,Employee_149,40.0,Male,Operations,Coordinator,138300.0,9.7,2017-05-24,Rawalpindi,2.0,4.0,No,Yes,3,16,14,No,No
+E10754,Employee_754,43.0,Male,Operations,Coordinator,130100.0,9.8,2022-01-23,Lahore,2.0,3.0,No,No,3,20,21,No,No
+E10403,Employee_403,30.0,Male,Operations,Coordinator,122400.0,4.7,2022-10-27,Multan,5.0,3.0,No,No,5,23,8,Yes,No
+E10341,Employee_341,26.0,Male,Sales,Sales Executive,66400.0,2.0,2022-08-14,Lahore,5.0,2.0,No,Yes,8,18,13,No,No
+E11245,Employee_1245,44.0,Female,Marketing,Marketing Manager,168400.0,13.3,2021-06-11,Karachi,3.0,4.0,Yes,No,3,39,16,No,Yes
+E10988,Employee_988,33.0,Male,Customer Support,Support Manager,83600.0,6.9,2025-08-21,Lahore,3.0,2.0,Yes,No,2,49,4,No,Yes
+E10201,Employee_201,21.0,Female,Customer Support,Support Representative,35000.0,0.0,2017-02-18,Peshawar,5.0,2.0,No,Yes,7,31,14,No,Yes
+E11116,Employee_1116,23.0,Female,IT,Software Engineer,45200.0,0.7,2017-02-03,Lahore,3.0,4.0,No,No,4,28,6,No,No
+E10733,Employee_733,21.0,Female,Customer Support,Support Representative,44400.0,0.0,2019-05-19,Peshawar,4.0,3.0,No,No,6,19,12,No,No
+E10541,Employee_541,35.0,Female,Operations,Operations Analyst,121600.0,9.7,2019-04-29,Rawalpindi,3.0,3.0,No,No,7,51,8,No,No
+E10692,Employee_692,35.0,Male,Customer Support,Support Specialist,107600.0,8.4,2021-06-14,Multan,2.0,3.0,No,No,7,32,16,No,No
+E10610,Employee_610,25.0,Female,Customer Support,Support Specialist,35000.0,2.0,2018-04-03,Rawalpindi,4.0,5.0,No,No,8,27,6,No,No
+E11489,Employee_1489,26.0,Male,Operations,Operations Analyst,60000.0,2.6,2022-01-04,Islamabad,2.0,4.0,No,No,4,11,14,No,No
+E10956,Employee_956,42.0,Male,IT,Software Engineer,,11.5,2017-02-15,Lahore,3.0,3.0,Yes,No,9,17,4,No,Yes
+E10281,Employee_281,36.0,Female,IT,Data Analyst,110400.0,7.7,2024-08-01,Multan,4.0,5.0,Yes,No,9,25,15,No,No
+E10411,Employee_411,39.0,Male,Sales,Account Executive,128300.0,7.9,2019-02-06,Lahore,3.0,1.0,Yes,No,7,41,12,No,Yes
+E11189,Employee_1189,34.0,male,Finance,Accountant,129800.0,8.8,2024-10-03,Multan,4.0,5.0,No,Yes,6,17,9,No,Yes
+E11293,Employee_1293,26.0,Female,Finance,Accountant,83500.0,2.4,2020-11-02,Lahore,3.0,3.0,Yes,Yes,3,22,20,No,No
+E11182,Employee_1182,49.0,Male,Operations,Coordinator,920000,16.8,2017-05-01,Lahore,5.0,3.0,Yes,Yes,3,4,17,No,Yes
+E10688,Employee_688,35.0,Male,Operations,Operations Manager,154300.0,9.7,2025-04-14,Islamabad,2.0,4.0,No,Yes,6,30,7,No,No
+E10336,Employee_336,37.0,Male, Marketing ,Content Strategist,129500.0,10.1,2020-03-01,Karachi,4.0,4.0,No,Yes,3,32,5,No,No
+E10643,Employee_643,35.0,Male,Operations,Operations Analyst,129100.0,7.9,2017-10-07,Multan,4.0,4.0,No,Yes,5,23,8,Yes,No
+E10315,Employee_315,38.0,Female,IT,Data Analyst,149400.0,10.7,2020-04-06,Rawalpindi,3.0,4.0,Yes,No,5,10,5,No,Yes
+E10783,Employee_783,21.0,Male,Finance,Accountant,35000.0,0.0,2020-08-14,Karachi,4.0,3.0,No,No,2,17,2,No,No
+E11187,Employee_1187,39.0,Female,IT,IT Support Specialist,123000.0,8.2,2019-08-24,Multan,5.0,3.0,No,No,8,28,17,Yes,No
+E11446,Employee_1446,31.0,Male,IT,Software Engineer,92600.0,5.2,2019-03-17,Islamabad,2.0,4.0,Yes,Yes,4,0,15,No,No
+E11443,Employee_1443,36.0,Female,Sales,Sales Manager,99000.0,6.6,2023-06-01,Multan,3.0,4.0,No,No,3,12,10,No,No
+E10093,Employee_93,24.0,Female,IT,Data Analyst,56300.0,1.1,2019-08-10,Peshawar,2.0,2.0,No,Yes,0,0,10,No,No
+E10835,Employee_835,28.0,Male,IT,IT Support Specialist,89300.0,3.0,2020-02-01,Islamabad,4.0,5.0,No,Yes,5,20,19,No,No
+E10593,Employee_593,39.0,Male,Sales,Sales Executive,140700.0,7.7,2019-06-18,Rawalpindi,3.0,3.0,No,No,5,19,10,No,No
+E11476,Employee_1476,43.0,Female,IT,IT Support Specialist,154000.0,12.3,2022-06-16,Karachi,3.0,5.0,No,No,7,24,9,No,No
+E10395,Employee_395,21.0,Male,Finance,Financial Analyst,77100.0,0.0,2024-02-27,Lahore,3.0,5.0,No,No,1,25,0,No,No
+E11304,Employee_1304,27.0,Male,Customer Support,Support Manager,98800.0,3.5,2021-08-04,Islamabad,4.0,3.0,No,Yes,2,0,12,No,No
+E11070,Employee_1070,30.0,Male,Customer Support,Support Representative,96100.0,4.0,2023-03-03,Islamabad,5.0,2.0,No,Yes,6,56,8,No,No
+E10576,Employee_576,36.0,Female,Customer Support,Support Representative,unknown,7.9,2019-04-29,Islamabad,4.0,3.0,No,No,6,31,7,No,No
+E10574,Employee_574,33.0,Female,Customer Support,Support Representative,90700.0,5.7,2025-06-26,Peshawar,4.0,3.0,Yes,No,1,28,13,No,No
+E11391,Employee_1391,28.0,Male,Sales,Sales Executive,80100.0,2.8,2021-02-08,Islamabad,2.0,4.0,No,Yes,4,34,10,No,No
+E10736,Employee_736,36.0,Female,Marketing,Marketing Manager,134400.0,7.3,2017-11-03,Karachi,2.0,4.0,Yes,Yes,2,12,15,No,No
+E11346,Employee_1346,31.0,Male,Sales,Account Executive,113000.0,6.7,,Islamabad,3.0,3.0,Yes,No,9,8,15,No,No
+E10280,Employee_280,30.0,Female,Operations,Operations Analyst,114300.0,3.7,2018-01-24,Rawalpindi,4.0,5.0,No,Yes,7,46,8,No,No
+E10338,Employee_338,22.0,Female,Sales,Sales Executive,35000.0,0.0,2018-06-05,Rawalpindi,3.0,3.0,No,No,5,17,11,No,Yes
+E10228,Employee_228,42.0,Male,Customer Support,Support Manager,170200.0,14.8,2019-08-08,Multan,4.0,5.0,No,Yes,9,30,15,Yes,No
+E10009,Employee_9,21.0,Female,Marketing,Marketing Manager,50300.0,0.0,2023-04-26,Lahore,4.0,2.0,No,Yes,10,31,10,No,Yes
+E11110,Employee_1110,25.0,Male,IT,IT Manager,35000.0,1.8,2022-04-24,Multan,3.0,4.0,No,Yes,10,21,7,No,No
+E11305,Employee_1305,35.0,Female,Finance,Accountant,92000.0,8.9,2020-07-19,Lahore,2.0,3.0,No,Yes,2,11,13,No,No
+E11317,Employee_1317,40.0,Male,Finance,Finance Manager,123500.0,9.2,2024-01-10,Lahore,5.0,2.0,No,Yes,2,35,19,Yes,No
+E10069,Employee_69,37.0,Male,Marketing,Marketing Manager,121700.0,8.5,2025-06-26,Karachi,3.0,4.0,No,No,8,44,16,No,No
+E11380,Employee_1380,21.0,Female,IT,Data Analyst,57900.0,0.0,2025-01-17,Multan,5.0,3.0,No,Yes,12,35,4,No,No
+E11121,Employee_1121,33.0,Female,Operations,Coordinator,94800.0,7.8,2025-09-01,Karachi,4.0,4.0,No,No,0,22,18,No,No
+E11146,Employee_1146,49.0,Female,Sales,Sales Manager,158600.0,13.2,2025-03-29,Karachi,2.0,4.0,No,No,3,31,5,No,Yes
+E11307,Employee_1307,34.0,Female,Operations,Coordinator,113600.0,5.9,2023-05-06,Peshawar,5.0,3.0,No,No,5,54,9,Yes,No
+E11205,Employee_1205,21.0,Male,Operations,Coordinator,35000.0,0.0,2024-05-06,Multan,4.0,4.0,Yes,No,6,27,8,No,No
+E10025,Employee_25,43.0,Male,Finance,Finance Manager,179000.0,15.5,2018-01-26,Karachi,3.0,3.0,No,No,4,26,17,No,No
+E10634,Employee_634,36.0,Male,Finance,Accountant,124500.0,9.6,2022-09-08,Islamabad,4.0,4.0,No,Yes,8,29,15,Yes,No
+E10471,Employee_471,32.0,Male,IT,Software Engineer,82300.0,5.4,2018-06-15,Karachi,4.0,4.0,No,No,8,3,16,Yes,No
+E10558,Employee_558,25.0,Male,HR,HR Specialist,52000.0,2.1,2025-07-30,Multan,2.0,3.0,No,Yes,5,6,12,No,No
+E10294,Employee_294,29.0,Male,Operations,Coordinator,95400.0,4.9,2022-05-28,Multan,3.0,2.0,No,Yes,5,28,4,No,No
+E10773,Employee_773,38.0,Male,Finance,Financial Analyst,121300.0,7.8,2023-04-22,Lahore,2.0,1.0,No,No,7,34,4,No,No
+E11433,Employee_1433,26.0,Male,IT,IT Support Specialist,,2.1,2024-10-06,Rawalpindi,4.0,2.0,Yes,No,13,35,11,No,No
+E11023,Employee_1023,46.0,Female,sales,Sales Manager,142700.0,11.5,2018-02-15,Karachi,3.0,1.0,No,No,2,22,6,No,No
+E10121,Employee_121,43.0,Female,Finance,Accountant,166900.0,14.8,2021-10-31,Rawalpindi,3.0,3.0,No,Yes,3,35,10,No,No
+E10906,Employee_906,35.0,Female,Marketing,Content Strategist,124700.0,9.0,2017-09-03,Peshawar,4.0,2.0,No,No,0,20,5,Yes,No
+E10511,Employee_511,30.0,Female,IT,IT Manager,74300.0,5.7,2020-07-19,Karachi,5.0,4.0,No,Yes,10,15,9,No,No
+E10180,Employee_180,25.0,Male,Operations,Coordinator,63700.0,2.2,2024-02-26,Karachi,3.0,4.0,No,Yes,5,35,17,No,No
+E11094,Employee_1094,47.0,Male,Finance,Accountant,216700.0,18.4,2021-02-03,Multan,4.0,3.0,No,No,3,34,24,No,No
+E11184,Employee_1184,24.0,Female,Sales,Sales Manager,61100.0,1.4,2023-07-26,Multan,5.0,4.0,No,No,4,24,9,No,No
+E10816,Employee_816,21.0,Male,IT,Data Analyst,45000.0,0.0,2023-12-03,Islamabad,2.0,4.0,No,Yes,5,0,15,No,No
+E11463,Employee_1463,27.0,Male,Sales,Sales Manager,92200.0,2.9,2018-01-14,Peshawar,2.0,1.0,Yes,No,2,40,5,No,No
+E10864,Employee_864,46.0,Male,Finance,Accountant,151600.0,15.8,2023-06-22,Peshawar,3.0,4.0,No,Yes,3,23,13,No,No
+E11083,Employee_1083,38.0,Male,Finance,Accountant,122300.0,9.5,2021-04-26,Multan,2.0,4.0,No,Yes,7,27,3,No,No
+E11323,Employee_1323,25.0,Female,Marketing,Content Strategist,35000.0,1.4,2024-08-22,Multan,3.0,5.0,Yes,No,3,28,10,No,No
+E10381,Employee_381,44.0,Male,Operations,Operations Manager,182600.0,13.6,2020-08-17,Karachi,5.0,4.0,No,No,5,12,14,No,No
+E10605,Employee_605,26.0,Male,Operations,Operations Analyst,55200.0,2.1,2020-09-07,Rawalpindi,4.0,4.0,No,No,8,19,7,No,No
+E11499,Employee_1499,33.0,Male,Sales,Account Executive,114800.0,6.9,2022-06-11,Lahore,4.0,3.0,Yes,Yes,5,31,12,No,No
+E11319,Employee_1319,33.0,Male,IT,Software Engineer,131100.0,7.3,2017-05-12,Islamabad,3.0,5.0,Yes,No,3,34,13,No,No
+E10551,Employee_551,34.0,Male,HR,HR Specialist,128400.0,7.8,2024-05-24,Islamabad,5.0,4.0,Yes,No,6,20,14,Yes,No
+E11172,Employee_1172,21.0,Female,HR,HR Manager,35000.0,0.0,2017-05-27,Lahore,4.0,4.0,No,Yes,7,4,11,No,No
+E10252,Employee_252,39.0,Male,Sales,Sales Executive,116200.0,7.7,2025-05-08,Multan,2.0,5.0,No,No,8,30,12,No,No
+E11402,Employee_1402,37.0,Male,Operations,Coordinator,155900.0,10.0,2020-05-02,Rawalpindi,3.0,1.0,No,Yes,7,33,18,No,No
+E10213,Employee_213,27.0,Female,Operations,Operations Analyst,56000.0,2.3,2021-11-13,Islamabad,5.0,3.0,No,No,4,5,14,No,No
+E11292,Employee_1292,33.0,Male,Customer Support,Support Manager,114800.0,7.7,2025-11-10,Karachi,4.0,2.0,No,No,1,15,10,No,No
+E10331,Employee_331,39.0,Male,Customer Support,Support Manager,132700.0,9.3,2018-07-02,Islamabad,5.0,3.0,No,Yes,6,10,10,Yes,No
+E10433,Employee_433,24.0,Female,Finance,Finance Manager,79900.0,1.2,2021-06-01,Multan,4.0,2.0,No,No,6,45,7,No,No
+E10277,Employee_277,45.0,Female,Operations,Operations Analyst,142200.0,13.6,2022-01-24,Multan,5.0,2.0,No,No,5,23,17,Yes,No
+E11408,Employee_1408,50.0,Female,Sales,Sales Manager,185900.0,16.4,2022-01-30,Rawalpindi,3.0,4.0,Yes,No,3,37,10,No,No
+E10292,Employee_292,32.0,Male,Operations,Operations Manager,81700.0,4.6,2017-10-31,Karachi,2.0,5.0,No,No,5,6,16,No,No
+E10902,Employee_902,36.0,Male,IT,IT Manager,69700.0,6.8,2020-01-08,Multan,4.0,5.0,No,No,3,35,20,Yes,No
+E10449,Employee_449,31.0,Male,Sales,Sales Manager,71900.0,4.7,2025-03-11,Karachi,4.0,3.0,No,Yes,7,31,16,Yes,No
+E11267,Employee_1267,26.0,Male,Finance,Accountant,101700.0,2.6,2017-03-22,Lahore,4.0,2.0,No,Yes,5,16,16,No,Yes
+E11315,Employee_1315,44.0,Male,Finance,Accountant,149400.0,11.5,2025-01-16,Islamabad,4.0,,No,Yes,7,2,20,No,No
+E10304,Employee_304,42.0,Female,Sales,Sales Manager,157600.0,14.6,2023-08-27,Lahore,5.0,5.0,Yes,No,6,20,13,No,No
+E11296,Employee_1296,25.0,Male,Marketing,Content Strategist,38200.0,1.5,2021-11-11,Islamabad,3.0,4.0,Yes,No,7,18,21,No,No
+E11423,Employee_1423,28.0,Male,Operations,Operations Analyst,56700.0,3.4,2023-10-24,Multan,2.0,4.0,No,Yes,2,16,8,No,No
+E10941,Employee_941,45.0,Male,Finance,Accountant,163900.0,15.2,2022-01-31,Lahore,3.0,5.0,No,Yes,0,16,12,No,No
+E10068,Employee_68,37.0,Female,IT,Data Analyst,119800.0,10.6,2017-05-29,Karachi,4.0,4.0,Yes,No,4,0,13,No,No
+E10020,Employee_20,44.0,Male,Customer Support,Support Specialist,140200.0,13.1,2021-03-30,Lahore,2.0,1.0,No,Yes,8,48,8,No,No
+E10325,Employee_325,26.0,Female,Marketing,Marketing Specialist,83900.0,2.8,2022-09-10,Karachi,3.0,3.0,Yes,Yes,11,15,14,No,No
+E11384,Employee_1384,35.0,Male,IT,Data Analyst,134700.0,7.8,2019-03-18,Peshawar,3.0,5.0,No,Yes,5,23,17,No,No
+E10055,Employee_55,47.0,Female,Sales,Sales Manager,194100.0,18.1,2019-04-27,Peshawar,3.0,,No,No,3,20,14,No,No
+E10964,Employee_964,26.0,Male,Finance,Accountant,54900.0,2.1,2025-01-03,Islamabad,,5.0,No,No,6,27,12,No,No
+E10932,Employee_932,34.0,Female,Operations,Operations Manager,103900.0,6.4,2019-11-22,Rawalpindi,5.0,2.0,Yes,Yes,7,22,14,No,No
+E11420,Employee_1420,30.0,Female,Sales,Sales Executive,96000.0,4.7,2019-05-06,Rawalpindi,5.0,4.0,No,Yes,2,28,8,No,No
+E10151,Employee_151,39.0,Female,IT,Software Engineer,148600.0,10.5,2018-01-03,Lahore,4.0,3.0,No,No,8,24,14,Yes,No
+E11257,Employee_1257,28.0,Male,Finance,Accountant,65900.0,3.8,2024-10-12,Lahore,2.0,4.0,Yes,No,6,29,24,No,No
+E11122,Employee_1122,33.0,Female,Customer Support,Support Specialist,95700.0,7.0,2020-12-04,Karachi,1.0,3.0,No,No,0,15,12,No,No
+E11275,Employee_1275,49.0,Male,Finance,Financial Analyst,181700.0,18.2,2018-07-09,Islamabad,4.0,5.0,No,No,5,28,14,Yes,No
+E11131,Employee_1131,32.0,Female,Marketing,Marketing Specialist,83100.0,7.4,2022-03-29,Multan,5.0,5.0,No,No,0,30,10,Yes,No
+E10744,Employee_744,37.0,Male,Customer Support,Support Manager,115800.0,10.5,2017-11-26,Karachi,,5.0,No,No,4,36,6,No,No
+E10750,Employee_750,39.0,Female,IT,IT Manager,140500.0,10.6,2018-01-13,Lahore,4.0,3.0,No,No,8,13,15,Yes,No
+E10756,Employee_756,37.0,Female,Finance,Accountant,135700.0,10.5,2019-02-13,Multan,4.0,1.0,No,Yes,9,8,6,Yes,No
+E11049,Employee_1049,52.0,Female,HR,HR Specialist,154900.0,14.2,2023-06-16,Rawalpindi,4.0,2.0,No,No,10,19,8,No,No
+E10812,Employee_812,38.0,Female,Customer Support,Support Specialist,172400.0,10.0,2021-08-03,Karachi,3.0,,Yes,Yes,4,31,12,No,No
+E10662,Employee_662,45.0,Female,Marketing,Content Strategist,171000.0,16.1,2017-02-13,Multan,5.0,4.0,Yes,No,4,35,13,Yes,Yes
+E11383,Employee_1383,21.0,Female,Sales,Account Executive,35000.0,0.0,2020-09-07,Karachi,3.0,3.0,Yes,Yes,3,34,21,No,No
+E11107,Employee_1107,43.0,Male,IT,IT Manager,170300.0,13.6,2020-07-27,Multan,5.0,4.0,Yes,No,0,21,9,Yes,Yes
+E10256,Employee_256,33.0,Female,Operations,Coordinator,106300.0,5.2,2021-02-09,Rawalpindi,4.0,3.0,No,Yes,6,1,24,No,No
+E10935,Employee_935,22.0,Male,Customer Support,Support Manager,63700.0,0.0,2025-08-17,Multan,2.0,4.0,No,Yes,5,21,6,No,No
+E10870,Employee_870,40.0,Female,Operations,Coordinator,164900.0,12.4,2022-02-13,Islamabad,3.0,4.0,No,Yes,8,50,7,No,No
+E11397,Employee_1397,21.0,Male,Finance,Accountant,64900.0,0.0,2024-11-11,Peshawar,2.0,3.0,No,No,3,39,14,No,No
+E10893,Employee_893,21.0,Female,HR,Recruiter,41500.0,0.0,2018-10-02,Peshawar,4.0,5.0,No,No,4,19,13,No,No
+E10874,Employee_874,40.0,Male,HR,HR Manager,140200.0,10.2,2018-10-06,Multan,3.0,4.0,No,Yes,3,27,12,No,Yes
+E10614,Employee_614,26.0,Male,Customer Support,Support Specialist,78000.0,2.2,2021-10-07,Karachi,3.0,4.0,No,No,3,36,15,No,No
+E11101,Employee_1101,,Male,Marketing,Marketing Specialist,85500.0,5.9,2017-08-28,Rawalpindi,3.0,4.0,No,No,3,18,0,No,No
+E10389,Employee_389,46.0,Female,Operations,Coordinator,181000.0,12.2,2020-08-11,Rawalpindi,5.0,3.0,Yes,No,8,33,4,Yes,No
+E10937,Employee_937,31.0,Male,HR,Recruiter,70400.0,6.6,2021-06-30,Lahore,3.0,4.0,Yes,No,4,28,16,No,No
+E10407,Employee_407,36.0,Male,Customer Support,Support Specialist,75800.0,6.7,2019-03-23,Peshawar,4.0,2.0,No,No,2,22,15,Yes,No
+E10795,Employee_795,37.0,Male,IT,IT Support Specialist,136400.0,9.4,2018-10-04,Multan,4.0,5.0,No,Yes,2,54,0,Yes,No
+E10716,Employee_716,37.0,Female,Sales,Sales Executive,143900.0,9.8,2021-01-27,Multan,3.0,3.0,No,Yes,5,30,4,No,No
+E11135,Employee_1135,26.0,Female,operations,Operations Analyst,39900.0,2.0,2023-06-03,Peshawar,,5.0,Yes,No,5,39,12,No,No
+E11024,Employee_1024,48.0,Female,Sales,Sales Executive,196400.0,16.6,2023-05-21,Lahore,4.0,5.0,Yes,No,7,30,18,Yes,No
+E11056,Employee_1056,21.0,Male,Customer Support,Support Representative,55100.0,0.0,2019-03-02,Rawalpindi,2.0,5.0,No,Yes,4,24,9,No,No
+E11324,Employee_1324,41.0,Male,Sales,Account Executive,133100.0,14.0,2019-01-10,Peshawar,3.0,4.0,No,Yes,1,28,7,No,Yes
+E10247,Employee_247,29.0,Male,IT,Software Engineer,75700.0,3.9,,Rawalpindi,4.0,3.0,Yes,Yes,4,11,17,No,No
+E10146,Employee_146,41.0,Male,Operations,Operations Analyst,120500.0,8.9,2017-02-26,Peshawar,3.0,3.0,No,No,9,9,15,No,No
+E11409,Employee_1409,36.0,Female,Sales,Account Executive,111500.0,6.9,2018-12-23,Karachi,3.0,4.0,Yes,No,5,23,8,No,No
+E11153,Employee_1153,34.0,Female,Sales,Sales Manager,102900.0,7.7,2023-08-31,Rawalpindi,3.0,5.0,No,Yes,5,27,7,No,No
+E11387,Employee_1387,30.0,Female,Finance,Financial Analyst,70800.0,4.3,2018-03-30,Karachi,2.0,4.0,No,No,6,25,3,No,No
+E10623,Employee_623,23.0,Male,Customer Support,Support Specialist,58300.0,0.5,2023-06-02,Multan,3.0,4.0,Yes,No,8,25,17,No,No
+E11482,Employee_1482,30.0,Male,Sales,Sales Manager,66200.0,4.7,2023-10-21,Lahore,3.0,2.0,No,No,3,11,9,No,No
+E10461,Employee_461,,Male,IT,Data Analyst,59400.0,5.3,2020-04-02,Lahore,3.0,4.0,No,No,6,36,6,No,No
+E10487,Employee_487,49.0,Male,Operations,Operations Manager,206200.0,18.4,2017-11-10,Islamabad,3.0,3.0,No,No,4,24,4,No,No
+E11435,Employee_1435,38.0,Male,Operations,Operations Manager,160600.0,10.7,2022-05-06,Lahore,,4.0,No,No,7,26,13,Yes,No
+E10091,Employee_91,,Male,Operations,Operations Analyst,199800.0,15.8,2018-11-24,Rawalpindi,4.0,3.0,Yes,No,4,32,15,Yes,No
+E11230,Employee_1230,25.0,Male,Finance,Financial Analyst,59800.0,1.7,2017-01-21,Karachi,4.0,3.0,No,No,6,13,19,No,No
+E10493,Employee_493,46.0,Male,Marketing,Marketing Manager,168100.0,14.3,2024-06-01,Lahore,5.0,3.0,Yes,No,6,37,14,Yes,No
+E10171,Employee_171,35.0,Female,HR,HR Specialist,93300.0,6.6,2024-10-24,Lahore,3.0,4.0,Yes,Yes,3,19,23,No,No
+E10057,Employee_57,24.0,Male,Marketing,Content Strategist,73600.0,1.4,2018-03-17,Islamabad,3.0,4.0,Yes,No,6,17,15,No,No
+E10405,Employee_405,33.0,Male,Operations,Coordinator,112800.0,8.2,2022-06-10,Rawalpindi,3.0,5.0,No,No,5,22,16,No,No
+E11266,Employee_1266,40.0,Male,Customer Support,Support Representative,112700.0,10.7,2023-02-15,Peshawar,4.0,4.0,Yes,No,3,11,14,Yes,No
+E10600,Employee_600,21.0,Male,HR,HR Specialist,60200.0,0.0,2017-06-22,Islamabad,4.0,4.0,No,No,6,23,13,No,No
+E11016,Employee_1016,50.0,Female,Customer Support,Support Representative,229600.0,15.4,2017-03-04,Rawalpindi,5.0,4.0,Yes,Yes,6,35,0,No,No
+E10098,Employee_98,32.0,Male,IT,IT Support Specialist,95200.0,4.6,2022-05-19,Lahore,2.0,4.0,No,Yes,5,31,9,No,No
+E10827,Employee_827,22.0,Male, Operations ,Coordinator,35000.0,0.0,2018-09-21,Rawalpindi,3.0,4.0,Yes,No,7,27,15,No,No
+E11141,Employee_1141,31.0,Female,Sales,Account Executive,128100.0,6.4,2022-02-09,Lahore,4.0,5.0,Yes,Yes,2,16,9,Yes,No
+E11226,Employee_1226,36.0,Female,Sales,Sales Manager,113000.0,6.6,2023-04-13,Karachi,3.0,2.0,Yes,No,6,21,19,No,No
+E10480,Employee_480,31.0,Male,Operations,Operations Manager,67900.0,4.7,2018-06-01,Islamabad,5.0,1.0,No,No,5,42,8,Yes,No
+E10324,Employee_324,,Male,Operations,Operations Manager,91400.0,4.5,2020-12-03,Lahore,5.0,5.0,Yes,No,4,13,8,Yes,Yes
+E11218,Employee_1218,43.0,Female,Customer Support,Support Manager,164100.0,15.0,2018-04-10,Multan,2.0,4.0,No,No,8,14,6,No,No
+E11349,Employee_1349,41.0,Female,Finance,Finance Manager,680000,11.8,2022-06-16,Karachi,3.0,5.0,No,No,4,22,17,No,No
+E10099,Employee_99,28.0,Male,IT,Data Analyst,89500.0,4.5,2018-06-23,Peshawar,4.0,4.0,No,No,3,19,10,No,No
+E11133,Employee_1133,31.0,Male,IT,IT Manager,90100.0,5.3,2023-10-29,Lahore,5.0,3.0,No,Yes,8,25,16,Yes,No
+E10425,Employee_425,30.0,Male,Operations,Operations Manager,55700.0,4.7,2020-12-22,Islamabad,4.0,2.0,No,No,4,16,13,No,No
+E10297,Employee_297,31.0,Female,Operations,Coordinator,92900.0,5.5,2019-05-28,Rawalpindi,5.0,2.0,No,No,6,41,12,No,No
+E10738,Employee_738,44.0,Female,IT,IT Support Specialist,138700.0,11.2,2023-07-03,Karachi,3.0,4.0,Yes,Yes,8,10,4,No,No
+E11427,Employee_1427,21.0,Male,Operations,Operations Analyst,44700.0,0.0,2017-05-16,Karachi,5.0,1.0,No,No,3,29,10,No,No
+E10903,Employee_903,39.0,Male,HR,Recruiter,113300.0,7.7,2018-08-31,Islamabad,4.0,5.0,No,No,3,22,6,Yes,No
+E10602,Employee_602,40.0,Male,Finance,Financial Analyst,164200.0,12.0,2021-12-16,Peshawar,3.0,3.0,No,Yes,4,16,11,No,No
+E11000,Employee_1000,33.0,Male,HR,HR Manager,124600.0,7.0,2017-12-10,Peshawar,4.0,3.0,No,No,1,30,13,No,No
+E11364,Employee_1364,21.0,Female,Marketing,Content Strategist,43200.0,0.0,2020-09-13,Peshawar,3.0,3.0,No,No,3,20,3,No,No
+E10396,Employee_396,32.0,Female,Operations,Coordinator,97900.0,5.5,2024-08-31,Multan,4.0,3.0,No,No,5,49,9,Yes,No
+E10427,Employee_427,32.0,Male,Marketing,Marketing Manager,106900.0,7.2,2025-03-27,Karachi,3.0,4.0,No,No,6,20,12,No,No
+E11361,Employee_1361,23.0,Female,Customer Support,Support Manager,68300.0,0.6,2022-12-04,Karachi,1.0,4.0,Yes,Yes,5,30,20,No,No
+E11039,Employee_1039,41.0,Male,Operations,Operations Analyst,117600.0,9.2,2023-11-15,Rawalpindi,3.0,3.0,No,No,6,27,11,No,No
+E10253,Employee_253,29.0,Female,IT,Software Engineer,124800.0,5.2,2021-07-29,Lahore,2.0,4.0,No,No,8,18,13,No,No
+E10239,Employee_239,28.0,Female,Sales,Account Executive,56400.0,3.3,2019-07-16,Multan,4.0,,No,No,8,8,7,No,Yes
+E11145,Employee_1145,38.0,Male,IT,Data Analyst,120000.0,11.4,2022-07-16,Karachi,2.0,4.0,No,No,7,14,10,No,No
+E10845,Employee_845,22.0,Male,Customer Support,Support Manager,35900.0,0.0,2019-04-06,Multan,5.0,5.0,No,No,5,19,23,No,No
+E10846,Employee_846,21.0,Male,Marketing,Marketing Manager,35000.0,0.0,2025-02-11,Lahore,3.0,5.0,No,No,3,42,6,No,No
+E10555,Employee_555,22.0,Female,Operations,Operations Analyst,56100.0,0.0,2024-10-25,Multan,3.0,3.0,No,No,4,40,21,No,No
+E11221,Employee_1221,32.0,Female,Customer Support,Support Specialist,98700.0,5.5,2025-02-25,Karachi,2.0,1.0,No,No,10,21,8,No,No
+E10546,Employee_546,60.0,Male,Operations,Coordinator,203000.0,19.9,2024-06-01,Islamabad,5.0,3.0,Yes,No,3,8,9,Yes,No
+E10251,Employee_251,21.0,Male,Finance,Financial Analyst,35000.0,0.0,2019-11-10,Lahore,5.0,4.0,No,No,9,29,15,No,No
+E10740,Employee_740,35.0,Male,Sales,Account Executive,124600.0,9.4,2018-01-30,Rawalpindi,4.0,3.0,Yes,No,7,25,20,No,No
+E10965,Employee_965,31.0,Male,Marketing,Marketing Manager,72100.0,4.6,2019-08-24,,2.0,3.0,No,No,7,24,20,No,No
+E10199,Employee_199,42.0,Female,Customer Support,Support Representative,166400.0,9.4,2022-03-07,Peshawar,4.0,2.0,No,No,1,29,16,No,No
+E10898,Employee_898,28.0,Female,IT,IT Support Specialist,61800.0,3.1,2017-03-31,Islamabad,2.0,3.0,No,No,6,36,12,No,No
+E11337,Employee_1337,54.0,Male,Customer Support,Support Representative,209300.0,18.0,2019-06-21,Karachi,5.0,4.0,No,Yes,6,26,19,Yes,No
+E11320,Employee_1320,37.0,Male,Sales,Sales Manager,84400.0,8.6,2022-02-21,Rawalpindi,3.0,4.0,No,No,6,28,25,No,No
+E10990,Employee_990,48.0,Female,Sales,Sales Executive,,13.5,2017-10-15,Karachi,3.0,1.0,No,No,7,38,13,No,No
+E11041,Employee_1041,21.0,Male,Marketing,Content Strategist,73900.0,0.0,2023-04-12,Multan,4.0,4.0,No,No,7,20,13,No,No
+E11183,Employee_1183,33.0,Female,IT,Data Analyst,78000.0,5.7,2023-10-03,Multan,4.0,4.0,No,Yes,10,29,13,No,No
+E10244,Employee_244,34.0,Male,IT,Data Analyst,110900.0,7.6,2022-04-25,Multan,4.0,4.0,No,No,5,31,13,Yes,No
+E10067,Employee_67,38.0,Male,Marketing,Marketing Manager,136900.0,11.1,2025-11-05,Peshawar,5.0,4.0,Yes,Yes,5,40,6,No,No
+E11447,Employee_1447,33.0,Female,Finance,Financial Analyst,74100.0,6.5,2020-12-26,Lahore,2.0,2.0,No,No,6,27,11,No,No
+E10934,Employee_934,41.0,Male,Sales,Sales Manager,105600.0,8.9,2022-09-30,Rawalpindi,4.0,5.0,Yes,Yes,5,38,8,Yes,No
+E10360,Employee_360,47.0,Female,Operations,Operations Analyst,178300.0,14.4,2025-03-30,Karachi,2.0,2.0,No,Yes,3,30,19,No,No
+E10096,Employee_96,36.0,Male,Finance,Financial Analyst,100600.0,7.2,2019-10-29,Islamabad,4.0,1.0,No,No,9,19,11,No,No
+E11472,Employee_1472,36.0,Female,IT,Data Analyst,104600.0,8.7,2022-09-04,Multan,3.0,4.0,No,Yes,8,4,12,No,No
+E11486,Employee_1486,31.0,Male,Customer Support,Support Representative,82500.0,4.5,2020-11-02,Karachi,4.0,5.0,No,No,5,21,19,No,No
+E10522,Employee_522,38.0,Male,Finance,Finance Manager,93400.0,8.4,2025-10-11,Peshawar,2.0,2.0,No,No,4,7,16,No,No
+E10975,Employee_975,43.0,Male,Finance,Finance Manager,111000.0,10.4,2023-08-27,Karachi,3.0,1.0,No,No,6,25,8,No,No
+E10666,Employee_666,42.0,Male,Customer Support,Support Specialist,109900.0,9.3,2018-03-30,Islamabad,5.0,2.0,No,No,8,28,15,Yes,No
+E10362,Employee_362,46.0,Female,Marketing,Marketing Specialist,168000.0,17.4,2018-04-21,Lahore,4.0,2.0,No,No,0,27,4,No,No
+E10485,Employee_485,32.0,Female,IT,Data Analyst,84700.0,6.3,2020-01-23,Islamabad,5.0,4.0,No,Yes,5,19,18,Yes,No
+E11176,Employee_1176,,Male,Sales,Sales Executive,35800.0,1.8,2024-06-27,Rawalpindi,2.0,3.0,No,No,5,17,8,No,No
+E11281,Employee_1281,39.0,Female,IT,Software Engineer,92600.0,8.9,2025-06-03,Multan,4.0,4.0,No,No,2,18,16,Yes,No
+E10312,Employee_312,27.0,Male,Operations,Coordinator,58400.0,3.6,2020-04-18,Peshawar,4.0,4.0,No,No,3,34,11,No,No
+E11329,Employee_1329,,Female,HR,Recruiter,,13.2,2020-06-11,Peshawar,2.0,4.0,Yes,Yes,9,19,13,No,No
+E10843,Employee_843,52.0,Male, IT ,IT Support Specialist,179200.0,14.7,2023-10-12,Peshawar,5.0,3.0,No,Yes,3,30,10,Yes,No
+E10414,Employee_414,29.0,Female,Sales,Sales Manager,67400.0,3.4,2023-03-07,Peshawar,3.0,5.0,No,Yes,4,2,11,No,No
+E11158,Employee_1158,34.0,Female,Operations,Coordinator,124800.0,8.5,2017-02-04,Rawalpindi,4.0,5.0,Yes,No,7,38,20,Yes,No
+E10032,Employee_32,26.0,Male,Marketing,Marketing Specialist,35000.0,2.0,2022-07-13,Peshawar,3.0,5.0,No,No,7,33,9,No,No
+E10766,Employee_766,36.0,Female,Marketing,Marketing Specialist,136700.0,9.4,2021-10-31,Rawalpindi,4.0,4.0,No,No,6,20,19,Yes,No
+E10459,Employee_459,41.0,Male,Marketing,Marketing Manager,130500.0,13.2,2017-08-09,Lahore,3.0,2.0,No,No,7,22,13,No,No
+E11186,Employee_1186,47.0,Female,IT,Data Analyst,157400.0,13.8,2017-01-29,Lahore,2.0,4.0,No,No,8,14,18,No,No
+E10340,Employee_340,39.0,Male,Sales,Sales Executive,145400.0,10.1,2024-04-28,,4.0,5.0,No,Yes,8,25,14,Yes,No
+E10287,Employee_287,36.0,Male,Marketing,Marketing Specialist,135100.0,7.2,2024-07-31,Islamabad,3.0,4.0,No,No,2,29,12,No,No
+E11273,Employee_1273,21.0,Female,Operations,Operations Analyst,63400.0,0.0,2022-03-02,Karachi,5.0,3.0,No,No,2,12,8,No,No
+E11494,Employee_1494,23.0,Male,HR,HR Manager,35000.0,0.5,2023-11-11,Peshawar,3.0,5.0,No,No,5,44,7,No,No
+E10950,Employee_950,43.0,Female,Sales,Sales Manager,167400.0,12.4,2019-12-31,Peshawar,4.0,3.0,No,No,5,43,16,Yes,No
+E10140,Employee_140,21.0,Female,Customer Support,Support Manager,60000.0,0.0,2024-06-28,Rawalpindi,4.0,4.0,No,No,0,3,18,No,No
+E10849,Employee_849,31.0,Male,Marketing,Marketing Manager,123700.0,6.3,2023-07-24,Rawalpindi,4.0,3.0,Yes,No,5,25,12,Yes,No
+E11026,Employee_1026,26.0,Male,Sales,Sales Executive,50400.0,2.7,2017-03-21,Multan,4.0,3.0,Yes,Yes,5,17,19,No,No
+E11232,Employee_1232,45.0,Male,Finance,Accountant,182600.0,14.1,2021-06-18,Islamabad,3.0,3.0,No,No,7,24,18,No,No
+E11139,Employee_1139,27.0,Male,Customer Support,Support Specialist,53200.0,2.9,2022-05-23,Islamabad,4.0,2.0,No,Yes,8,25,22,No,No
+E10901,Employee_901,39.0,Male,Sales,Sales Manager,121400.0,10.7,2020-06-05,Lahore,3.0,1.0,No,No,7,28,11,No,No
+E10732,Employee_732,35.0,Female, IT ,IT Manager,101800.0,6.8,2023-02-04,Karachi,4.0,3.0,No,No,8,25,7,No,No
+E10265,Employee_265,39.0,Female,IT,IT Manager,129700.0,11.0,2022-06-14,Multan,3.0,3.0,Yes,Yes,1,24,12,No,No
+E10275,Employee_275,37.0,Male,Operations,Operations Manager,110300.0,7.6,2018-12-26,Islamabad,3.0,3.0,No,Yes,4,31,13,No,Yes
+E11095,Employee_1095,40.0,Male,IT,Software Engineer,127200.0,8.4,2018-04-08,Rawalpindi,4.0,3.0,No,Yes,6,25,15,Yes,No
+E10445,Employee_445,34.0,Female,Operations,Operations Manager,94000.0,5.7,2018-05-08,Karachi,2.0,1.0,No,No,6,27,15,No,Yes
+E10040,Employee_40,42.0,Male,Finance,Financial Analyst,194900.0,13.4,2025-06-09,Peshawar,1.0,3.0,No,No,12,26,13,No,No
+E11123,Employee_1123,34.0,Female,HR,Recruiter,66900.0,6.0,2020-04-17,Rawalpindi,4.0,5.0,No,No,6,34,9,No,No
+E11265,Employee_1265,40.0,Male,IT,IT Support Specialist,132100.0,10.9,2024-10-24,Peshawar,4.0,2.0,No,No,4,29,13,Yes,No
+E10022,Employee_22,30.0,Male,Customer Support,Support Specialist,110400.0,4.3,2022-04-30,Karachi,5.0,3.0,Yes,No,3,32,14,No,No
+E10706,Employee_706,27.0,Female,Customer Support,Support Representative,71700.0,3.0,2024-09-17,Islamabad,4.0,5.0,No,Yes,5,35,5,No,No
+E10518,Employee_518,27.0,Female,Customer Support,Support Manager,40400.0,3.6,2019-10-31,Rawalpindi,3.0,4.0,No,No,1,14,14,No,No
+E11174,Employee_1174,47.0,Male,IT,IT Manager,172100.0,14.9,2018-11-06,Karachi,3.0,5.0,No,No,4,11,17,No,No
+E10355,Employee_355,36.0,Male,Customer Support,Support Manager,135800.0,9.2,2019-12-25,Rawalpindi,2.0,3.0,No,Yes,5,29,5,No,Yes
+E10298,Employee_298,23.0,Male,IT,IT Support Specialist,42100.0,0.7,2025-06-05,Lahore,4.0,3.0,No,Yes,10,26,16,No,No
+E11077,Employee_1077,36.0,Male,Customer Support,Support Specialist,105200.0,9.5,2024-12-16,Karachi,3.0,3.0,No,No,4,32,21,No,No
+E10840,Employee_840,49.0,Female,HR,HR Specialist,183300.0,15.6,2024-12-25,Rawalpindi,3.0,1.0,No,No,5,39,16,No,No
+E11223,Employee_1223,37.0,Male,Operations,Operations Manager,83000.0,7.3,2024-10-17,Rawalpindi,4.0,4.0,Yes,Yes,2,31,6,No,No
+E10925,Employee_925,27.0,Male,Sales,Sales Manager,74000.0,2.8,2020-07-16,Multan,4.0,5.0,No,No,4,27,15,No,No
+E10123,Employee_123,28.0,Male,Finance,Accountant,74500.0,4.3,2017-08-09,Rawalpindi,4.0,4.0,No,No,7,22,5,No,No
+E11228,Employee_1228,29.0,Male,Sales,Sales Manager,106200.0,5.1,2017-02-07,Karachi,1.0,4.0,No,Yes,8,13,10,No,No
+E11092,Employee_1092,29.0,Female,Operations,Coordinator,86000.0,4.9,2018-03-20,Karachi,4.0,5.0,Yes,No,2,2,1,Yes,No
+E11248,Employee_1248,42.0,Male,IT,IT Support Specialist,140900.0,10.7,2023-09-20,Peshawar,3.0,3.0,No,Yes,2,32,11,No,Yes
+E11152,Employee_1152,29.0,Female,Sales,Account Executive,70900.0,3.6,2017-02-28,Karachi,5.0,1.0,No,No,4,28,23,No,No
+E11164,Employee_1164,21.0,Female,Marketing,Content Strategist,47300.0,0.0,2024-01-23,Karachi,3.0,3.0,No,No,7,40,9,No,No
+E10418,Employee_418,38.0,Male,Marketing,Marketing Manager,98000.0,7.3,2019-09-21,Islamabad,4.0,5.0,No,No,4,30,13,Yes,No
+E10967,Employee_967,34.0,Female,HR,HR Manager,107800.0,6.6,2019-05-19,Karachi,3.0,4.0,No,No,4,12,11,No,No
+E11243,Employee_1243,52.0,Female,IT,Data Analyst,210100.0,20.7,2019-07-01,Lahore,2.0,4.0,Yes,Yes,8,26,15,No,No
+E10158,Employee_158,44.0,Female,Sales,Account Executive,198000.0,16.0,2023-10-26,Islamabad,2.0,5.0,No,Yes,6,28,10,No,No
+E11119,Employee_1119,30.0,Male,Operations,Operations Analyst,108900.0,5.2,2017-09-06,Islamabad,3.0,3.0,No,Yes,5,28,9,No,No
+E11280,Employee_1280,29.0,Male,Sales,Account Executive,104600.0,3.8,2017-11-03,Rawalpindi,3.0,4.0,No,No,8,36,6,No,No
+E11064,Employee_1064,27.0,Male,IT,Data Analyst,,2.8,2024-01-26,Multan,3.0,4.0,No,Yes,4,23,6,No,No
+E11155,Employee_1155,30.0,Female,Operations,Coordinator,101500.0,5.3,2020-06-08,Rawalpindi,5.0,3.0,Yes,Yes,5,39,6,Yes,No
+E10393,Employee_393,34.0,Male,Operations,Operations Analyst,113700.0,7.1,2021-11-22,Karachi,3.0,3.0,Yes,Yes,6,22,9,No,No
+E10190,Employee_190,34.0,Male,Operations,Operations Manager,86000.0,8.1,2024-01-12,Karachi,4.0,4.0,No,Yes,5,20,10,Yes,No
+E10590,Employee_590,31.0,Male,HR,Recruiter,89800.0,4.9,2025-09-28,Karachi,2.0,2.0,No,No,8,5,13,No,No
+E10761,Employee_761,25.0,Male,Operations,Operations Manager,35000.0,1.6,2020-01-04,Karachi,2.0,4.0,No,Yes,6,16,13,No,No
+E11063,Employee_1063,50.0,Female,IT,Data Analyst,235400.0,20.7,2017-03-19,Peshawar,4.0,4.0,No,Yes,6,37,7,No,No
+E10243,Employee_243,34.0,Female,Operations,Operations Manager,137100.0,8.7,2020-02-24,Islamabad,3.0,5.0,No,Yes,0,19,10,No,Yes
+E10885,Employee_885,24.0,Female,Sales,Sales Executive,59000.0,1.1,2021-04-28,Multan,3.0,3.0,No,Yes,6,28,6,No,Yes
+E11378,Employee_1378,43.0,Male,Sales,Sales Executive,118100.0,10.8,2024-12-12,Multan,5.0,3.0,Yes,No,5,20,8,No,No
+E10621,Employee_621,21.0,Male,Operations,Operations Manager,43600.0,0.0,2023-07-20,Peshawar,4.0,1.0,No,No,2,22,14,No,No
+E10651,Employee_651,21.0,Male,Sales,Sales Executive,77100.0,0.0,2022-02-01,Karachi,3.0,3.0,No,Yes,5,18,17,No,No
+E10504,Employee_504,36.0,Female,Sales,Sales Manager,125400.0,8.4,2022-12-02,Peshawar,3.0,3.0,No,Yes,6,6,22,No,No
+E10923,Employee_923,41.0,Female,Operations,Operations Analyst,135400.0,10.7,2018-09-04,Peshawar,4.0,3.0,Yes,No,7,33,16,No,No
+E10160,Employee_160,23.0,Female,HR,HR Specialist,70800.0,0.6,2025-03-23,,4.0,3.0,No,Yes,7,11,10,No,No
+E10883,Employee_883,25.0,Male,Customer Support,Support Representative,70400.0,2.1,2024-07-18,Karachi,2.0,4.0,No,No,3,15,2,No,No
+E10538,Employee_538,45.0,Male,IT,Data Analyst,140600.0,12.6,2018-11-11,Peshawar,2.0,3.0,No,No,2,34,14,No,No
+E10241,Employee_241,44.0,Female,Operations,Operations Manager,123000.0,10.3,2023-11-23,Lahore,3.0,3.0,Yes,No,7,25,9,No,No
+E10014,Employee_14,43.0,Male,IT,Data Analyst,144100.0,10.0,2020-02-26,Peshawar,4.0,4.0,No,Yes,6,20,11,Yes,No
+E10476,Employee_476,48.0,Female,Customer Support,Support Specialist,236400.0,19.3,2020-03-15,Peshawar,3.0,4.0,No,Yes,0,19,2,No,No
+E11439,Employee_1439,35.0,Male,Customer Support,Support Manager,108400.0,8.3,2020-02-18,Lahore,3.0,3.0,No,Yes,7,28,13,No,No
+E11414,Employee_1414,41.0,Male,Customer Support,Support Manager,170400.0,13.6,2022-09-20,Karachi,4.0,5.0,Yes,Yes,8,37,11,No,No
+E10929,Employee_929,35.0,Female,Sales,Sales Manager,74300.0,6.5,2022-07-18,Karachi,4.0,5.0,No,No,7,29,7,Yes,No
+E11339,Employee_1339,44.0,Male,Operations,Operations Manager,184900.0,15.2,2025-08-19,Lahore,5.0,2.0,No,No,4,50,16,Yes,No
+E11386,Employee_1386,33.0,Male,Customer Support,Support Specialist,127100.0,5.3,2019-02-07,Karachi,3.0,1.0,No,No,7,35,12,No,No
+E11345,Employee_1345,41.0,Female,Finance,Accountant,119700.0,9.2,2025-07-08,Karachi,4.0,3.0,No,No,11,25,14,No,No
+E10796,Employee_796,38.0,Female,IT,IT Support Specialist,122000.0,8.0,2020-06-04,Islamabad,3.0,4.0,No,Yes,4,23,3,No,No
+E10356,Employee_356,42.0,Female,Sales,Account Executive,179700.0,13.0,2023-05-02,Karachi,3.0,3.0,No,No,5,35,13,No,No
+E11059,Employee_1059,32.0,Male,IT,IT Support Specialist,73900.0,5.7,2025-04-15,Peshawar,2.0,3.0,No,Yes,4,0,12,No,No
+E10335,Employee_335,37.0,Male, Operations ,Coordinator,109100.0,8.8,2019-05-08,Lahore,4.0,4.0,No,No,7,12,10,No,No
+E10689,Employee_689,26.0,Female,Operations,Operations Manager,82000.0,3.0,2019-09-01,Islamabad,5.0,2.0,No,No,3,16,4,No,No
+E11401,Employee_1401,29.0,Male,IT,IT Manager,83600.0,4.8,2025-11-30,Peshawar,4.0,2.0,Yes,No,2,11,18,Yes,No
+E10185,Employee_185,31.0,Male,IT,IT Support Specialist,97400.0,5.3,2022-09-21,Lahore,,2.0,Yes,Yes,8,13,11,No,Yes
+E10824,Employee_824,40.0,Male,Sales,Account Executive,144200.0,9.5,2025-09-14,Karachi,4.0,3.0,No,Yes,2,16,12,Yes,No
+E11421,Employee_1421,42.0,Male,Sales,Sales Executive,126200.0,11.9,2017-03-25,Lahore,4.0,3.0,No,Yes,6,7,3,No,No
+E11350,Employee_1350,32.0,Male,Sales,Sales Manager,106900.0,7.2,2025-01-04,Rawalpindi,4.0,2.0,No,No,4,34,15,Yes,No
+E11002,Employee_1002,31.0,Male,Operations,Coordinator,73200.0,6.7,2017-06-07,Multan,5.0,5.0,Yes,No,0,20,15,Yes,No
+E10188,Employee_188,41.0,Female,Finance,Finance Manager,140800.0,8.6,2022-02-12,Islamabad,2.0,4.0,Yes,No,2,24,13,No,No
+E10942,Employee_942,21.0,Female,Finance,Financial Analyst,41600.0,0.0,2025-08-19,Islamabad,,3.0,No,No,8,5,5,No,No
+E10285,Employee_285,48.0,Female,Marketing,Content Strategist,184300.0,13.3,2024-07-07,Peshawar,4.0,2.0,No,Yes,6,25,9,Yes,No
+E11416,Employee_1416,34.0,Female,Marketing,Marketing Manager,102000.0,5.7,2019-10-01,Peshawar,2.0,3.0,Yes,Yes,8,13,16,No,No
+E10900,Employee_900,21.0,Male,Marketing,Marketing Specialist,57600.0,0.0,2024-12-31,Lahore,3.0,2.0,No,No,4,15,18,No,No
+E11481,Employee_1481,32.0,Female,HR,HR Manager,96000.0,5.2,2022-05-25,Multan,3.0,2.0,No,No,3,20,8,No,No
+E10166,Employee_166,37.0,Female,Operations,Operations Analyst,67200.0,9.1,2019-08-03,Multan,4.0,3.0,Yes,No,5,19,13,Yes,Yes
+E10348,Employee_348,24.0,Male,IT,Data Analyst,58600.0,1.3,2022-01-14,Rawalpindi,3.0,4.0,No,No,3,22,6,No,No
+E10299,Employee_299,34.0,Female,IT,IT Manager,120500.0,6.8,2025-02-25,Karachi,3.0,5.0,No,Yes,3,16,5,No,No
+E10536,Employee_536,30.0,Female,Sales,Sales Manager,66700.0,4.4,2017-03-15,Lahore,1.0,1.0,No,No,1,31,12,No,No
+E10230,Employee_230,48.0,Female,Marketing,Marketing Specialist,204000.0,18.4,2020-01-17,Karachi,4.0,4.0,No,Yes,6,25,10,Yes,No
+E10042,Employee_42,27.0,Male,IT,Software Engineer,83700.0,3.6,2017-02-05,Peshawar,3.0,3.0,No,No,4,16,10,No,No
+E10869,Employee_869,28.0,Female,Sales,Account Executive,95800.0,3.1,2023-12-06,Rawalpindi,3.0,4.0,No,No,3,51,10,No,No
+E10749,Employee_749,33.0,Female,Marketing,Content Strategist,120400.0,7.4,2021-09-29,Multan,3.0,4.0,No,No,2,24,11,No,No
+E11457,Employee_1457,34.0,Female,Operations,Operations Analyst,114400.0,7.1,2020-11-25,Lahore,3.0,4.0,No,Yes,4,2,13,No,No
+E10447,Employee_447,39.0,Female,HR,HR Specialist,124500.0,9.9,2025-07-04,Rawalpindi,1.0,4.0,No,Yes,7,29,6,No,No
+E10350,Employee_350,45.0,Female,Marketing,Marketing Manager,175200.0,13.2,2025-03-23,Rawalpindi,3.0,4.0,No,No,6,18,13,No,No
+E10046,Employee_46,22.0,Female,Finance,Financial Analyst,39400.0,0.0,2024-02-29,Peshawar,4.0,5.0,No,No,7,12,17,No,No
+E11462,Employee_1462,37.0,Female,Sales,Sales Executive,106100.0,10.5,2018-07-14,Lahore,4.0,,No,No,5,32,16,Yes,No
+E11485,Employee_1485,26.0,Male,Finance,Accountant,59400.0,2.2,2022-06-14,Peshawar,3.0,4.0,No,No,6,34,5,No,No
+E10109,Employee_109,38.0,Male,Sales,Account Executive,137900.0,11.9,2025-04-12,Multan,4.0,3.0,No,No,2,32,0,No,No
+E10030,Employee_30,36.0,Male,Finance,Finance Manager,152900.0,8.6,2018-07-22,Karachi,3.0,4.0,No,Yes,6,32,10,No,No
+E10182,Employee_182,27.0,Male,Customer Support,Support Manager,71700.0,2.7,2022-11-24,Multan,3.0,3.0,No,No,2,24,12,No,No
+E10622,Employee_622,33.0,Male,Finance,Finance Manager,110300.0,6.6,2019-11-07,Karachi,5.0,2.0,No,No,5,46,11,Yes,Yes
+E10635,Employee_635,21.0,Male,Operations,Operations Analyst,,0.0,2019-02-14,Multan,5.0,5.0,No,Yes,8,24,15,No,No
+E10105,Employee_105,39.0,Female, IT ,Data Analyst,125500.0,11.4,2022-04-07,Rawalpindi,3.0,4.0,No,No,2,37,18,No,No
+E10061,Employee_61,41.0,Male,Sales,Sales Manager,206700.0,13.4,2017-03-08,Peshawar,3.0,1.0,No,Yes,5,21,5,No,No
+E10659,Employee_659,43.0,Female,HR,Recruiter,132400.0,10.1,2018-05-12,Islamabad,1.0,3.0,No,No,4,43,15,No,No
+E11108,Employee_1108,31.0,Female,Sales,Account Executive,71700.0,6.3,2020-02-14,Lahore,4.0,3.0,No,Yes,5,13,10,Yes,No
+E10491,Employee_491,36.0,Male,Operations,Operations Analyst,108300.0,8.1,,Peshawar,3.0,5.0,Yes,Yes,7,11,14,No,No
+E10316,Employee_316,23.0,Female,Customer Support,Support Specialist,51400.0,0.5,2025-12-30,Peshawar,5.0,3.0,Yes,No,6,25,17,No,Yes
+E10382,Employee_382,47.0,Female,Customer Support,Support Specialist,144900.0,11.7,2022-08-16,Peshawar,4.0,3.0,No,Yes,8,38,4,No,No
+E10423,Employee_423,33.0,Male,Marketing,Marketing Specialist,113700.0,6.4,2021-02-22,Multan,4.0,1.0,Yes,No,6,19,14,Yes,No
+E11467,Employee_1467,31.0,Female,Operations,Operations Manager,107300.0,5.7,2017-03-20,Multan,4.0,3.0,Yes,Yes,0,26,4,No,No
+E10446,Employee_446,27.0,Female,Finance,Accountant,49900.0,2.5,2018-10-31,Karachi,4.0,3.0,No,No,8,35,12,No,No
+E10664,Employee_664,23.0,Male,Operations,Coordinator,49200.0,0.5,2022-01-26,Rawalpindi,3.0,5.0,No,No,6,17,22,No,No
+E11025,Employee_1025,21.0,Female,Operations,Coordinator,42300.0,0.0,2018-04-11,Peshawar,3.0,3.0,No,No,9,15,8,No,No
+E10780,Employee_780,31.0,Female,IT,IT Manager,83900.0,4.3,2021-10-25,Karachi,,1.0,No,No,2,36,14,Yes,No
+E10627,Employee_627,44.0,Male,Marketing,Marketing Specialist,106400.0,11.6,2022-04-27,Rawalpindi,4.0,2.0,No,No,5,32,13,Yes,No
+E11113,Employee_1113,35.0,Male,Sales,Sales Manager,130100.0,6.1,2019-12-13,Peshawar,3.0,5.0,No,No,3,27,11,No,No
+E11102,Employee_1102,24.0,Female,IT,IT Support Specialist,80700.0,0.9,2018-07-11,Lahore,5.0,1.0,No,No,4,33,0,No,No
+E10269,Employee_269,38.0,Male,Sales,Sales Executive,113600.0,8.7,2023-05-06,Rawalpindi,3.0,4.0,No,Yes,4,17,7,No,Yes
+E10930,Employee_930,38.0,Male,Customer Support,Support Specialist,115600.0,11.9,2022-11-04,Lahore,3.0,3.0,Yes,No,10,0,7,No,Yes
+E11148,Employee_1148,34.0,Female,Finance,Finance Manager,123700.0,5.8,2019-07-31,Karachi,4.0,2.0,No,No,6,14,13,No,No
+E11322,Employee_1322,41.0,Male,Sales,Sales Executive,,12.3,2023-10-23,Peshawar,3.0,5.0,No,No,4,35,6,No,No
+E11120,Employee_1120,32.0,Male,Sales,Sales Executive,78100.0,5.0,2020-02-09,Multan,3.0,3.0,No,Yes,5,31,15,No,No
+E10012,Employee_12,23.0,Female,Operations,Operations Analyst,61700.0,0.5,2019-09-03,Karachi,3.0,4.0,Yes,No,6,11,15,No,No
+E10115,Employee_115,41.0,Female,Sales,Sales Manager,132500.0,9.2,2017-07-26,Peshawar,4.0,4.0,No,Yes,4,37,10,No,No
+E10844,Employee_844,29.0,Female,Sales,Sales Executive,70700.0,4.5,2018-01-28,Islamabad,1.0,2.0,No,No,7,8,21,No,No
+E11453,Employee_1453,24.0,Female,Operations,Coordinator,71300.0,1.0,2019-02-03,Peshawar,5.0,4.0,Yes,No,3,23,10,No,No
+E11282,Employee_1282,29.0,Female,Operations,Operations Manager,103000.0,3.9,2021-07-15,Peshawar,3.0,1.0,No,No,7,13,17,No,No
+E10353,Employee_353,50.0,Female,Customer Support,Support Manager,180000.0,16.8,2021-10-10,Rawalpindi,3.0,4.0,No,Yes,7,29,9,No,No
+E11497,Employee_1497,43.0,Female,IT,Data Analyst,188400.0,15.5,2018-01-09,Karachi,3.0,4.0,No,No,4,33,12,No,Yes
+E10774,Employee_774,31.0,Male,Marketing,Content Strategist,45800.0,4.4,2020-11-11,Karachi,2.0,2.0,No,No,7,28,9,No,No
+E10691,Employee_691,39.0,Male,Sales,Sales Manager,170700.0,11.8,2020-11-09,Rawalpindi,2.0,5.0,No,Yes,7,21,17,No,No
+E10791,Employee_791,41.0,Male,Marketing,Content Strategist,158100.0,12.2,2017-11-28,Islamabad,4.0,3.0,Yes,No,2,25,10,Yes,No
+E10532,Employee_532,21.0,Female,Finance,Accountant,35000.0,0.0,2019-12-28,Peshawar,2.0,4.0,No,No,7,2,5,No,No
+E10868,Employee_868,30.0,Male,Finance,Accountant,83800.0,5.2,2017-03-04,Karachi,3.0,2.0,Yes,Yes,8,33,8,No,No
+E10170,Employee_170,27.0,Female,Operations,Coordinator,67900.0,3.5,2017-01-25,Multan,5.0,2.0,No,No,5,25,5,No,No
+E10240,Employee_240,33.0,Male,HR,Recruiter,109000.0,8.0,2017-05-18,Multan,4.0,2.0,No,Yes,3,23,6,No,No
+E11302,Employee_1302,38.0,female,Customer Support,Support Representative,136600.0,11.9,2024-07-29,Islamabad,3.0,4.0,No,Yes,5,11,17,No,No
+E11185,Employee_1185,51.0,Male,Sales,Sales Manager,163800.0,17.3,,Rawalpindi,4.0,4.0,Yes,No,5,29,12,No,No
+E10074,Employee_74,34.0,Female,Customer Support,Support Representative,127400.0,8.1,2024-07-12,Rawalpindi,3.0,3.0,No,No,3,36,20,No,No
+E11087,Employee_1087,,Female,IT,IT Support Specialist,133400.0,12.4,2017-06-10,Rawalpindi,2.0,3.0,No,No,4,1,11,No,No
+E10762,Employee_762,32.0,Male,Marketing,Marketing Specialist,93300.0,5.5,2022-08-13,Multan,2.0,4.0,No,No,5,31,12,No,No
+E10741,Employee_741,21.0,Male,Operations,Operations Analyst,50700.0,0.0,2023-06-06,Multan,4.0,4.0,Yes,No,4,12,6,No,No
+E10751,Employee_751,28.0,Male,IT,Data Analyst,35000.0,3.0,2021-11-23,Multan,5.0,4.0,No,Yes,7,18,11,No,No
+E10742,Employee_742,40.0,Male,IT,IT Support Specialist,163300.0,12.2,2019-01-19,Islamabad,3.0,4.0,No,No,1,26,9,No,Yes
+E10831,Employee_831,,Male,Sales,Sales Executive,118500.0,11.7,2017-11-23,Peshawar,5.0,5.0,No,No,6,41,14,Yes,No
+E10048,Employee_48,26.0,Male,Finance,Financial Analyst,68400.0,2.9,2017-04-24,Lahore,3.0,4.0,No,No,10,17,12,No,No
+E10763,Employee_763,32.0,Male,Customer Support,Support Manager,102700.0,6.3,2021-05-18,Peshawar,4.0,1.0,Yes,No,5,19,19,Yes,No
+E10592,Employee_592,30.0,Female,Customer Support,Support Representative,73000.0,5.3,2022-07-14,Multan,3.0,2.0,No,No,5,30,5,No,No
+E10808,Employee_808,35.0,Female,Marketing,Marketing Specialist,103300.0,8.4,2020-05-09,Karachi,5.0,3.0,No,No,3,22,8,No,No
+E11084,Employee_1084,33.0,Female,HR,HR Manager,94200.0,7.9,2025-02-22,Rawalpindi,4.0,5.0,No,No,8,22,18,Yes,No
+E10506,Employee_506,30.0,Male,Operations,Operations Analyst,121400.0,5.9,2021-03-27,Rawalpindi,5.0,5.0,No,No,6,4,10,No,No
+E11045,Employee_1045,50.0,Female,IT,Data Analyst,223300.0,19.1,2019-09-25,Karachi,3.0,3.0,No,Yes,3,9,17,No,No
+E11449,Employee_1449,26.0,Female,Sales,Sales Manager,62900.0,1.8,2024-08-07,Rawalpindi,4.0,2.0,No,Yes,3,15,10,No,No
+E10653,Employee_653,31.0,Female,Operations,Operations Manager,77000.0,4.5,2025-06-20,Rawalpindi,4.0,3.0,No,Yes,5,0,9,Yes,No
+E10193,Employee_193,32.0,Female,HR,HR Specialist,124900.0,7.4,2025-07-12,Lahore,3.0,4.0,No,No,6,30,18,No,No
+E11240,Employee_1240,31.0,Male,IT,Software Engineer,108200.0,4.4,2017-10-17,Karachi,3.0,2.0,No,Yes,5,25,11,No,No
+E10245,Employee_245,41.0,Male,HR,HR Specialist,147400.0,11.7,2022-03-07,Islamabad,2.0,4.0,No,Yes,8,24,19,No,No
+E11388,Employee_1388,33.0,Male,HR,Recruiter,79200.0,7.1,2025-02-23,Rawalpindi,3.0,3.0,Yes,Yes,7,19,7,No,No
+E10060,Employee_60,25.0,Male,Customer Support,Support Specialist,,1.7,2021-11-01,Lahore,3.0,3.0,Yes,No,0,0,5,No,No
+E11246,Employee_1246,43.0,Female,Operations,Operations Analyst,132000.0,11.3,2024-07-26,Rawalpindi,1.0,3.0,No,No,7,20,9,No,No
+E10177,Employee_177,37.0,Female,IT,Data Analyst,127100.0,9.3,2025-01-05,Rawalpindi,5.0,5.0,Yes,Yes,6,7,11,No,No
+E10450,Employee_450,36.0,Male,HR,HR Specialist,135700.0,7.6,2018-01-06,Islamabad,4.0,4.0,No,Yes,7,10,16,Yes,No
+E10056,Employee_56,45.0,Female,Sales,Sales Manager,170500.0,14.3,2018-05-17,Lahore,4.0,3.0,Yes,No,7,45,8,No,No
+E11279,Employee_1279,22.0,Male,HR,Recruiter,40600.0,0.0,2019-11-29,Rawalpindi,3.0,4.0,No,Yes,3,29,11,No,No
+E10920,Employee_920,39.0,Male,HR,Recruiter,92100.0,8.2,2018-06-01,Multan,3.0,3.0,No,Yes,2,38,16,No,No
+E11410,Employee_1410,34.0,Female,Sales,Sales Manager,83300.0,6.8,,Peshawar,4.0,5.0,No,No,2,13,17,Yes,No
+E11222,Employee_1222,44.0,Male,Operations,Coordinator,193900.0,15.9,2020-07-14,Islamabad,2.0,4.0,No,No,4,18,16,No,No
+E11093,Employee_1093,35.0,Female,Finance,Financial Analyst,122700.0,7.0,2021-11-26,Peshawar,3.0,3.0,No,Yes,5,39,15,No,No
+E11193,Employee_1193,41.0,Male,IT,Software Engineer,166200.0,10.3,2019-03-29,Rawalpindi,4.0,2.0,No,No,4,31,17,No,No
+E11210,Employee_1210,24.0,Female,Sales,Account Executive,51600.0,1.4,2018-09-06,Lahore,1.0,3.0,No,No,5,7,9,No,No
+E11060,Employee_1060,50.0,Female,Finance,Finance Manager,181000.0,14.6,2024-06-10,Multan,4.0,5.0,No,No,3,40,14,No,No
+E10642,Employee_642,39.0,Male,Finance,Financial Analyst,135800.0,10.0,2022-12-05,Multan,2.0,3.0,No,Yes,9,32,17,No,No
